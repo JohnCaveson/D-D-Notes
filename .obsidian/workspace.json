@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "587bf95470ee2bbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdb723b1b97c6f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47decc455d5cde52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crooked Moon/Threads of fate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Threads of fate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "743ef0811a76dbb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "558c21bdc6d70985",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48531691f908e69a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f0f259751ae994f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "798c0d0435646041",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba223d4662c72db0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce118435926e95c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd468542f20f03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crooked Moon/DM-SideScreen.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DM-SideScreen"
+            }
+          },
+          {
+            "id": "5fa6cd2b219eca47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OFF THE SPECTRAL RAILS!!!!"
+            }
+          },
+          {
+            "id": "e806a700423f1f33",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "606ed0aab78784d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from G3 - Lounge Car"
+            }
+          },
+          {
+            "id": "f7d4c262ec3569fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f2bb4b7f0212a36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of G3 - Lounge Car"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "daily-notes:Open today's daily note": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "command-palette:Open command palette": true,
+      "templates:Insert template": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "obsidian-5e-statblocks:Open Creature pane": true
+    }
+  },
+  "active": "47decc455d5cde52",
+  "lastOpenFiles": [
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
+    "3-Mechanics/CLI/skills.md",
+    "Crooked Moon/DM-SideScreen.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G1 - Passenger Car.md",
+    "3-Mechanics/CLI/bestiary/undead/specter.md",
+    "specter^statblock.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
+    "3-Mechanics/CLI/bestiary/aberration/aboleth.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
+    "Crooked Moon/First session - Ghostlight Express/Haints/Jailbird.md",
+    "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
+    "3-Mechanics/CLI/bestiary/npc/the-vagrant-crookedmoon24.md",
+    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/04-the-ghostlight-express.md",
+    "Crooked Moon/Assets/Art/NPCs/NPC_The_Sweetheart.png",
+    "Crooked Moon/First session - Ghostlight Express/Haints/Sweetheart.md",
+    "Crooked Moon/Creatures/Wayward Haint.md",
+    "3-Mechanics/CLI/bestiary/undead/wayward-haint-crookedmoon24.md",
+    "Crooked Moon/Assets/Maps/Battlemaps/Gridded/JPEG/G_10_2_Sleeper_Car_24x7.jpeg",
+    "3-Mechanics/CLI/bestiary/plant/img/violet-fungus-necrohulk.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/violet-fungus.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/vine-needle-and-tree-blights.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/vine-blight.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/twig-blight.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/treant.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/shrieker.webp",
+    "3-Mechanics/CLI/bestiary/plant/img/needle-blight.webp",
+    "3-Mechanics/CLI/bestiary/plant/woodwarped-crookedmoon24.md",
+    "3-Mechanics/CLI/bestiary/plant/violet-fungus.md",
+    "3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md",
+    "3-Mechanics/CLI/bestiary/plant/violet-fungus-necrohulk-xmm.md",
+    "3-Mechanics/CLI/bestiary/plant/vine-blight.md",
+    "3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md",
+    "3-Mechanics/CLI/bestiary/plant/twig-blight.md",
+    "3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md",
+    "3-Mechanics/CLI/bestiary/plant/tree-blight-xmm.md",
+    "3-Mechanics/CLI/bestiary/plant/img",
+    "3-Mechanics/CLI/bestiary/ooze/token",
+    "3-Mechanics/CLI/bestiary/ooze/img",
+    "3-Mechanics/CLI/bestiary/monstrosity/token",
+    "3-Mechanics/CLI/bestiary/monstrosity/img",
+    "3-Mechanics/CLI/bestiary/humanoid/token",
+    "3-Mechanics/CLI/bestiary/humanoid/img",
+    "3-Mechanics/CLI/bestiary/miscellaneous/token",
+    "3-Mechanics/CLI/bestiary/miscellaneous/img",
+    "3-Mechanics/CLI/bestiary/fiend/token",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,39 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/crookedmoon24
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/ranged
+aliases: 
+- "Blunderbuss of the Grinning Sinner (Legendary)"
+---
+# Blunderbuss of the Grinning Sinner (Legendary)
+*Weapon (musket), legendary (requires attunement)*  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Items/Blunderbuss%20of%20the%20Grinning%20Sinner.webp#right)
+
+- **Damage**: 1d12 necrotic
+- **Range**: 40/120
+- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Fabled Heirloom](/3-Mechanics/CLI/item-properties.md#Fabled%20Heirloom), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Weight**: 10.0 lbs.
+
+This dark, ornate blunderbuss has a brass barrel and a wooden handle etched with arcane symbols. It was the Grinning Sinner's weapon of choice, who imbued it with the power to shoot jinxes and hexes.
+
+The blunderbuss functions as a Musket that ignores [Loading](/3-Mechanics/CLI/item-properties.md#Loading), and it can make its own ammunition that deals Necrotic damage on a hit. You gain a +3 bonus to attack rolls and damage rolls made with it determined by the blunderbuss's rarity. While holding the blunderbuss, you can use the blunderbuss as a <span title="Player's Handbook (2024)">Spellcasting Focus</span> for your spells, and you can use the following properties.
+
+## Jinxshot (Rare+)
+
+When you take the Attack action on your turn, you can replace one of your attacks with a blast from the blunderbuss that forces each creature within a 30-foot <span title="Player's Handbook (2024)">Cone</span> to make a Dexterity saving throw (DC = 16 + the blunderbuss's bonus), taking `dice:2d4|noform|noparens|avg` (`2d4`) Necrotic damage (Rare) or `dice:3d6|noform|noparens|avg` (`3d6`) Necrotic damage (Very Rare+) on a failed save or half as much damage on a successful one.
+
+## Sinner's Jinx (Very Rare+)
+
+Once during your turn when you damage a creature with the blunderbuss, the target must succeed on a Charisma saving throw (DC = 16 + the blunderbuss's bonus) or be cursed for 1 minute. When it makes a <span title="Player's Handbook (2024)">D20 Test</span> while cursed, it subtracts `dice:1d4|noform|noparens|avg` (`1d4`) from the total. The curse ends if this property is used on another creature.
+
+## Luck Taker (Legendary)
+
+When a creature you can see within 60 feet of you that is cursed by this weapon makes a <span title="Player's Handbook (2024)">D20 Test</span> and rolls a 19 or 20 on the `dice:d20|noform|noparens|avg` (`d20`), you can take a <span title="Player's Handbook (2024)">Reaction</span> to mimic their luck. The next time you make a <span title="Player's Handbook (2024)">D20 Test</span> within 1 minute, change the number you roll on the `dice:d20|noform|noparens|avg` (`d20`) to the triggering number.
+
+*Source: The Crooked Moon (2024) p. 596*

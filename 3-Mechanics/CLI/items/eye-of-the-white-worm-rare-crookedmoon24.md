@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/crookedmoon24
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+aliases: 
+- "Eye of the White Worm (Rare)"
+---
+# Eye of the White Worm (Rare)
+*Wondrous item, rare (requires attunement)*  
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Items/Eye%20of%20the%20White%20Worm.webp#right)
+
+- **Properties**: [Fabled Heirloom](/3-Mechanics/CLI/item-properties.md#Fabled%20Heirloom)
+
+This fist-sized eyeball is cold and clammy to the touch. It is milky-white with purple veins, and its pupil constantly searches for something.
+
+While holding the eye, you can use it as a <span title="Player's Handbook (2024)">Spellcasting Focus</span> for your spells, you gain a +1 bonus to spell attack rolls and your spell save DC determined by the eye's rarity, and you can use the following properties.
+
+## Thought Scour (Rare+)
+
+You can cast Detect Thoughts (save DC = 16 + the eye's bonus) from the eye. When you probe deeper into a creature's mind, it takes `dice:3d8|noform|noparens|avg` (`3d8`) Psychic damage unless it is a willing target. Once this property is used, it can't be used again until the next dusk.
+
+*Source: The Crooked Moon (2024) p. 599*

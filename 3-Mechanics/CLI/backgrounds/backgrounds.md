@@ -1,0 +1,41 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Backgrounds
+
+- [Acolyte](./acolyte.md)
+- [Amnesiac](./amnesiac-crookedmoon24.md)
+- [Charlatan](./charlatan.md)
+- [Criminal (Spy) (Variant)](./criminal-spy-variant.md)
+- [Criminal](./criminal.md)
+- [Crimson Aspirant](./crimson-aspirant-crookedmoon24.md)
+- [Crossroads Gambler](./crossroads-gambler-crookedmoon24.md)
+- [Cultist](./cultist-crookedmoon24.md)
+- [Custom Background](./custom-background.md)
+- [Druskenvald Dweller](./druskenvald-dweller-crookedmoon24.md)
+- [Entertainer (Gladiator) (Variant)](./entertainer-gladiator-variant.md)
+- [Entertainer](./entertainer.md)
+- [Experiment](./experiment-crookedmoon24.md)
+- [Folk Hero](./folk-hero.md)
+- [Ghostlight Passenger](./ghostlight-passenger-crookedmoon24.md)
+- [Guild Artisan (Guild Merchant) (Variant)](./guild-artisan-guild-merchant-variant.md)
+- [Guild Artisan](./guild-artisan.md)
+- [Hermit](./hermit.md)
+- [Night Stalker](./night-stalker-crookedmoon24.md)
+- [Noble (Knight) (Variant)](./noble-knight-variant.md)
+- [Noble (Retainers) (Variant)](./noble-retainers-variant.md)
+- [Noble](./noble.md)
+- [Outlander](./outlander.md)
+- [Reflected Wanderer](./reflected-wanderer-crookedmoon24.md)
+- [Rest Warden](./rest-warden-crookedmoon24.md)
+- [Reveler](./reveler-crookedmoon24.md)
+- [Sage](./sage.md)
+- [Sailor (Pirate) (Variant)](./sailor-pirate-variant.md)
+- [Sailor](./sailor.md)
+- [Scholar of the Forbidden](./scholar-of-the-forbidden-crookedmoon24.md)
+- [Soldier](./soldier.md)
+- [Urchin](./urchin.md)
+- [Wicker Weaver](./wicker-weaver-crookedmoon24.md)
