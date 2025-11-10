@@ -1,0 +1,7 @@
+- Best friend, akin to a brother, to Gregora
+- Was apart of Wax's inner circle with Gregora
+- Worked as a member of Romula Minora
+	- Hired muscle
+- Differently affected by Sparktech than Gregora 
+	- Became a hermit monster because of the lack of being able to have interactions with people.
+- After "failing" the gamble with the previous shadow Harrow was put in place of the Shadow and is not allowed to reveal his identity to Gregora and must lead her to the outcome to free him.

@@ -2,9 +2,9 @@
 - Haley
 	-  the phonograph suddenly plays a new yet eerily familiar rendition of the prophetic song. This initiates another apocalyptic vision that ends with a scene of a porch with a group of masked nurses surrounding a stranger in a rocking chair, muttering the character's name.
 
----
-[[Sleeper Car]]
+	- Play the song from [[Crooked Moon/Threads of fate#^9475af|Threads of fate]]
 
+---
 ![[G_10_2_Sleeper_Car_24x7.jpeg]]
 ### Cabins
 Cabin One

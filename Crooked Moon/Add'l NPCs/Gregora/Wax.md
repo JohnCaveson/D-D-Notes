@@ -1,0 +1,5 @@
+- Notorious Gangster
+- **FILL THIS IN**
+	- Can be the name for the Wild Joker?
+- Dealing with Wax will allow Harrow a cathartic end to meet the Grey
+- Big Bad for Gregora
