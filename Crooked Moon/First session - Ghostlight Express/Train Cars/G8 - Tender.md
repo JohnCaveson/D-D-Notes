@@ -1,3 +1,5 @@
+For additional information go here: [[04-the-ghostlight-express#G8 Tender]]
+
 ![[04-the-ghostlight-express#^11f]]
 ![[G_10_8_Tender_24x7.jpeg]]
 - Can only be accessed once all 6 [[Wayward Haint]] are either freed, destroyed, or trapped in a Soul Can.
