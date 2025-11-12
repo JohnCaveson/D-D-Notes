@@ -143,28 +143,30 @@ To determine these randomly, you can use your own tarot deck, shuffling the 22 M
 
 `dice: [](03-running-the-adventure.md#^fated-tarot)`
 
-| dice: 1d20 | Card |
-|------------|------|
-| 1 | The Magician |
-| 2 | The High Priestess |
-| 3 | The Empress |
-| 4 | The Emperor |
-| 5 | The Hierophant |
-| 6 | The Lovers |
-| 7 | The Chariot |
-| 8 | Strength |
-| 9 | The Hermit |
-| 10 | Wheel of Fortune |
-| 11 | Justice |
-| 12 | The Hanged Man |
-| 13 | Death |
-| 14 | Temperance |
-| 15 | The Devil |
-| 16 | The Tower |
-| 17 | The Fool |
-| 18 | The Moon |
-| 19 | The Sun |
-| 20 | Judgement |
+| dice: 1d20 | Card                        |
+| ---------- | --------------------------- |
+| 0          | [[#^04d\| The Fool]]        |
+| 1          | [[#^04f\|The Magician]]     |
+| 2          | [[#^051\|The Priestess]]    |
+| 3          | [[#^053\|The Empress]]      |
+| 4          | [[#^055\|The Emperor]]      |
+| 5          | [[#^057\|The Hierophant]]   |
+| 6          | [[#^059\|The Lovers]]       |
+| 7          | [[#^05b\|The Chariot]]      |
+| 8          | [[#^05d\|Strength]]         |
+| 9          | [[#^05f\|The Hermit]]       |
+| 10         | [[#^061\|Wheel Of Fortune]] |
+| 11         | [[#^063\|Justice]]          |
+| 12         | [[#^065\|The Hanged Man]]   |
+| 13         | [[#^067\|Death]]            |
+| 14         | [[#^069\|Temperance]]       |
+| 15         | [[#^06b\|The Devil]]        |
+| 16         | [[#^06d\|The Tower]]        |
+| 17         | [[#^06f\|The Star]]         |
+| 18         | [[#^071\|The Moon]]         |
+| 19         | [[#^073\|The Sun]]          |
+| 20         | [[#^075\|Judgement]]        |
+| 21         | [[#^077\|The World]]        |
 ^fated-tarot
 
 ### Major Arcana

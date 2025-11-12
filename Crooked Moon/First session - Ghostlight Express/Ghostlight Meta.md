@@ -7,6 +7,9 @@
 - [[phillip-druskenvald-crookedmoon24|Phillip Druskenvald]]
 - [[adela-druskenvald-crookedmoon24|Adela Druskenvald]]
 
+# All Aboard
+[[04-the-ghostlight-express#All Aboard|All Aboard]]
+
 ## Switcheroo
 
 | 1d6 | Destination                   |

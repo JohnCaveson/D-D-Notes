@@ -1,6 +1,11 @@
 This car is where Philip and Adela Druskenvald are when the adventurers find them. 
+
+![[04-the-ghostlight-express#^103]]
+
+
+![[04-the-ghostlight-express#^105]]
 ### Tarot Time!!
- - Page 151 for card descriptions
+ - ![[03-running-the-adventure#^fated-tarot]]
  - Adela administers the Tarot readings to any willing players
 	 - She is gregarious and does most of the talking; eager to trade stories and talent.
 	 - Adela and Philip have a Morticia and Gomez vibe

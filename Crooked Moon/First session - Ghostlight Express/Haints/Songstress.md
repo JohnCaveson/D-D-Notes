@@ -8,7 +8,8 @@
 ```ad-tip
 title: Resolutions
 - Bringing her the phonograph from [[G2 - Sleeper Car]] and turning it on inspires her to sing the perfect final song.
-	- She stands at the center of the lounge and croons a love song that spurs Phillip and Adela to embrace and slowly dance to the performance.
+- She stands at the center of the lounge and croons a love song that spurs Phillip and Adela to embrace and slowly dance to the performance.
+![[04-the-ghostlight-express#^10a]]
 --- 
 **All checks made against a resolution start at DC 12 and increases by 2 per 
 failure**

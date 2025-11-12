@@ -1,3 +1,4 @@
+![[04-the-ghostlight-express#^0ff]]
 ### Threads of Fate
 - Haley
 	-  the phonograph suddenly plays a new yet eerily familiar rendition of the prophetic song. This initiates another apocalyptic vision that ends with a scene of a porch with a group of masked nurses surrounding a stranger in a rocking chair, muttering the character's name.

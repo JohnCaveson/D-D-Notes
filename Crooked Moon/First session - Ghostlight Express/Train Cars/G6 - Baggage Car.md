@@ -1,3 +1,4 @@
+![[04-the-ghostlight-express#^114]]
 ### Threads of Fate
 - Josh
 	- A discarded medical bag that once belonged to the researcher can be found. Among several empty medicine vials, a few crumpled notes reveal they were losing a battle with an ailment after the "enemies of progress" destroyed their lab. The only option left was to seek experimental medicine at an "unorthodox hospital."

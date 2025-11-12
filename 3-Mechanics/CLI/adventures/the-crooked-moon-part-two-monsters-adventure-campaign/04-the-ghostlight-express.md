@@ -780,6 +780,8 @@ The Vagrant offers a rueful smile and a wave of his hat before being swept away 
 
 ### Fated Tarot Reading
 
+^d3f40f
+
 If The Fool was pulled during the "Fated Tarot Reading", the [Whistle of the Vagrant](/3-Mechanics/CLI/items/whistle-of-the-vagrant-crookedmoon24.md) remains behind, lying in the muddied grass.
 
 ### A Most Sincere Thanks

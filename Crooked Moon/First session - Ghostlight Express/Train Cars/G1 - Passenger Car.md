@@ -1,5 +1,5 @@
-Vagrant introductions!
-
+![[04-the-ghostlight-express#^0f6]]
+ Vagrant introductions!
 ```ad-note
 title:  Relevant Information from Vagrant
 collapse: open
@@ -21,10 +21,8 @@ collapse: open
 - On a 15 initial pass of the passenger car the character notices a distinctively shadowy figure who's head has a strange tilt to the side.
 
 ---
-### The phantom strikes!
-- On inspection, hostility, attempt to leave the passenger car, or a lull in the conversation
-	- Read 176 in crooked moon
-	- combat is [[specter#^statblock|Specter]] and [[shadow#^statblock|Shadow]] (279 and 269 in Monster Manual)
+### The Phantom Strikes
+ ![[04-the-ghostlight-express#The Phantom Strikes]]
 
 ### Lingering Curse
 - After the battle, a character who makes a [[skills#Perception|Perception]] (Wisdom) of 13 notices wisps of ghastly blue-green mist shot through with black root-like veins lingering in the air

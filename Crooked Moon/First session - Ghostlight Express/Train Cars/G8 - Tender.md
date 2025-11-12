@@ -1,3 +1,4 @@
+![[04-the-ghostlight-express#^11f]]
 ![[G_10_8_Tender_24x7.jpeg]]
 - Can only be accessed once all 6 [[Wayward Haint]] are either freed, destroyed, or trapped in a Soul Can.
 - Once the door is opened the [[G1 - Passenger Car#Lingering Curse|Lingering Curse]] causing a Blazing Battle to ensue.

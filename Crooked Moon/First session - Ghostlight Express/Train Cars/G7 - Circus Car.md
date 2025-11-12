@@ -1,3 +1,4 @@
+![[04-the-ghostlight-express#^11a]]
 ### Cages
 - The cages here are empty, each secured with a Lock, for which a ring of keys hangs on a hook on the wall.
 
