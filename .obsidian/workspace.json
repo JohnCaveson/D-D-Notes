@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc115f07f30af4b",
+        "id": "a9a17414431a5047",
         "type": "tabs",
         "children": [
           {
-            "id": "374c8f7389bf80a1",
+            "id": "fdae75b49c9d46f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crooked Moon/First session - Ghostlight Express/Haints/Songstress.md",
-                "mode": "source",
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Songstress"
+              "title": "G2 - Sleeper Car"
             }
           }
         ]
@@ -85,11 +85,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bac2fd06d519ea1d",
+        "id": "ce118435926e95c2",
         "type": "tabs",
         "children": [
           {
-            "id": "fdae75b49c9d46f7",
+            "id": "b98a4f8945996441",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,12 +103,12 @@
             }
           },
           {
-            "id": "c327f446942153e2",
+            "id": "5fa6cd2b219eca47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crooked Moon/First session - Ghostlight Express/Haints/Songstress.md",
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +118,35 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Songstress"
+              "title": "Backlinks for G3 - Lounge Car"
             }
           },
           {
-            "id": "40d2f35e928daf27",
+            "id": "e806a700423f1f33",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "606ed0aab78784d1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Crooked Moon/First session - Ghostlight Express/Haints/Songstress.md",
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Songstress"
+              "title": "Outgoing links from G3 - Lounge Car"
             }
           },
           {
-            "id": "0e0e752eb56f56cf",
+            "id": "f7d4c262ec3569fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,35 +161,26 @@
             }
           },
           {
-            "id": "6ce37e761779ef31",
+            "id": "0f2bb4b7f0212a36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Crooked Moon/Threads of fate.md",
+                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Threads of fate"
-            }
-          },
-          {
-            "id": "da9a79edfc3e56bb",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "title": "Outline of G3 - Lounge Car"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,37 +195,37 @@
       "obsidian-5e-statblocks:Open Creature pane": true
     }
   },
-  "active": "374c8f7389bf80a1",
+  "active": "fdae75b49c9d46f7",
   "lastOpenFiles": [
-    "Crooked Moon/First session - Ghostlight Express/Haints/Daydreamer.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/04-the-ghostlight-express.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G8 - Tender.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G7 - Circus Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G6 - Baggage Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G5 - Mail Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G1 - Passenger Car.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Haints/Songstress.md",
     "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
-    "04.md",
-    "Crooked Moon/Threads of fate.md",
     "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
-    "3-Mechanics/CLI/decks/crooked-moon-major-arcana-tarot-crookedmoon24.md",
+    "Crooked Moon/Threads of fate.md",
+    "Crooked Moon/First session - Ghostlight Express/Haints/Sweetheart.md",
+    "Crooked Moon/Frank NPC.md",
+    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/04-the-ghostlight-express.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
     "3-Mechanics/DM-SideScreen.md",
-    "3-Mechanics/CLI/bestiary/undead/shadow.md",
-    "3-Mechanics/CLI/bestiary/undead/specter.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/02-the-crooked-moon.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/01-introduction-a-dreadful-folktale.md",
+    "0. Scratch Notes.md",
     "Crooked Moon/Creatures/Wayward Haint.md",
-    "3-Mechanics/CLI/tables/saving-throws-proficiency-bonus-by-challenge-rating-mm.md",
-    "3-Mechanics/CLI/tables/saving-throws.md",
-    "3-Mechanics/CLI/variant-rules/saving-throw-xphb.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G7 - Circus Car.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G8 - Tender.md",
+    "Crooked Moon/Add'l Items/Potions/Haint Hooch.md",
+    "3-Mechanics/CLI/skills.md",
+    "Crooked Moon/Add'l NPCs/Gregora/Harrow.md",
+    "Crooked Moon/Add'l NPCs/Gregora/Wax.md",
+    "Crooked Moon/0. Scratch Notes.md",
+    "Crooked Moon/DM-SideScreen.md",
+    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/02-druskenvald.md",
     "Crooked Moon/Add'l NPCs/Gregora",
     "Crooked Moon/Add'l NPCs",
+    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/01-introduction-a-dreadful-folktale.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2014/02-a-world-of-your-own.md",
     "Crooked Moon/Assets/Reference Cards/CM_Cards_Familiars.pdf",
+    "3-Mechanics/CLI/bestiary/undead/specter.md",
     "Crooked Moon/Assets/Art/NPCs/NPC_The_Sweetheart.png",
     "Crooked Moon/Assets/Maps/Battlemaps/Gridded/JPEG/G_10_2_Sleeper_Car_24x7.jpeg",
     "3-Mechanics/CLI/bestiary/plant/img/violet-fungus-necrohulk.webp",
