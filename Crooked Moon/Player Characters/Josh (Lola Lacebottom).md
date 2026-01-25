@@ -1,11 +1,18 @@
 ### Thread of Fate
 [[thread-of-evolution-crookedmoon24|Thread of Evolution]]
 ![[Pasted image 20251008235729.png]]
-#### Touchpoints:
-1. 
+#### Touchpoints
+- [x] Incitement - 182
+- [ ] Connection - 204
+	- [ ] Needs to make connection with [[thomasin-ardor-crookedmoon24|Thomasin Ardor]] recognizing the results of the experiments done on Lola
+	- Thomasin relates to Lola being a "child of experimentation" herself, her curiosity of how new and advanced techniques and materials can be used to improve quality of life is unbound.
+- [ ] Discovery - 334
+- [ ] Confrontation - 423
+- [ ] Climax - 463
+- [ ] Catharsis - 465
 ### Impactful Events
 
-- 
+- **Drew [[03-running-the-adventure#^71409a|Judgement]]**
 ---
 
 

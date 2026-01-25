@@ -230,6 +230,8 @@ If *The Emperor* is pulled, the [Blunderbuss of the Grinning Sinner](/3-Mechanic
 
 #### V - The Hierophant
 
+^0e1d8a
+
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/028-02-011.the-hierophant.webp#center)
 
 > [!readaloud] 
@@ -307,6 +309,8 @@ If *Justice* is pulled, the [Shield of Marius Renathyr](/3-Mechanics/CLI/items/s
 
 #### XII - The Hanged Man
 
+^520a38
+
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/035-02-018.the-hanged-man.webp#center)
 
 > [!readaloud] 
@@ -317,6 +321,8 @@ If *Justice* is pulled, the [Shield of Marius Renathyr](/3-Mechanics/CLI/items/s
 If *The Hanged Man* is pulled, the [Banjo of Ol' Jericho Sticks](/3-Mechanics/CLI/items/banjo-of-ol-jericho-sticks-crookedmoon24.md) is found in the basement of the windmill in Foxwillow.
 
 #### XIII - Death
+
+^7b78f9
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/036-02-019.death.webp#center)
 
@@ -339,6 +345,8 @@ If *Death* is pulled, the [Idol of the Beast of Blight](/3-Mechanics/CLI/items/i
 If *Temperance* is pulled, the [Veil of the Weeping Widow](/3-Mechanics/CLI/items/veil-of-the-weeping-widow-crookedmoon24.md) remains over Matron Lethica's face after the defeat of [The Weeping Widow](/3-Mechanics/CLI/bestiary/npc/the-weeping-widow-crookedmoon24.md).
 
 #### XV - The Devil
+
+^87cdf6
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/038-02-021.the-devil.webp#center)
 
@@ -394,6 +402,8 @@ If *The Moon* is pulled, the character this card was pulled for receives three T
 If *The Sun* is pulled, the character this card was pulled for increases one ability score of their choice by 2 after defeating [Golub Graygullet](/3-Mechanics/CLI/bestiary/npc/golub-graygullet-crookedmoon24.md) in the Roving Rookery. This increase can't raise a score above 24.
 
 #### XX - Judgement
+
+^71409a
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/043-02-026.judgement.webp#center)
 

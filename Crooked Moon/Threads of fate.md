@@ -18,15 +18,10 @@
 
 ^9475af
 
-- https://www.youtube.com/watch?v=B9FzVhw8_bY
-
-- Thread: https://docs.google.com/document/d/15N-7_p6r6tMiw3gCJa9mnyiYtL0_y5ah/edit?usp=drive_web&ouid=113965614219874719300&rtpof=true
-- **To be The Crooked Queen's consort in the final reveal**
-	- After Philip Druskenvald came to the realm and set Kehlenn's destiny off the rails Xeno somehow was caught on the bad end of the Fey Queen's wrath causing him to lose his memories and start fresh
 
 # Andrew - Slaughter
-![[Pasted image 20251008235854.png]]
-- village was destroyed; pet is a sea otter
+
+- 
 
 # Tina - Liberation
 ![[Pasted image 20251009000007.png]]

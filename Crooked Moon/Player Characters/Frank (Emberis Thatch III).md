@@ -1,10 +1,18 @@
 ### Thread of Fate
 [[thread-of-rapture-crookedmoon24|Thread of Rapture]]
 ![[Pasted image 20251008235649.png]]
-#### Touchpoints:
-1. 
+
+#### Touchpoints
+- [ ] Incitement - 225
+- [ ] Connection - 205
+	- [ ] Next interaction with [[weston-murdoch-crookedmoon24|Weston Murdoch]]: recognizes Emb as a missionary; While he encourages him to worship [[02-the-crooked-moon#^38afbd|The Brightsinger]], he simply appreciates "new godliness" coming to Wickermoor Hollow
+- [ ] Discovery - 281
+- [ ] Confrontation - 389
+- [ ] Climax - 463
+- [ ] Catharsis - 465
 ### Impactful events
 
+- **Drew [[03-running-the-adventure#^0e1d8a|The Hierophant]]**
 - Is distributing pamphlets for his family cult
 
 ---

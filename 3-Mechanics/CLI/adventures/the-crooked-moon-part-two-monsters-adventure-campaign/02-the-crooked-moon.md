@@ -273,6 +273,8 @@ The members of the Fold of the Patient Lady wear symbols that represent the beau
 
 #### The Brightsingers
 
+^38afbd
+
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/CrookedMoon24/Adventure/017-01-014.brightsingers.webp#center)
 
 Only a small handful of people in Wickermoor Hollow are among the faithful that call themselves the Brightsingers. This new monotheistic sect believes in one true divine power that brings light to the land of darkness. They hold that their omnipresent and omniscient god, the Brightsinger, is the only path to goodness and prosperity, holding that the realms of nature and spirit in Druskenvald are inherently wicked and corrupted.
