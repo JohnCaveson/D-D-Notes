@@ -23,5 +23,9 @@
 
 ---
 
-1. Sleeper
-2. Lounge
+1. Sleeper [/]
+2. Lounge [/]
+3. Baggage [/]
+4. Mail [/]
+5. Dining [/]
+6. Circus 

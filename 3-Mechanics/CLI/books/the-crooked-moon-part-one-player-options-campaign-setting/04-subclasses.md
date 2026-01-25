@@ -22,23 +22,23 @@ This chapter presents Folk Horror subclasses for each of the 12 core classes, we
 
 **Folk Horror Subclasses**
 
-| Class | Subclass | Description |
-|-------|----------|-------------|
-| Barbarian | Path of the Experiment<sup>'14</sup> | Unleash strange modifications to the body |
-| Bard | College of Whistles<sup>'14</sup> | Whistle up ghostly companions |
-| Cleric | Harvest Domain<sup>'14</sup> | Channel the divine through harvest cycles |
-| Druid | Circle of the Old Ways<sup>'14</sup> | Unleash the primeval forest's power |
-| Druid | Circle of Wicker<sup>'14</sup> | Weave primal magic through wicker effigies |
-| Fighter | Barrow Guard<sup>'14</sup> | Command prowess from beyond the grave |
-| Monk | Warrior of the Pestilent Haze<sup>'14</sup> | Harness plague against your foes |
-| Paladin | Oath of Castigation<sup>'14</sup> | Burn away wickedness with righteous fire |
-| Ranger | Grim Harbinger<sup>'14</sup> | Mark foes with a hound of doom |
-| Rogue | Sinner<sup>'14</sup> | Bend fate and hex foes through jinxcraft |
-| Sorcerer | Crimson Sorcery<sup>'14</sup> | Manipulate blood and vitality of allies and enemies |
-| Warlock | Great Fool Patron<sup>'14</sup> | Harness chaotic laughter to confound foes |
-| Warlock | Horned King Patron<sup>'14</sup> | Practice witchcraft to deliver curses and boons |
-| Wizard | Occultist<sup>'14</sup> | Draw power from forbidden knowledge |
-| Wizard | Philosopher<sup>'14</sup> | Master fundamental truths of creation through alchemy |
+| Class     | Subclass                                    | Description                                           |
+| --------- | ------------------------------------------- | ----------------------------------------------------- |
+| Barbarian | Path of the Experiment<sup>'14</sup>        | Unleash strange modifications to the body             |
+| Bard      | College of Whistles<sup>'14</sup>           | Whistle up ghostly companions                         |
+| Cleric    | Harvest Domain<sup>'14</sup>                | Channel the divine through harvest cycles             |
+| Druid     | Circle of the Old Ways<sup>'14</sup>        | Unleash the primeval forest's power                   |
+| Druid     | Circle of Wicker<sup>'14</sup>              | Weave primal magic through wicker effigies            |
+| Fighter   | Barrow Guard<sup>'14</sup>                  | Command prowess from beyond the grave                 |
+| Monk      | Warrior of the Pestilent Haze<sup>'14</sup> | Harness plague against your foes                      |
+| Paladin   | Oath of Castigation<sup>'14</sup>           | Burn away wickedness with righteous fire              |
+| Ranger    | Grim Harbinger<sup>'14</sup>                | Mark foes with a hound of doom                        |
+| Rogue     | Sinner<sup>'14</sup>                        | Bend fate and hex foes through jinxcraft              |
+| Sorcerer  | Crimson Sorcery<sup>'14</sup>               | Manipulate blood and vitality of allies and enemies   |
+| Warlock   | Great Fool Patron<sup>'14</sup>             | Harness chaotic laughter to confound foes             |
+| Warlock   | Horned King Patron<sup>'14</sup>            | Practice witchcraft to deliver curses and boons       |
+| Wizard    | Occultist<sup>'14</sup>                     | Draw power from forbidden knowledge                   |
+| Wizard    | Philosopher<sup>'14</sup>                   | Master fundamental truths of creation through alchemy |
 ^folk-horror-subclasses
 
 > [!gallery]

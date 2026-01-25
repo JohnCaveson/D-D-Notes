@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
-                "mode": "preview",
+                "file": "Crooked Moon/Player Characters/Haley.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "G2 - Sleeper Car"
+              "title": "Haley"
             }
           }
         ]
@@ -197,35 +197,36 @@
   },
   "active": "fdae75b49c9d46f7",
   "lastOpenFiles": [
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G1 - Passenger Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
-    "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
     "Crooked Moon/Threads of fate.md",
+    "Crooked Moon/Player Characters/Haley.md",
+    "Crooked Moon/Player Characters/Josh.md",
+    "Crooked Moon/Player Characters/Frank.md",
+    "Templates/Character Information.md",
+    "Templates/Threads of Fate.md",
+    "Crooked Moon/Player Characters/Andrew.md",
+    "Crooked Moon/Player Characters/Tina.md",
+    "Crooked Moon/Player Characters",
+    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/04-subclasses.md",
+    "Crooked Moon/Creatures/Soulfire Stoker.md",
+    "Crooked Moon/Creatures/Wayward Haint.md",
+    "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
+    "Crooked Moon/Creatures/Wildpyre.md",
+    "One-Shot/Summary.md",
+    "0. Scratch Notes.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G1 - Passenger Car.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G2 - Sleeper Car.md",
+    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
+    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
     "Crooked Moon/First session - Ghostlight Express/Haints/Sweetheart.md",
     "Crooked Moon/Frank NPC.md",
     "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/04-the-ghostlight-express.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
     "3-Mechanics/DM-SideScreen.md",
-    "0. Scratch Notes.md",
-    "Crooked Moon/Creatures/Wayward Haint.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G7 - Circus Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G8 - Tender.md",
-    "Crooked Moon/Add'l Items/Potions/Haint Hooch.md",
-    "3-Mechanics/CLI/skills.md",
-    "Crooked Moon/Add'l NPCs/Gregora/Harrow.md",
-    "Crooked Moon/Add'l NPCs/Gregora/Wax.md",
-    "Crooked Moon/0. Scratch Notes.md",
-    "Crooked Moon/DM-SideScreen.md",
-    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/02-druskenvald.md",
     "Crooked Moon/Add'l NPCs/Gregora",
     "Crooked Moon/Add'l NPCs",
-    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/01-introduction-a-dreadful-folktale.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2014/02-a-world-of-your-own.md",
     "Crooked Moon/Assets/Reference Cards/CM_Cards_Familiars.pdf",
-    "3-Mechanics/CLI/bestiary/undead/specter.md",
     "Crooked Moon/Assets/Art/NPCs/NPC_The_Sweetheart.png",
     "Crooked Moon/Assets/Maps/Battlemaps/Gridded/JPEG/G_10_2_Sleeper_Car_24x7.jpeg",
     "3-Mechanics/CLI/bestiary/plant/img/violet-fungus-necrohulk.webp",
@@ -242,7 +243,6 @@
     "3-Mechanics/CLI/bestiary/monstrosity/token",
     "3-Mechanics/CLI/bestiary/monstrosity/img",
     "3-Mechanics/CLI/bestiary/humanoid/token",
-    "3-Mechanics/CLI/bestiary/humanoid/img",
     "Untitled.canvas"
   ]
 }
