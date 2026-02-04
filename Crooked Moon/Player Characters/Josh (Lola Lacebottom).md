@@ -5,7 +5,7 @@
 - [x] Incitement - 182
 - [ ] Connection - 204
 	- [ ] Needs to make connection with [[thomasin-ardor-crookedmoon24|Thomasin Ardor]] recognizing the results of the experiments done on Lola
-	- Thomasin relates to Lola being a "child of experimentation" herself, her curiosity of how new and advanced techniques and materials can be used to improve quality of life is unbound.
+		- Thomasin relates to Lola being a "child of experimentation" herself, her curiosity of how new and advanced techniques and materials can be used to improve quality of life is unbound.
 - [ ] Discovery - 334
 - [ ] Confrontation - 423
 - [ ] Climax - 463

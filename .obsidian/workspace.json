@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crooked Moon/Player Characters/Andrew (Balephon).md",
+                "file": "0. Scratch Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andrew (Balephon)"
+              "title": "0. Scratch Notes"
+            }
+          },
+          {
+            "id": "7558db48bb95f5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Mechanics/CLI/bestiary/beast/weasel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weasel"
             }
           }
         ]
@@ -196,15 +210,17 @@
   },
   "active": "e470cfa827df0a60",
   "lastOpenFiles": [
-    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/02-the-crooked-moon.md",
-    "Crooked Moon/Player Characters/Tina (Hargo (Gregora)).md",
-    "Crooked Moon/Player Characters/Josh (Lola Lacebottom).md",
-    "Crooked Moon/Player Characters/Haley (Xenophon).md",
-    "Templates/Touchpoints.md",
-    "Crooked Moon/Player Characters/Andrew (Balephon).md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
+    "3-Mechanics/CLI/bestiary/beast/weasel.md",
+    "0. Scratch Notes.md",
     "Crooked Moon/Threads of fate.md",
+    "Crooked Moon/Player Characters/Haley (Xenophon).md",
+    "Crooked Moon/Player Characters/Josh (Lola Lacebottom).md",
+    "Crooked Moon/Player Characters/Tina (Hargo (Gregora)).md",
+    "Crooked Moon/Player Characters/Andrew (Balephon).md",
+    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
+    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
+    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/02-the-crooked-moon.md",
+    "Templates/Touchpoints.md",
     "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/02-druskenvald.md",
     "3-Mechanics/CLI/rewards/thread-of-slaughter-crookedmoon24.md",
     "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
@@ -221,8 +237,6 @@
     "Crooked Moon/First session - Ghostlight Express/Haints/Daydreamer.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
     "Crooked Moon/First session - Ghostlight Express/Train Cars/G8 - Tender.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G7 - Circus Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/OFF THE SPECTRAL RAILS!!!!.md",
     "Crooked Moon/Add'l NPCs/Gregora",
     "Crooked Moon/Add'l NPCs",
     "Crooked Moon/Assets/Reference Cards/CM_Cards_Familiars.pdf",
