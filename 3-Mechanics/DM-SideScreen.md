@@ -111,7 +111,7 @@
 > [[10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
 
 > [!info]- Weapons and Armor
-> [[weapons|Weapons]]
+> [[Weapons|Weapons]]
 > [[armor-and-shields-armor|Armor and Shields]]
 
 > [!info]- Magic Schools

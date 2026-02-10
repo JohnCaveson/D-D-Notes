@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc115f07f30af4b",
+        "id": "e505b42b34f52a84",
         "type": "tabs",
         "children": [
           {
-            "id": "e470cfa827df0a60",
+            "id": "42195aa54a70849f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Scratch Notes.md",
+                "file": "website/NPCs/Wendel Somerton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Scratch Notes"
-            }
-          },
-          {
-            "id": "7558db48bb95f5b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Mechanics/CLI/bestiary/beast/weasel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "weasel"
+              "title": "Wendel Somerton"
             }
           }
         ]
@@ -193,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,57 +191,58 @@
       "command-palette:Open command palette": true,
       "templates:Insert template": true,
       "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "obsidian-5e-statblocks:Open Creature pane": true
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "e470cfa827df0a60",
+  "active": "42195aa54a70849f",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/bestiary/beast/weasel.md",
-    "0. Scratch Notes.md",
-    "Crooked Moon/Threads of fate.md",
-    "Crooked Moon/Player Characters/Haley (Xenophon).md",
-    "Crooked Moon/Player Characters/Josh (Lola Lacebottom).md",
-    "Crooked Moon/Player Characters/Tina (Hargo (Gregora)).md",
-    "Crooked Moon/Player Characters/Andrew (Balephon).md",
-    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/03-running-the-adventure.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/02-the-crooked-moon.md",
-    "Templates/Touchpoints.md",
-    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/02-druskenvald.md",
-    "3-Mechanics/CLI/rewards/thread-of-slaughter-crookedmoon24.md",
-    "Crooked Moon/First session - Ghostlight Express/Ghostlight Meta.md",
-    "Templates/Character Information.md",
-    "Crooked Moon/Player Characters",
-    "3-Mechanics/CLI/rewards/thread-of-rapture-crookedmoon24.md",
-    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/05-backgrounds.md",
-    "3-Mechanics/CLI/books/the-crooked-moon-part-one-player-options-campaign-setting/06-feats.md",
-    "3-Mechanics/CLI/adventures/the-crooked-moon-part-two-monsters-adventure-campaign/04-the-ghostlight-express.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G3 - Lounge Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G1 - Passenger Car.md",
+    "website/NPCs/Thomasin Ardor.md",
+    "website/NPCs/Wendel Somerton.md",
+    "website/NPCs/Weston Murdoch.md",
+    "website/NPCs/Old Rusty.md",
+    "website/NPCs/Alda Farnum.md",
+    "website/NPCs/Jean Myriel.md",
+    "website/NPCs/Morgan.md",
+    "website/NPCs/The Druskenvalds.md",
+    "website/config.json",
+    "website/New Text Document.txt",
+    "website/config.json.md",
+    "Crooked Moon/Assets/Art/NPCs/NPC_Adela_Druskenvald.png",
+    "website/assets/NPC_Old_Rusty.jpg",
+    "website/assets/NPC_Thomasin_Ardor.jpg",
+    "website/assets/NPC_Mayor_Wendel_Somerton.jpg",
+    "website/assets/NPC_Weston_Murdoch.jpg",
+    "website/assets/NPC_Morgan.jpg",
+    "website/assets/NPC_Jean_Myriel.jpg",
+    "website/assets/NPC_Alda_Farnum.jpg",
+    "website/assets/NPC_Old_Rusty.png",
+    "website/assets/NPC_Thomasin_Ardor.png",
+    "website/assets",
+    "3-Mechanics/CLI/bestiary/npc/phillip-druskenvald-crookedmoon24.md",
+    "3-Mechanics/CLI/bestiary/npc/phillip-druskenvald-crookedmoon24 1.md",
     "3-Mechanics/DM-SideScreen.md",
-    "Crooked Moon/First session - Ghostlight Express/Haints/Songstress.md",
-    "Crooked Moon/First session - Ghostlight Express/Haints/Daydreamer.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G4 - Dining Car.md",
-    "Crooked Moon/First session - Ghostlight Express/Train Cars/G8 - Tender.md",
+    "website/NPCs",
+    "website",
+    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
+    "Crooked Moon/Player Characters/Andrew (Balephon).md",
+    "Campaign Notes/Class information.md",
+    "3-Mechanics/CLI/tables/classes-phb.md",
+    "3-Mechanics/CLI/classes/barbarian.md",
+    "3-Mechanics/CLI/classes/ranger.md",
+    "Recaps/Class information.md",
+    "Campaign Notes",
+    "Recaps/Weapons.md",
+    "Recaps/Stuff",
+    "3-Mechanics/CLI/bestiary/beast/weasel.md",
+    "3-Mechanics/CLI/classes/barbarian-xphb.md",
+    "0. Scratch Notes.md",
+    "Recaps",
+    "Untitled.md",
+    "3-Mechanics/CLI/bestiary/npc/filthy-jasper-crookedmoon24.md",
+    "Crooked Moon/Threads of fate.md",
+    "Crooked Moon/Player Characters",
     "Crooked Moon/Add'l NPCs/Gregora",
-    "Crooked Moon/Add'l NPCs",
-    "Crooked Moon/Assets/Reference Cards/CM_Cards_Familiars.pdf",
-    "Crooked Moon/Assets/Art/NPCs/NPC_The_Sweetheart.png",
-    "Crooked Moon/Assets/Maps/Battlemaps/Gridded/JPEG/G_10_2_Sleeper_Car_24x7.jpeg",
-    "3-Mechanics/CLI/bestiary/plant/img/violet-fungus-necrohulk.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/violet-fungus.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/vine-needle-and-tree-blights.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/vine-blight.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/twig-blight.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/treant.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/shrieker.webp",
-    "3-Mechanics/CLI/bestiary/plant/img/needle-blight.webp",
-    "3-Mechanics/CLI/bestiary/plant/img",
-    "3-Mechanics/CLI/bestiary/ooze/token",
-    "3-Mechanics/CLI/bestiary/ooze/img",
-    "3-Mechanics/CLI/bestiary/monstrosity/token",
-    "3-Mechanics/CLI/bestiary/monstrosity/img",
-    "3-Mechanics/CLI/bestiary/humanoid/token",
     "Untitled.canvas"
   ]
 }

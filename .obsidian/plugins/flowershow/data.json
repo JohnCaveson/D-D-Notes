@@ -1,0 +1,9 @@
+{
+  "flowershowToken": "fs_pat_RuNt4S_GaL-iAMzRTRMemXTV2fMmzz4eIdABWIYFxf8",
+  "siteName": "supplemental-information",
+  "rootDir": "website",
+  "excludePatterns": [
+    "\\.excalidraw(\\.(md|excalidraw))?$"
+  ],
+  "lastSeenVersion": "4.0.10"
+}
