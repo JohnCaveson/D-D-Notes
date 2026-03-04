@@ -14,6 +14,7 @@
 
 - **Drew [[03-running-the-adventure#^0e1d8a|The Hierophant]]**
 - Is distributing pamphlets for his family cult
+- Emb now has a weasel living in him. This weasel is benign at the moment. What should I do with it?
 
 ---
 

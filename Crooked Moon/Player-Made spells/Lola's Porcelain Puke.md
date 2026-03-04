@@ -1,0 +1,5 @@
+After multiple weasel induced trauma events, Lola now reels at the thought of a weasel. This allows her to produce a porcelain puke "puddle". Really it's just a pile of broken shards. 
+
+The shards are similar to [[wall-of-thorns|Wall of Thorns]] requiring a dexterity saving throw. The creature caught in the blast takes (`2d6`) piercing damage or half as much on a successful save. The puddle is 10ft across. (That's a lot of puke! Wow!) A creature can move through the shards, albeit slowly and painfully. For every 1 foot a creature moves through the shards, it must spend 4 feet of movement. Furthermore, the first time a creature enters the shards on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes (`2d6`) slashing damage on a failed save, or half as much damage on a successful one.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, both types of damage increase by 1d6 for each slot level above 2nd.

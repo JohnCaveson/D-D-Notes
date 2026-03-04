@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e505b42b34f52a84",
+        "id": "88fe705bf33af891",
         "type": "tabs",
         "children": [
           {
-            "id": "42195aa54a70849f",
+            "id": "34f3b502642ae5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "website/NPCs/Wendel Somerton.md",
+                "file": "website/0. Current Objective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wendel Somerton"
+              "title": "0. Current Objective"
             }
           }
         ]
@@ -171,6 +171,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "ed76c32a32908dc2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -190,21 +200,39 @@
       "canvas:Create new canvas": true,
       "command-palette:Open command palette": true,
       "templates:Insert template": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": true,
-      "obsidian-5e-statblocks:Open Creature pane": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "flowershow:Publish with Flowershow": false
     }
   },
-  "active": "42195aa54a70849f",
+  "active": "48531691f908e69a",
   "lastOpenFiles": [
-    "website/NPCs/Thomasin Ardor.md",
-    "website/NPCs/Wendel Somerton.md",
-    "website/NPCs/Weston Murdoch.md",
-    "website/NPCs/Old Rusty.md",
-    "website/NPCs/Alda Farnum.md",
-    "website/NPCs/Jean Myriel.md",
-    "website/NPCs/Morgan.md",
-    "website/NPCs/The Druskenvalds.md",
+    "Crooked Moon/Player Characters/Haley (Xenophon).md",
+    "website/0. Current Objective.md",
+    "website/Sessions/3-3-26.md",
+    "website/Sessions",
+    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
+    "Crooked Moon/Player Characters/Andrew (Balephon).md",
+    "Crooked Moon/Frank NPC.md",
+    "Templates/Character Information.md",
+    "website/1. Character Spells/Lola's Porcelain Puke.md",
+    "3-Mechanics/CLI/spells/wall-of-thorns.md",
+    "website/assets/Untitled",
+    "Crooked Moon/Player-Made spells/Lola's Porcelain Puke.md",
+    "website/1. Character Spells",
+    "Crooked Moon/Player-Made spells",
+    "Crooked Moon/Untitled.md",
+    "Xeno.png",
+    "unknown 1.png",
+    "Ideas.md",
+    "website/2. NPCs/Wendel Somerton.md",
+    "website/2. NPCs/Thomasin Ardor.md",
+    "website/2. NPCs/Weston Murdoch.md",
+    "website/2. NPCs/Old Rusty.md",
+    "website/2. NPCs/Alda Farnum.md",
+    "website/2. NPCs/Jean Myriel.md",
+    "website/2. NPCs/Morgan.md",
+    "website/2. NPCs/The Druskenvalds.md",
     "website/config.json",
     "website/New Text Document.txt",
     "website/config.json.md",
@@ -216,33 +244,15 @@
     "website/assets/NPC_Morgan.jpg",
     "website/assets/NPC_Jean_Myriel.jpg",
     "website/assets/NPC_Alda_Farnum.jpg",
-    "website/assets/NPC_Old_Rusty.png",
-    "website/assets/NPC_Thomasin_Ardor.png",
     "website/assets",
     "3-Mechanics/CLI/bestiary/npc/phillip-druskenvald-crookedmoon24.md",
     "3-Mechanics/CLI/bestiary/npc/phillip-druskenvald-crookedmoon24 1.md",
     "3-Mechanics/DM-SideScreen.md",
-    "website/NPCs",
+    "website/2. NPCs",
     "website",
-    "Crooked Moon/Player Characters/Frank (Emberis Thatch III).md",
-    "Crooked Moon/Player Characters/Andrew (Balephon).md",
     "Campaign Notes/Class information.md",
     "3-Mechanics/CLI/tables/classes-phb.md",
-    "3-Mechanics/CLI/classes/barbarian.md",
-    "3-Mechanics/CLI/classes/ranger.md",
-    "Recaps/Class information.md",
     "Campaign Notes",
-    "Recaps/Weapons.md",
-    "Recaps/Stuff",
-    "3-Mechanics/CLI/bestiary/beast/weasel.md",
-    "3-Mechanics/CLI/classes/barbarian-xphb.md",
-    "0. Scratch Notes.md",
-    "Recaps",
-    "Untitled.md",
-    "3-Mechanics/CLI/bestiary/npc/filthy-jasper-crookedmoon24.md",
-    "Crooked Moon/Threads of fate.md",
-    "Crooked Moon/Player Characters",
-    "Crooked Moon/Add'l NPCs/Gregora",
     "Untitled.canvas"
   ]
 }
