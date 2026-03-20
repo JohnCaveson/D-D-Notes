@@ -85,9 +85,9 @@ var __async = (__this, __arguments, generator) => {
   });
 };
 
-// node_modules/react/cjs/react.development.js
+// node_modules/.pnpm/react@19.2.4/node_modules/react/cjs/react.development.js
 var require_react_development = __commonJS({
-  "node_modules/react/cjs/react.development.js"(exports, module2) {
+  "node_modules/.pnpm/react@19.2.4/node_modules/react/cjs/react.development.js"(exports, module2) {
     "use strict";
     (function() {
       function defineDeprecationWarning(methodName, info) {
@@ -1057,9 +1057,9 @@ var require_react_development = __commonJS({
   }
 });
 
-// node_modules/react/index.js
+// node_modules/.pnpm/react@19.2.4/node_modules/react/index.js
 var require_react = __commonJS({
-  "node_modules/react/index.js"(exports, module2) {
+  "node_modules/.pnpm/react@19.2.4/node_modules/react/index.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -1069,9 +1069,9 @@ var require_react = __commonJS({
   }
 });
 
-// node_modules/scheduler/cjs/scheduler.development.js
+// node_modules/.pnpm/scheduler@0.27.0/node_modules/scheduler/cjs/scheduler.development.js
 var require_scheduler_development = __commonJS({
-  "node_modules/scheduler/cjs/scheduler.development.js"(exports) {
+  "node_modules/.pnpm/scheduler@0.27.0/node_modules/scheduler/cjs/scheduler.development.js"(exports) {
     "use strict";
     (function() {
       function performWorkUntilDeadline() {
@@ -1328,9 +1328,9 @@ var require_scheduler_development = __commonJS({
   }
 });
 
-// node_modules/scheduler/index.js
+// node_modules/.pnpm/scheduler@0.27.0/node_modules/scheduler/index.js
 var require_scheduler = __commonJS({
-  "node_modules/scheduler/index.js"(exports, module2) {
+  "node_modules/.pnpm/scheduler@0.27.0/node_modules/scheduler/index.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -1340,9 +1340,9 @@ var require_scheduler = __commonJS({
   }
 });
 
-// node_modules/react-dom/cjs/react-dom.development.js
+// node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/cjs/react-dom.development.js
 var require_react_dom_development = __commonJS({
-  "node_modules/react-dom/cjs/react-dom.development.js"(exports) {
+  "node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/cjs/react-dom.development.js"(exports) {
     "use strict";
     (function() {
       function noop3() {
@@ -1584,9 +1584,9 @@ var require_react_dom_development = __commonJS({
   }
 });
 
-// node_modules/react-dom/index.js
+// node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/index.js
 var require_react_dom = __commonJS({
-  "node_modules/react-dom/index.js"(exports, module2) {
+  "node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/index.js"(exports, module2) {
     "use strict";
     if (false) {
       checkDCE();
@@ -1597,9 +1597,9 @@ var require_react_dom = __commonJS({
   }
 });
 
-// node_modules/react-dom/cjs/react-dom-client.development.js
+// node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/cjs/react-dom-client.development.js
 var require_react_dom_client_development = __commonJS({
-  "node_modules/react-dom/cjs/react-dom-client.development.js"(exports) {
+  "node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/cjs/react-dom-client.development.js"(exports) {
     "use strict";
     (function() {
       function findHook(fiber, id) {
@@ -21496,9 +21496,9 @@ var require_react_dom_client_development = __commonJS({
   }
 });
 
-// node_modules/react-dom/client.js
+// node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/client.js
 var require_client = __commonJS({
-  "node_modules/react-dom/client.js"(exports, module2) {
+  "node_modules/.pnpm/react-dom@19.2.4_react@19.2.4/node_modules/react-dom/client.js"(exports, module2) {
     "use strict";
     if (false) {
       checkDCE();
@@ -21509,9 +21509,9 @@ var require_client = __commonJS({
   }
 });
 
-// node_modules/prop-types/node_modules/react-is/cjs/react-is.development.js
+// node_modules/.pnpm/react-is@16.13.1/node_modules/react-is/cjs/react-is.development.js
 var require_react_is_development = __commonJS({
-  "node_modules/prop-types/node_modules/react-is/cjs/react-is.development.js"(exports) {
+  "node_modules/.pnpm/react-is@16.13.1/node_modules/react-is/cjs/react-is.development.js"(exports) {
     "use strict";
     if (true) {
       (function() {
@@ -21664,9 +21664,9 @@ var require_react_is_development = __commonJS({
   }
 });
 
-// node_modules/prop-types/node_modules/react-is/index.js
+// node_modules/.pnpm/react-is@16.13.1/node_modules/react-is/index.js
 var require_react_is = __commonJS({
-  "node_modules/prop-types/node_modules/react-is/index.js"(exports, module2) {
+  "node_modules/.pnpm/react-is@16.13.1/node_modules/react-is/index.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -21676,9 +21676,9 @@ var require_react_is = __commonJS({
   }
 });
 
-// node_modules/object-assign/index.js
+// node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js
 var require_object_assign = __commonJS({
-  "node_modules/object-assign/index.js"(exports, module2) {
+  "node_modules/.pnpm/object-assign@4.1.1/node_modules/object-assign/index.js"(exports, module2) {
     "use strict";
     var getOwnPropertySymbols = Object.getOwnPropertySymbols;
     var hasOwnProperty = Object.prototype.hasOwnProperty;
@@ -21746,25 +21746,25 @@ var require_object_assign = __commonJS({
   }
 });
 
-// node_modules/prop-types/lib/ReactPropTypesSecret.js
+// node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/lib/ReactPropTypesSecret.js
 var require_ReactPropTypesSecret = __commonJS({
-  "node_modules/prop-types/lib/ReactPropTypesSecret.js"(exports, module2) {
+  "node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/lib/ReactPropTypesSecret.js"(exports, module2) {
     "use strict";
     var ReactPropTypesSecret = "SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED";
     module2.exports = ReactPropTypesSecret;
   }
 });
 
-// node_modules/prop-types/lib/has.js
+// node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/lib/has.js
 var require_has = __commonJS({
-  "node_modules/prop-types/lib/has.js"(exports, module2) {
+  "node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/lib/has.js"(exports, module2) {
     module2.exports = Function.call.bind(Object.prototype.hasOwnProperty);
   }
 });
 
-// node_modules/prop-types/checkPropTypes.js
+// node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/checkPropTypes.js
 var require_checkPropTypes = __commonJS({
-  "node_modules/prop-types/checkPropTypes.js"(exports, module2) {
+  "node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/checkPropTypes.js"(exports, module2) {
     "use strict";
     var printWarning = function() {
     };
@@ -21828,9 +21828,9 @@ var require_checkPropTypes = __commonJS({
   }
 });
 
-// node_modules/prop-types/factoryWithTypeCheckers.js
+// node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/factoryWithTypeCheckers.js
 var require_factoryWithTypeCheckers = __commonJS({
-  "node_modules/prop-types/factoryWithTypeCheckers.js"(exports, module2) {
+  "node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/factoryWithTypeCheckers.js"(exports, module2) {
     "use strict";
     var ReactIs = require_react_is();
     var assign2 = require_object_assign();
@@ -22271,9 +22271,9 @@ var require_factoryWithTypeCheckers = __commonJS({
   }
 });
 
-// node_modules/prop-types/index.js
+// node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/index.js
 var require_prop_types = __commonJS({
-  "node_modules/prop-types/index.js"(exports, module2) {
+  "node_modules/.pnpm/prop-types@15.8.1/node_modules/prop-types/index.js"(exports, module2) {
     if (true) {
       ReactIs = require_react_is();
       throwOnDirectAccess = true;
@@ -22286,9 +22286,9 @@ var require_prop_types = __commonJS({
   }
 });
 
-// node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.development.js
+// node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.development.js
 var require_use_sync_external_store_shim_development = __commonJS({
-  "node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.development.js"(exports) {
+  "node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.development.js"(exports) {
     "use strict";
     (function() {
       function is2(x, y) {
@@ -22350,9 +22350,9 @@ var require_use_sync_external_store_shim_development = __commonJS({
   }
 });
 
-// node_modules/use-sync-external-store/shim/index.js
+// node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/shim/index.js
 var require_shim = __commonJS({
-  "node_modules/use-sync-external-store/shim/index.js"(exports, module2) {
+  "node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/shim/index.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -22362,9 +22362,9 @@ var require_shim = __commonJS({
   }
 });
 
-// node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.development.js
+// node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.development.js
 var require_with_selector_development = __commonJS({
-  "node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.development.js"(exports) {
+  "node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.development.js"(exports) {
     "use strict";
     (function() {
       function is2(x, y) {
@@ -22429,9 +22429,9 @@ var require_with_selector_development = __commonJS({
   }
 });
 
-// node_modules/use-sync-external-store/shim/with-selector.js
+// node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/shim/with-selector.js
 var require_with_selector = __commonJS({
-  "node_modules/use-sync-external-store/shim/with-selector.js"(exports, module2) {
+  "node_modules/.pnpm/use-sync-external-store@1.6.0_react@19.2.4/node_modules/use-sync-external-store/shim/with-selector.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -22441,9 +22441,9 @@ var require_with_selector = __commonJS({
   }
 });
 
-// node_modules/react-is/cjs/react-is.development.js
+// node_modules/.pnpm/react-is@19.2.4/node_modules/react-is/cjs/react-is.development.js
 var require_react_is_development2 = __commonJS({
-  "node_modules/react-is/cjs/react-is.development.js"(exports) {
+  "node_modules/.pnpm/react-is@19.2.4/node_modules/react-is/cjs/react-is.development.js"(exports) {
     "use strict";
     (function() {
       function typeOf(object) {
@@ -22534,9 +22534,9 @@ var require_react_is_development2 = __commonJS({
   }
 });
 
-// node_modules/react-is/index.js
+// node_modules/.pnpm/react-is@19.2.4/node_modules/react-is/index.js
 var require_react_is2 = __commonJS({
-  "node_modules/react-is/index.js"(exports, module2) {
+  "node_modules/.pnpm/react-is@19.2.4/node_modules/react-is/index.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -22546,178 +22546,11 @@ var require_react_is2 = __commonJS({
   }
 });
 
-// node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.development.js
-var require_react_is_development3 = __commonJS({
-  "node_modules/hoist-non-react-statics/node_modules/react-is/cjs/react-is.development.js"(exports) {
-    "use strict";
-    if (true) {
-      (function() {
-        "use strict";
-        var hasSymbol = typeof Symbol === "function" && Symbol.for;
-        var REACT_ELEMENT_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.element") : 60103;
-        var REACT_PORTAL_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.portal") : 60106;
-        var REACT_FRAGMENT_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.fragment") : 60107;
-        var REACT_STRICT_MODE_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.strict_mode") : 60108;
-        var REACT_PROFILER_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.profiler") : 60114;
-        var REACT_PROVIDER_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.provider") : 60109;
-        var REACT_CONTEXT_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.context") : 60110;
-        var REACT_ASYNC_MODE_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.async_mode") : 60111;
-        var REACT_CONCURRENT_MODE_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.concurrent_mode") : 60111;
-        var REACT_FORWARD_REF_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.forward_ref") : 60112;
-        var REACT_SUSPENSE_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.suspense") : 60113;
-        var REACT_SUSPENSE_LIST_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.suspense_list") : 60120;
-        var REACT_MEMO_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.memo") : 60115;
-        var REACT_LAZY_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.lazy") : 60116;
-        var REACT_BLOCK_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.block") : 60121;
-        var REACT_FUNDAMENTAL_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.fundamental") : 60117;
-        var REACT_RESPONDER_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.responder") : 60118;
-        var REACT_SCOPE_TYPE = hasSymbol ? /* @__PURE__ */ Symbol.for("react.scope") : 60119;
-        function isValidElementType2(type) {
-          return typeof type === "string" || typeof type === "function" || // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.
-          type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || type === REACT_SUSPENSE_LIST_TYPE || typeof type === "object" && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE || type.$$typeof === REACT_FUNDAMENTAL_TYPE || type.$$typeof === REACT_RESPONDER_TYPE || type.$$typeof === REACT_SCOPE_TYPE || type.$$typeof === REACT_BLOCK_TYPE);
-        }
-        function typeOf(object) {
-          if (typeof object === "object" && object !== null) {
-            var $$typeof = object.$$typeof;
-            switch ($$typeof) {
-              case REACT_ELEMENT_TYPE:
-                var type = object.type;
-                switch (type) {
-                  case REACT_ASYNC_MODE_TYPE:
-                  case REACT_CONCURRENT_MODE_TYPE:
-                  case REACT_FRAGMENT_TYPE:
-                  case REACT_PROFILER_TYPE:
-                  case REACT_STRICT_MODE_TYPE:
-                  case REACT_SUSPENSE_TYPE:
-                    return type;
-                  default:
-                    var $$typeofType = type && type.$$typeof;
-                    switch ($$typeofType) {
-                      case REACT_CONTEXT_TYPE:
-                      case REACT_FORWARD_REF_TYPE:
-                      case REACT_LAZY_TYPE:
-                      case REACT_MEMO_TYPE:
-                      case REACT_PROVIDER_TYPE:
-                        return $$typeofType;
-                      default:
-                        return $$typeof;
-                    }
-                }
-              case REACT_PORTAL_TYPE:
-                return $$typeof;
-            }
-          }
-          return void 0;
-        }
-        var AsyncMode = REACT_ASYNC_MODE_TYPE;
-        var ConcurrentMode = REACT_CONCURRENT_MODE_TYPE;
-        var ContextConsumer = REACT_CONTEXT_TYPE;
-        var ContextProvider = REACT_PROVIDER_TYPE;
-        var Element2 = REACT_ELEMENT_TYPE;
-        var ForwardRef2 = REACT_FORWARD_REF_TYPE;
-        var Fragment6 = REACT_FRAGMENT_TYPE;
-        var Lazy = REACT_LAZY_TYPE;
-        var Memo2 = REACT_MEMO_TYPE;
-        var Portal = REACT_PORTAL_TYPE;
-        var Profiler = REACT_PROFILER_TYPE;
-        var StrictMode = REACT_STRICT_MODE_TYPE;
-        var Suspense = REACT_SUSPENSE_TYPE;
-        var hasWarnedAboutDeprecatedIsAsyncMode = false;
-        function isAsyncMode(object) {
-          {
-            if (!hasWarnedAboutDeprecatedIsAsyncMode) {
-              hasWarnedAboutDeprecatedIsAsyncMode = true;
-              console["warn"]("The ReactIs.isAsyncMode() alias has been deprecated, and will be removed in React 17+. Update your code to use ReactIs.isConcurrentMode() instead. It has the exact same API.");
-            }
-          }
-          return isConcurrentMode(object) || typeOf(object) === REACT_ASYNC_MODE_TYPE;
-        }
-        function isConcurrentMode(object) {
-          return typeOf(object) === REACT_CONCURRENT_MODE_TYPE;
-        }
-        function isContextConsumer(object) {
-          return typeOf(object) === REACT_CONTEXT_TYPE;
-        }
-        function isContextProvider(object) {
-          return typeOf(object) === REACT_PROVIDER_TYPE;
-        }
-        function isElement(object) {
-          return typeof object === "object" && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
-        }
-        function isForwardRef(object) {
-          return typeOf(object) === REACT_FORWARD_REF_TYPE;
-        }
-        function isFragment(object) {
-          return typeOf(object) === REACT_FRAGMENT_TYPE;
-        }
-        function isLazy(object) {
-          return typeOf(object) === REACT_LAZY_TYPE;
-        }
-        function isMemo(object) {
-          return typeOf(object) === REACT_MEMO_TYPE;
-        }
-        function isPortal(object) {
-          return typeOf(object) === REACT_PORTAL_TYPE;
-        }
-        function isProfiler(object) {
-          return typeOf(object) === REACT_PROFILER_TYPE;
-        }
-        function isStrictMode(object) {
-          return typeOf(object) === REACT_STRICT_MODE_TYPE;
-        }
-        function isSuspense(object) {
-          return typeOf(object) === REACT_SUSPENSE_TYPE;
-        }
-        exports.AsyncMode = AsyncMode;
-        exports.ConcurrentMode = ConcurrentMode;
-        exports.ContextConsumer = ContextConsumer;
-        exports.ContextProvider = ContextProvider;
-        exports.Element = Element2;
-        exports.ForwardRef = ForwardRef2;
-        exports.Fragment = Fragment6;
-        exports.Lazy = Lazy;
-        exports.Memo = Memo2;
-        exports.Portal = Portal;
-        exports.Profiler = Profiler;
-        exports.StrictMode = StrictMode;
-        exports.Suspense = Suspense;
-        exports.isAsyncMode = isAsyncMode;
-        exports.isConcurrentMode = isConcurrentMode;
-        exports.isContextConsumer = isContextConsumer;
-        exports.isContextProvider = isContextProvider;
-        exports.isElement = isElement;
-        exports.isForwardRef = isForwardRef;
-        exports.isFragment = isFragment;
-        exports.isLazy = isLazy;
-        exports.isMemo = isMemo;
-        exports.isPortal = isPortal;
-        exports.isProfiler = isProfiler;
-        exports.isStrictMode = isStrictMode;
-        exports.isSuspense = isSuspense;
-        exports.isValidElementType = isValidElementType2;
-        exports.typeOf = typeOf;
-      })();
-    }
-  }
-});
-
-// node_modules/hoist-non-react-statics/node_modules/react-is/index.js
-var require_react_is3 = __commonJS({
-  "node_modules/hoist-non-react-statics/node_modules/react-is/index.js"(exports, module2) {
-    "use strict";
-    if (false) {
-      module2.exports = null;
-    } else {
-      module2.exports = require_react_is_development3();
-    }
-  }
-});
-
-// node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js
+// node_modules/.pnpm/hoist-non-react-statics@3.3.2/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js
 var require_hoist_non_react_statics_cjs = __commonJS({
-  "node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js"(exports, module2) {
+  "node_modules/.pnpm/hoist-non-react-statics@3.3.2/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js"(exports, module2) {
     "use strict";
-    var reactIs = require_react_is3();
+    var reactIs = require_react_is();
     var REACT_STATICS = {
       childContextTypes: true,
       contextType: true,
@@ -22801,9 +22634,9 @@ var require_hoist_non_react_statics_cjs = __commonJS({
   }
 });
 
-// node_modules/react/cjs/react-jsx-runtime.development.js
+// node_modules/.pnpm/react@19.2.4/node_modules/react/cjs/react-jsx-runtime.development.js
 var require_react_jsx_runtime_development = __commonJS({
-  "node_modules/react/cjs/react-jsx-runtime.development.js"(exports) {
+  "node_modules/.pnpm/react@19.2.4/node_modules/react/cjs/react-jsx-runtime.development.js"(exports) {
     "use strict";
     (function() {
       function getComponentNameFromType(type) {
@@ -23058,9 +22891,9 @@ var require_react_jsx_runtime_development = __commonJS({
   }
 });
 
-// node_modules/react/jsx-runtime.js
+// node_modules/.pnpm/react@19.2.4/node_modules/react/jsx-runtime.js
 var require_jsx_runtime = __commonJS({
-  "node_modules/react/jsx-runtime.js"(exports, module2) {
+  "node_modules/.pnpm/react@19.2.4/node_modules/react/jsx-runtime.js"(exports, module2) {
     "use strict";
     if (false) {
       module2.exports = null;
@@ -23076,7 +22909,12 @@ __export(main_exports, {
   default: () => Flowershow
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian5 = require("obsidian");
+var import_obsidian6 = require("obsidian");
+
+// src/components/PublishStatusModal.tsx
+var React57 = __toESM(require_react());
+var import_client = __toESM(require_client());
+var import_obsidian = require("obsidian");
 
 // src/settings.ts
 var DEFAULT_SETTINGS = {
@@ -23088,655 +22926,7 @@ var DEFAULT_SETTINGS = {
 };
 var API_URL = "https://cloud.flowershow.app";
 
-// src/utils/index.ts
-function hex(buf) {
-  const b = new Uint8Array(buf);
-  let s = "";
-  for (let i = 0; i < b.length; i++) s += b[i].toString(16).padStart(2, "0");
-  return s;
-}
-function digest(algo, data) {
-  return __async(this, null, function* () {
-    const ab = data.buffer.slice(
-      data.byteOffset,
-      data.byteOffset + data.byteLength
-    );
-    const d = yield crypto.subtle.digest(algo, ab);
-    return hex(d);
-  });
-}
-function calculateFileSha(content) {
-  return __async(this, null, function* () {
-    const data = content instanceof ArrayBuffer ? new Uint8Array(content) : content;
-    return digest("SHA-1", data);
-  });
-}
-function calculateTextSha(text) {
-  return __async(this, null, function* () {
-    const encoder = new TextEncoder();
-    const data = encoder.encode(text);
-    return digest("SHA-1", data);
-  });
-}
-var FlowershowError = class extends Error {
-  constructor(message) {
-    super(message);
-    this.name = "FlowershowError";
-  }
-};
-function isPlainTextExtension(ext) {
-  return ["md", "mdx", "json", "yaml", "yml", "css"].includes(ext);
-}
-function createSiteNotice(message, siteUrl) {
-  const frag = document.createDocumentFragment();
-  frag.append(document.createTextNode(`\u2705 ${message} `));
-  if (siteUrl) {
-    const a = document.createElement("a");
-    a.href = siteUrl;
-    a.textContent = "View site \u2192";
-    a.target = "_blank";
-    a.rel = "noopener noreferrer";
-    frag.append(a);
-  }
-  return frag;
-}
-
-// src/FlowershowClient.ts
-var FlowershowClient = class {
-  constructor(apiUrl, token2) {
-    this.apiUrl = apiUrl.replace(/\/$/, "");
-    this.token = token2;
-  }
-  /**
-   * Make an authenticated API request
-   */
-  apiRequest(_0) {
-    return __async(this, arguments, function* (endpoint, options = {}) {
-      const url = `${this.apiUrl}${endpoint}`;
-      const headers = __spreadProps(__spreadValues({}, options.headers), {
-        Authorization: `Bearer ${this.token}`
-      });
-      return fetch(url, __spreadProps(__spreadValues({}, options), {
-        headers
-      }));
-    });
-  }
-  /**
-   * Get user info (to validate token)
-   */
-  getUserInfo() {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest("/api/user");
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to get user info: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Create a new site or get existing site by name
-   */
-  createSite(projectName, overwrite = false) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest("/api/sites", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ projectName, overwrite })
-      });
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to create site: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Get a site by name
-   */
-  getSiteByName(username, siteName) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest(
-        `/api/sites/${username}/${siteName}`
-      );
-      if (!response.ok) {
-        if (response.status === 404) {
-          return null;
-        }
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to fetch site: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Sync files with the server
-   * Compares local files with existing files and returns upload URLs for changed files
-   * @param dryRun If true, only returns what would happen without making changes
-   */
-  syncFiles(siteId, files, dryRun = false) {
-    return __async(this, null, function* () {
-      const url = `/api/sites/id/${siteId}/sync${dryRun ? "?dryRun=true" : ""}`;
-      const response = yield this.apiRequest(url, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ files })
-      });
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to sync files: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Upload a file directly to R2 using presigned URL
-   */
-  uploadToR2(uploadUrl, content, contentType) {
-    return __async(this, null, function* () {
-      const buffer = content instanceof Uint8Array ? content.buffer.slice(
-        content.byteOffset,
-        content.byteOffset + content.byteLength
-      ) : content;
-      const response = yield fetch(uploadUrl, {
-        method: "PUT",
-        body: buffer,
-        headers: {
-          "Content-Type": contentType
-        }
-      });
-      if (!response.ok) {
-        throw new Error(`Failed to upload file: ${response.statusText}`);
-      }
-      return true;
-    });
-  }
-  /**
-   * Get site processing status
-   */
-  getSiteStatus(siteId) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest(`/api/sites/id/${siteId}/status`);
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to get site status: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Get all sites for the user
-   */
-  getSites() {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest("/api/sites");
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to fetch sites: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Publish specific files without affecting other files
-   * Use this when you want to publish only selected files
-   * @param siteId - Site ID
-   * @param files - Array of file metadata to publish
-   * @returns Upload URLs for the specified files
-   */
-  publishFiles(siteId, files) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest(`/api/sites/id/${siteId}/files`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ files })
-      });
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to publish files: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-  /**
-   * Delete/unpublish specific files from the site
-   * @param siteId - Site ID
-   * @param paths - Array of file paths to delete
-   * @returns List of deleted and not found files
-   */
-  deleteFiles(siteId, paths) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest(`/api/sites/id/${siteId}/files`, {
-        method: "DELETE",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ paths })
-      });
-      if (!response.ok) {
-        const error = yield response.json().catch(() => ({}));
-        throw new Error(
-          error.message || `Failed to delete files: ${response.statusText}`
-        );
-      }
-      return yield response.json();
-    });
-  }
-};
-
-// src/utils/publisherHelpers.ts
-var import_obsidian = require("obsidian");
-function normalizePath(path, rootDir) {
-  let normalizedPath = path.replace(/^\/+/, "");
-  if (rootDir) {
-    const rootDirNormalized = rootDir.replace(/^\/+|\/+$/g, "");
-    if (normalizedPath.startsWith(rootDirNormalized + "/")) {
-      normalizedPath = normalizedPath.slice(rootDirNormalized.length + 1);
-    } else if (normalizedPath === rootDirNormalized) {
-      normalizedPath = "";
-    }
-  }
-  return normalizedPath;
-}
-function isWithinRootDir(path, rootDir) {
-  if (!rootDir) {
-    return true;
-  }
-  const rootDirNormalized = rootDir.replace(/^\/+|\/+$/g, "");
-  const pathNormalized = path.replace(/^\/+/, "");
-  return pathNormalized.startsWith(rootDirNormalized + "/") || pathNormalized === rootDirNormalized;
-}
-function matchesExcludePatterns(path, excludePatterns) {
-  if (!excludePatterns || excludePatterns.length === 0) {
-    return false;
-  }
-  return excludePatterns.some((pattern) => {
-    try {
-      const regex = new RegExp(pattern);
-      return regex.test(path);
-    } catch (e) {
-      console.error(`Invalid regex pattern: ${pattern}`, e);
-      return false;
-    }
-  });
-}
-function hasPublishFalse(file, app) {
-  var _a;
-  if (file.extension !== "md" && file.extension !== "mdx") {
-    return false;
-  }
-  const cachedFile = app.metadataCache.getCache(file.path);
-  return ((_a = cachedFile == null ? void 0 : cachedFile.frontmatter) == null ? void 0 : _a["publish"]) === false;
-}
-function shouldSkipFile(file, app, rootDir, excludePatterns) {
-  return !isWithinRootDir(file.path, rootDir) || matchesExcludePatterns(file.path, excludePatterns) || hasPublishFalse(file, app);
-}
-function validatePublishFrontmatter(frontMatter) {
-  if (frontMatter && frontMatter["publish"] === false) {
-    new import_obsidian.Notice("Note is marked as not publishable.");
-    return false;
-  }
-  return true;
-}
-
-// src/Publisher.ts
-var Publisher = class {
-  constructor(app, settings, publishStatusBar) {
-    this.siteId = null;
-    this.username = null;
-    this.app = app;
-    this.settings = settings;
-    this.publishStatusBar = publishStatusBar;
-    this.client = new FlowershowClient(API_URL, this.settings.flowershowToken);
-  }
-  /** Get site name, defaulting to vault name if not set */
-  getSiteName() {
-    return this.settings.siteName || this.app.vault.getName();
-  }
-  /** Get username */
-  getUsername() {
-    return __async(this, null, function* () {
-      if (this.username) {
-        return this.username;
-      }
-      const userInfo = yield this.client.getUserInfo();
-      this.username = userInfo.username;
-      return this.username;
-    });
-  }
-  /** Get site ID (may return null if site hasn't been created yet) */
-  getSiteId() {
-    return __async(this, null, function* () {
-      if (this.siteId) {
-        return this.siteId;
-      }
-      const username = yield this.getUsername();
-      const existingSite = yield this.client.getSiteByName(
-        username,
-        this.getSiteName()
-      );
-      if (existingSite) {
-        this.siteId = existingSite.site.id;
-        return this.siteId;
-      }
-      return null;
-    });
-  }
-  /** Get or create the site */
-  ensureSite() {
-    return __async(this, null, function* () {
-      const existingSiteId = yield this.getSiteId();
-      if (existingSiteId) {
-        return existingSiteId;
-      }
-      const { site } = yield this.client.createSite(this.getSiteName());
-      this.siteId = site.id;
-      return this.siteId;
-    });
-  }
-  /**
-   * Publish note and optionally its embeds
-   * @returns Site URL and publish status
-   */
-  publishSingleNoteWithEmbeds(file, withEmbeds = true) {
-    return __async(this, null, function* () {
-      var _a;
-      const cachedFile = this.app.metadataCache.getCache(file.path);
-      if (!cachedFile) {
-        throw new FlowershowError(`Note file ${file.path} not found!`);
-      }
-      const frontmatter = cachedFile.frontmatter;
-      if (frontmatter && !validatePublishFrontmatter(frontmatter)) {
-        throw new FlowershowError("Can't publish note with `publish: false`");
-      }
-      const filesToPublish = [file];
-      if (withEmbeds) {
-        const uniqueEmbeds = /* @__PURE__ */ new Map();
-        const markdown = yield this.app.vault.read(file);
-        (_a = cachedFile.embeds) == null ? void 0 : _a.forEach((embed) => {
-          const embedTFile = this.app.metadataCache.getFirstLinkpathDest(
-            embed.link,
-            markdown
-          );
-          if (embedTFile && !uniqueEmbeds.has(embedTFile.path)) {
-            uniqueEmbeds.set(embedTFile.path, embedTFile);
-          }
-        });
-        filesToPublish.push(...uniqueEmbeds.values());
-      }
-      return yield this.publishBatch({
-        filesToPublish
-      });
-    });
-  }
-  /**
-   * Publish multiple files
-   */
-  publishBatch(opts) {
-    return __async(this, null, function* () {
-      var _a, _b, _c, _d, _e, _f;
-      if (!((_a = opts.filesToPublish) == null ? void 0 : _a.length) && !((_b = opts.filesToDelete) == null ? void 0 : _b.length)) {
-        throw new FlowershowError("No files to delete or publish provided");
-      }
-      this.publishStatusBar.start({
-        publishTotal: (_c = opts.filesToPublish) == null ? void 0 : _c.length,
-        deleteTotal: (_d = opts.filesToDelete) == null ? void 0 : _d.length
-      });
-      try {
-        const siteId = yield this.ensureSite();
-        if (opts.filesToDelete && opts.filesToDelete.length > 0) {
-          const normalizedPathsToDelete = opts.filesToDelete.map(
-            (path) => normalizePath(path, this.settings.rootDir)
-          );
-          const deleteResult = yield this.client.deleteFiles(
-            siteId,
-            normalizedPathsToDelete
-          );
-          if (deleteResult.notFound.length > 0) {
-            throw new FlowershowError(
-              `Failed to delete ${deleteResult.notFound.length} file(s): ${deleteResult.notFound.join(
-                ", "
-              )}. Files not found on server.`
-            );
-          }
-          this.publishStatusBar.incrementDelete();
-        }
-        if (opts.filesToPublish && opts.filesToPublish.length > 0) {
-          const fileMetadata = [];
-          const filesToProcess = opts.filesToPublish;
-          for (const file of filesToProcess) {
-            const normalizedPath = normalizePath(
-              file.path,
-              this.settings.rootDir
-            );
-            let sha;
-            if (isPlainTextExtension(file.extension)) {
-              const text = yield this.app.vault.cachedRead(file);
-              sha = yield calculateTextSha(text);
-            } else {
-              const bytes = yield this.app.vault.readBinary(file);
-              sha = yield calculateFileSha(bytes);
-            }
-            fileMetadata.push({
-              path: normalizedPath,
-              size: file.stat.size,
-              sha
-            });
-          }
-          const publishResult = yield this.client.publishFiles(
-            siteId,
-            fileMetadata
-          );
-          for (const uploadInfo of publishResult.files) {
-            const file = filesToProcess.find(
-              (f) => normalizePath(f.path, this.settings.rootDir) === uploadInfo.path
-            );
-            if (!file) continue;
-            let content;
-            if (isPlainTextExtension(file.extension)) {
-              const text = yield this.app.vault.cachedRead(file);
-              content = new TextEncoder().encode(text);
-            } else {
-              const bytes = yield this.app.vault.readBinary(file);
-              content = bytes;
-            }
-            yield this.client.uploadToR2(
-              uploadInfo.uploadUrl,
-              content,
-              uploadInfo.contentType
-            );
-            this.publishStatusBar.incrementPublish();
-          }
-        }
-        this.publishStatusBar.finish(2e3);
-        const username = yield this.getUsername();
-        const site = yield this.client.getSiteByName(
-          username,
-          this.getSiteName()
-        );
-        const siteUrl = (site == null ? void 0 : site.site.url) || "";
-        return {
-          siteUrl,
-          filesPublished: (((_e = opts.filesToPublish) == null ? void 0 : _e.length) || 0) + (((_f = opts.filesToDelete) == null ? void 0 : _f.length) || 0)
-        };
-      } catch (error) {
-        this.publishStatusBar.finish(0);
-        throw error;
-      }
-    });
-  }
-  /** Get publish status */
-  getPublishStatus() {
-    return __async(this, null, function* () {
-      const unchangedFiles = [];
-      const changedFiles = [];
-      const deletedFiles = [];
-      const newFiles = [];
-      const username = yield this.getUsername();
-      const existingSite = yield this.client.getSiteByName(
-        username,
-        this.getSiteName()
-      );
-      if (!existingSite) {
-        const localFiles = this.app.vault.getFiles();
-        for (const file of localFiles) {
-          if (!shouldSkipFile(
-            file,
-            this.app,
-            this.settings.rootDir,
-            this.settings.excludePatterns
-          )) {
-            newFiles.push(file);
-          }
-        }
-        return { unchangedFiles, changedFiles, deletedFiles, newFiles };
-      }
-      const siteId = existingSite.site.id;
-      this.siteId = siteId;
-      try {
-        const localFiles = this.app.vault.getFiles();
-        const fileMetadata = [];
-        for (const file of localFiles) {
-          if (shouldSkipFile(
-            file,
-            this.app,
-            this.settings.rootDir,
-            this.settings.excludePatterns
-          )) {
-            continue;
-          }
-          const normalizedPath = normalizePath(file.path, this.settings.rootDir);
-          let sha;
-          if (isPlainTextExtension(file.extension)) {
-            const text = yield this.app.vault.cachedRead(file);
-            sha = yield calculateTextSha(text);
-          } else {
-            const bytes = yield this.app.vault.readBinary(file);
-            sha = yield calculateFileSha(bytes);
-          }
-          fileMetadata.push({
-            path: normalizedPath,
-            size: file.stat.size,
-            sha
-          });
-        }
-        const syncResult = yield this.client.syncFiles(
-          siteId,
-          fileMetadata,
-          true
-        );
-        for (const file of localFiles) {
-          if (shouldSkipFile(
-            file,
-            this.app,
-            this.settings.rootDir,
-            this.settings.excludePatterns
-          )) {
-            continue;
-          }
-          const normalizedPath = normalizePath(file.path, this.settings.rootDir);
-          if (syncResult.unchanged.includes(normalizedPath)) {
-            unchangedFiles.push(file);
-          } else if (syncResult.toUpdate.some((u) => u.path === normalizedPath)) {
-            changedFiles.push(file);
-          } else if (syncResult.toUpload.some((u) => u.path === normalizedPath)) {
-            newFiles.push(file);
-          }
-        }
-        deletedFiles.push(...syncResult.deleted);
-      } catch (error) {
-        console.error("Error getting publish status:", error);
-        const errorLocalFiles = this.app.vault.getFiles();
-        for (const file of errorLocalFiles) {
-          if (!shouldSkipFile(
-            file,
-            this.app,
-            this.settings.rootDir,
-            this.settings.excludePatterns
-          )) {
-            newFiles.push(file);
-          }
-        }
-      }
-      return { unchangedFiles, changedFiles, deletedFiles, newFiles };
-    });
-  }
-};
-
-// src/PublishStatusBar.ts
-var PublishStatusBar = class {
-  constructor(statusBarContainer) {
-    this.statusBarContainer = statusBarContainer;
-    this.publishCounter = 0;
-    this.deleteCounter = 0;
-  }
-  incrementPublish() {
-    ++this.publishCounter;
-    this.updateStatus();
-  }
-  incrementDelete() {
-    ++this.deleteCounter;
-    this.updateStatus();
-  }
-  updateStatus() {
-    const publishStatus = this.publishTotal > 0 ? ` Publishing: ${this.publishCounter}/${this.publishTotal}` : "";
-    const deleteStatus = this.deleteTotal > 0 ? ` Unpublishing: ${this.deleteCounter}/${this.deleteTotal}` : "";
-    if (publishStatus && deleteStatus) {
-      this.statusBarContainer.innerText = `${publishStatus}, ${deleteStatus}`;
-    } else if (publishStatus) {
-      this.statusBarContainer.innerText = `${publishStatus}`;
-    } else if (deleteStatus) {
-      this.statusBarContainer.innerText = `${deleteStatus}`;
-    }
-  }
-  start({
-    publishTotal = 0,
-    deleteTotal = 0
-  }) {
-    if (!publishTotal && !deleteTotal) return;
-    this.publishTotal = publishTotal;
-    this.deleteTotal = deleteTotal;
-    this.publishCounter = 0;
-    this.deleteCounter = 0;
-    this.statusBarContainer.innerText = "";
-    this.updateStatus();
-  }
-  finish(displayDurationMillisec) {
-    setTimeout(() => {
-      this.statusBarContainer.innerText = "";
-    }, displayDurationMillisec);
-  }
-  error() {
-    this.statusBarContainer.innerText = "";
-  }
-};
-
-// src/components/PublishStatusModal.tsx
-var React57 = __toESM(require_react());
-var import_client = __toESM(require_client());
-var import_obsidian2 = require("obsidian");
-
-// node_modules/@babel/runtime/helpers/esm/extends.js
+// node_modules/.pnpm/@babel+runtime@7.28.6/node_modules/@babel/runtime/helpers/esm/extends.js
 function _extends() {
   return _extends = Object.assign ? Object.assign.bind() : function(n) {
     for (var e = 1; e < arguments.length; e++) {
@@ -23747,11 +22937,11 @@ function _extends() {
   }, _extends.apply(null, arguments);
 }
 
-// node_modules/@mui/x-tree-view/esm/RichTreeView/RichTreeView.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/RichTreeView/RichTreeView.js
 var React56 = __toESM(require_react(), 1);
 var import_prop_types26 = __toESM(require_prop_types(), 1);
 
-// node_modules/@base-ui/utils/esm/useRefWithInit.js
+// node_modules/.pnpm/@base-ui+utils@0.2.6_@types+react@19.2.14_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/@base-ui/utils/esm/useRefWithInit.js
 var React = __toESM(require_react(), 1);
 var UNINITIALIZED = {};
 function useRefWithInit(init, initArg) {
@@ -23762,7 +22952,7 @@ function useRefWithInit(init, initArg) {
   return ref;
 }
 
-// node_modules/@base-ui/utils/esm/useMergedRefs.js
+// node_modules/.pnpm/@base-ui+utils@0.2.6_@types+react@19.2.14_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/@base-ui/utils/esm/useMergedRefs.js
 function useMergedRefs(a, b, c, d) {
   const forkRef = useRefWithInit(createForkRef).current;
   if (didChange(forkRef, a, b, c, d)) {
@@ -23841,7 +23031,7 @@ function update(forkRef, refs) {
   };
 }
 
-// node_modules/reselect/dist/reselect.mjs
+// node_modules/.pnpm/reselect@5.1.1/node_modules/reselect/dist/reselect.mjs
 var runIdentityFunctionCheck = (resultFunc, inputSelectorsResults, outputSelectorResult) => {
   if (inputSelectorsResults.length === 1 && inputSelectorsResults[0] === outputSelectorResult) {
     let isInputSameAsOutput = false;
@@ -24254,7 +23444,7 @@ var createStructuredSelector = Object.assign(
   { withTypes: () => createStructuredSelector }
 );
 
-// node_modules/@mui/x-internals/esm/store/createSelector.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/store/createSelector.js
 var reselectCreateSelector = createSelectorCreator({
   memoize: lruMemoize,
   memoizeOptions: {
@@ -24405,16 +23595,16 @@ var createSelectorMemoizedWithOptions = (options) => (...inputs) => {
 };
 var createSelectorMemoized = createSelectorMemoizedWithOptions();
 
-// node_modules/@mui/x-internals/esm/store/useStore.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/store/useStore.js
 var React3 = __toESM(require_react(), 1);
 var import_shim = __toESM(require_shim(), 1);
 var import_with_selector = __toESM(require_with_selector(), 1);
 
-// node_modules/@mui/x-internals/esm/reactMajor/index.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/reactMajor/index.js
 var React2 = __toESM(require_react(), 1);
 var reactMajor_default = parseInt(React2.version, 10);
 
-// node_modules/@mui/x-internals/esm/store/useStore.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/store/useStore.js
 var canUseRawUseSyncExternalStore = reactMajor_default >= 19;
 var useStoreImplementation = canUseRawUseSyncExternalStore ? useStoreR19 : useStoreLegacy;
 function useStore(store, selector, a1, a2, a3) {
@@ -24428,7 +23618,7 @@ function useStoreLegacy(store, selector, a1, a2, a3) {
   return (0, import_with_selector.useSyncExternalStoreWithSelector)(store.subscribe, store.getSnapshot, store.getSnapshot, (state) => selector(state, a1, a2, a3));
 }
 
-// node_modules/@mui/utils/esm/useLazyRef/useLazyRef.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useLazyRef/useLazyRef.js
 var React4 = __toESM(require_react(), 1);
 var UNINITIALIZED2 = {};
 function useLazyRef(init, initArg) {
@@ -24439,14 +23629,14 @@ function useLazyRef(init, initArg) {
   return ref;
 }
 
-// node_modules/@mui/utils/esm/useOnMount/useOnMount.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useOnMount/useOnMount.js
 var React5 = __toESM(require_react(), 1);
 var EMPTY = [];
 function useOnMount(fn) {
   React5.useEffect(fn, EMPTY);
 }
 
-// node_modules/@mui/x-internals/esm/store/Store.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/store/Store.js
 var Store = class _Store {
   constructor(state) {
     __publicField(this, "subscribe", (fn) => {
@@ -24505,11 +23695,11 @@ var Store = class _Store {
   }
 };
 
-// node_modules/@mui/material/esm/Alert/Alert.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Alert/Alert.js
 var React35 = __toESM(require_react(), 1);
 var import_prop_types17 = __toESM(require_prop_types(), 1);
 
-// node_modules/clsx/dist/clsx.mjs
+// node_modules/.pnpm/clsx@2.1.1/node_modules/clsx/dist/clsx.mjs
 function r(e) {
   var t, f, n = "";
   if ("string" == typeof e || "number" == typeof e) n += e;
@@ -24525,7 +23715,7 @@ function clsx() {
 }
 var clsx_default = clsx;
 
-// node_modules/@mui/utils/esm/composeClasses/composeClasses.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/composeClasses/composeClasses.js
 function composeClasses(slots, getUtilityClass, classes = void 0) {
   const output = {};
   for (const slotName in slots) {
@@ -24547,7 +23737,7 @@ function composeClasses(slots, getUtilityClass, classes = void 0) {
   return output;
 }
 
-// node_modules/@mui/utils/esm/capitalize/capitalize.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/capitalize/capitalize.js
 function capitalize(string) {
   if (typeof string !== "string") {
     throw new Error(true ? "MUI: `capitalize(string)` expects a string argument." : formatMuiErrorMessage(7));
@@ -24555,7 +23745,7 @@ function capitalize(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
 
-// node_modules/@mui/utils/esm/deepmerge/deepmerge.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/deepmerge/deepmerge.js
 var React6 = __toESM(require_react(), 1);
 var import_react_is = __toESM(require_react_is2(), 1);
 function isPlainObject(item) {
@@ -24596,7 +23786,7 @@ function deepmerge(target, source, options = {
   return output;
 }
 
-// node_modules/@mui/system/esm/merge/merge.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/merge/merge.js
 function merge(acc, item) {
   if (!item) {
     return acc;
@@ -24608,12 +23798,12 @@ function merge(acc, item) {
 }
 var merge_default = merge;
 
-// node_modules/@mui/system/esm/responsivePropType/responsivePropType.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/responsivePropType/responsivePropType.js
 var import_prop_types = __toESM(require_prop_types(), 1);
 var responsivePropType = true ? import_prop_types.default.oneOfType([import_prop_types.default.number, import_prop_types.default.string, import_prop_types.default.object, import_prop_types.default.array]) : {};
 var responsivePropType_default = responsivePropType;
 
-// node_modules/@mui/system/esm/cssContainerQueries/cssContainerQueries.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssContainerQueries/cssContainerQueries.js
 function sortContainerQueries(theme, css2) {
   if (!theme.containerQueries) {
     return css2;
@@ -24640,8 +23830,11 @@ function getContainerQuery(theme, shorthand) {
   const matches = shorthand.match(/^@([^/]+)?\/?(.+)?$/);
   if (!matches) {
     if (true) {
-      throw new Error(true ? `MUI: The provided shorthand ${`(${shorthand})`} is invalid. The format should be \`@<breakpoint | number>\` or \`@<breakpoint | number>/<container>\`.
-For example, \`@sm\` or \`@600\` or \`@40rem/sidebar\`.` : formatMuiErrorMessage(18, `(${shorthand})`));
+      throw (
+        /* minify-error */
+        new Error(`MUI: The provided shorthand ${`(${shorthand})`} is invalid. The format should be \`@<breakpoint | number>\` or \`@<breakpoint | number>/<container>\`.
+For example, \`@sm\` or \`@600\` or \`@40rem/sidebar\`.`)
+      );
     }
     return null;
   }
@@ -24675,7 +23868,7 @@ function cssContainerQueries(themeInput) {
   });
 }
 
-// node_modules/@mui/system/esm/breakpoints/breakpoints.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/breakpoints/breakpoints.js
 var values = {
   xs: 0,
   // phone
@@ -24755,7 +23948,7 @@ function removeUnusedBreakpoints(breakpointKeys, style3) {
   }, style3);
 }
 
-// node_modules/@mui/system/esm/style/style.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/style/style.js
 function getPath(obj, path, checkVars = true) {
   if (!path || typeof path !== "string") {
     return null;
@@ -24823,7 +24016,7 @@ function style(options) {
 }
 var style_default = style;
 
-// node_modules/@mui/system/esm/memoize/memoize.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/memoize/memoize.js
 function memoize(fn) {
   const cache = {};
   return (arg2) => {
@@ -24834,7 +24027,7 @@ function memoize(fn) {
   };
 }
 
-// node_modules/@mui/system/esm/spacing/spacing.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/spacing/spacing.js
 var properties = {
   m: "margin",
   p: "padding"
@@ -24981,7 +24174,7 @@ spacing.propTypes = true ? spacingKeys.reduce((obj, key) => {
 }, {}) : {};
 spacing.filterProps = spacingKeys;
 
-// node_modules/@mui/system/esm/compose/compose.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/compose/compose.js
 function compose(...styles) {
   const handlers = styles.reduce((acc, style3) => {
     style3.filterProps.forEach((prop) => {
@@ -25003,7 +24196,7 @@ function compose(...styles) {
 }
 var compose_default = compose;
 
-// node_modules/@mui/system/esm/borders/borders.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/borders/borders.js
 function borderTransform(value) {
   if (typeof value !== "number") {
     return value;
@@ -25045,7 +24238,7 @@ borderRadius.propTypes = true ? {
 borderRadius.filterProps = ["borderRadius"];
 var borders = compose_default(border, borderTop, borderRight, borderBottom, borderLeft, borderColor, borderTopColor, borderRightColor, borderBottomColor, borderLeftColor, borderRadius, outline, outlineColor);
 
-// node_modules/@mui/system/esm/cssGrid/cssGrid.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssGrid/cssGrid.js
 var gap = (props) => {
   if (props.gap !== void 0 && props.gap !== null) {
     const transformer = createUnaryUnit(props.theme, "spacing", 8, "gap");
@@ -25117,7 +24310,7 @@ var gridArea = style_default({
 });
 var grid = compose_default(gap, columnGap, rowGap, gridColumn, gridRow, gridAutoFlow, gridAutoColumns, gridAutoRows, gridTemplateColumns, gridTemplateRows, gridTemplateAreas, gridArea);
 
-// node_modules/@mui/system/esm/palette/palette.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/palette/palette.js
 function paletteTransform(value, userValue) {
   if (userValue === "grey") {
     return userValue;
@@ -25142,7 +24335,7 @@ var backgroundColor = style_default({
 });
 var palette = compose_default(color, bgcolor, backgroundColor);
 
-// node_modules/@mui/system/esm/sizing/sizing.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/sizing/sizing.js
 function sizingTransform(value) {
   return value <= 1 && value !== 0 ? `${value * 100}%` : value;
 }
@@ -25205,7 +24398,7 @@ var boxSizing = style_default({
 });
 var sizing = compose_default(width, maxWidth, minWidth, height, maxHeight, minHeight, boxSizing);
 
-// node_modules/@mui/system/esm/styleFunctionSx/defaultSxConfig.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/styleFunctionSx/defaultSxConfig.js
 var defaultSxConfig = {
   // borders
   border: {
@@ -25496,7 +24689,7 @@ var defaultSxConfig = {
 };
 var defaultSxConfig_default = defaultSxConfig;
 
-// node_modules/@mui/system/esm/styleFunctionSx/styleFunctionSx.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/styleFunctionSx/styleFunctionSx.js
 function objectsHaveSameKeys(...objects) {
   const allKeys = objects.reduce((keys, object) => keys.concat(Object.keys(object)), []);
   const union = new Set(allKeys);
@@ -25615,7 +24808,7 @@ var styleFunctionSx = unstable_createStyleFunctionSx();
 styleFunctionSx.filterProps = ["sx"];
 var styleFunctionSx_default = styleFunctionSx;
 
-// node_modules/@mui/system/esm/styleFunctionSx/extendSxProp.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/styleFunctionSx/extendSxProp.js
 var splitProps = (props) => {
   var _a, _b;
   const result = {
@@ -25661,14 +24854,14 @@ function extendSxProp(props) {
   });
 }
 
-// node_modules/@mui/material/esm/styles/useTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/useTheme.js
 var React17 = __toESM(require_react(), 1);
 
-// node_modules/@emotion/react/dist/emotion-element-f0de968e.browser.esm.js
+// node_modules/.pnpm/@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4/node_modules/@emotion/react/dist/emotion-element-f0de968e.browser.esm.js
 var React8 = __toESM(require_react());
 var import_react = __toESM(require_react());
 
-// node_modules/@emotion/sheet/dist/emotion-sheet.esm.js
+// node_modules/.pnpm/@emotion+sheet@1.4.0/node_modules/@emotion/sheet/dist/emotion-sheet.esm.js
 var isDevelopment = false;
 function sheetForTag(tag) {
   if (tag.sheet) {
@@ -25751,7 +24944,7 @@ var StyleSheet = /* @__PURE__ */ (function() {
   return StyleSheet2;
 })();
 
-// node_modules/stylis/src/Enum.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Enum.js
 var MS = "-ms-";
 var MOZ = "-moz-";
 var WEBKIT = "-webkit-";
@@ -25762,7 +24955,7 @@ var IMPORT = "@import";
 var KEYFRAMES = "@keyframes";
 var LAYER = "@layer";
 
-// node_modules/stylis/src/Utility.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Utility.js
 var abs = Math.abs;
 var from = String.fromCharCode;
 var assign = Object.assign;
@@ -25800,7 +24993,7 @@ function combine(array, callback) {
   return array.map(callback).join("");
 }
 
-// node_modules/stylis/src/Tokenizer.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Tokenizer.js
 var line = 1;
 var column = 1;
 var length = 0;
@@ -25936,7 +25129,7 @@ function identifier(index) {
   return slice(index, position);
 }
 
-// node_modules/stylis/src/Parser.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Parser.js
 function compile(value) {
   return dealloc(parse("", null, null, null, [""], value = alloc(value), 0, [0], value));
 }
@@ -26085,7 +25278,7 @@ function declaration(value, root, parent, length2) {
   return node(value, root, parent, DECLARATION, substr(value, 0, length2), substr(value, length2 + 1, -1), length2);
 }
 
-// node_modules/stylis/src/Serializer.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Serializer.js
 function serialize(children, callback) {
   var output = "";
   var length2 = sizeof(children);
@@ -26110,7 +25303,7 @@ function stringify(element, index, children, callback) {
   return strlen(children = serialize(element.children, callback)) ? element.return = element.value + "{" + children + "}" : "";
 }
 
-// node_modules/stylis/src/Middleware.js
+// node_modules/.pnpm/stylis@4.2.0/node_modules/stylis/src/Middleware.js
 function middleware(collection) {
   var length2 = sizeof(collection);
   return function(element, index, children, callback) {
@@ -26129,7 +25322,7 @@ function rulesheet(callback) {
   };
 }
 
-// node_modules/@emotion/memoize/dist/emotion-memoize.esm.js
+// node_modules/.pnpm/@emotion+memoize@0.9.0/node_modules/@emotion/memoize/dist/emotion-memoize.esm.js
 function memoize2(fn) {
   var cache = /* @__PURE__ */ Object.create(null);
   return function(arg2) {
@@ -26138,7 +25331,7 @@ function memoize2(fn) {
   };
 }
 
-// node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js
+// node_modules/.pnpm/@emotion+cache@11.14.0/node_modules/@emotion/cache/dist/emotion-cache.browser.esm.js
 var identifierWithPointTracking = function identifierWithPointTracking2(begin, points, index) {
   var previous = 0;
   var character2 = 0;
@@ -26475,7 +25668,7 @@ var createCache = function createCache2(options) {
   return cache;
 };
 
-// node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js
+// node_modules/.pnpm/@emotion+utils@1.4.2/node_modules/@emotion/utils/dist/emotion-utils.browser.esm.js
 var isBrowser = true;
 function getRegisteredStyles(registered, registeredStyles, classNames) {
   var rawClassName = "";
@@ -26517,7 +25710,7 @@ var insertStyles = function insertStyles2(cache, serialized, isStringTag2) {
   }
 };
 
-// node_modules/@emotion/hash/dist/emotion-hash.esm.js
+// node_modules/.pnpm/@emotion+hash@0.9.2/node_modules/@emotion/hash/dist/emotion-hash.esm.js
 function murmur2(str) {
   var h = 0;
   var k, i = 0, len = str.length;
@@ -26547,7 +25740,7 @@ function murmur2(str) {
   return ((h ^ h >>> 15) >>> 0).toString(36);
 }
 
-// node_modules/@emotion/unitless/dist/emotion-unitless.esm.js
+// node_modules/.pnpm/@emotion+unitless@0.10.0/node_modules/@emotion/unitless/dist/emotion-unitless.esm.js
 var unitlessKeys = {
   animationIterationCount: 1,
   aspectRatio: 1,
@@ -26599,7 +25792,7 @@ var unitlessKeys = {
   strokeWidth: 1
 };
 
-// node_modules/@emotion/serialize/dist/emotion-serialize.esm.js
+// node_modules/.pnpm/@emotion+serialize@1.3.3/node_modules/@emotion/serialize/dist/emotion-serialize.esm.js
 var isDevelopment2 = false;
 var hyphenateRegex = /[A-Z]|^ms/g;
 var animationRegex = /_EMO_([^_]+?)_([^]*?)_EMO_/g;
@@ -26773,7 +25966,7 @@ function serializeStyles(args, registered, mergedProps) {
   };
 }
 
-// node_modules/@emotion/use-insertion-effect-with-fallbacks/dist/emotion-use-insertion-effect-with-fallbacks.browser.esm.js
+// node_modules/.pnpm/@emotion+use-insertion-effect-with-fallbacks@1.2.0_react@19.2.4/node_modules/@emotion/use-insertion-effect-with-fallbacks/dist/emotion-use-insertion-effect-with-fallbacks.browser.esm.js
 var React7 = __toESM(require_react());
 var syncFallback = function syncFallback2(create) {
   return create();
@@ -26781,7 +25974,7 @@ var syncFallback = function syncFallback2(create) {
 var useInsertionEffect2 = React7["useInsertionEffect"] ? React7["useInsertionEffect"] : false;
 var useInsertionEffectAlwaysWithSyncFallback = useInsertionEffect2 || syncFallback;
 
-// node_modules/@emotion/react/dist/emotion-element-f0de968e.browser.esm.js
+// node_modules/.pnpm/@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4/node_modules/@emotion/react/dist/emotion-element-f0de968e.browser.esm.js
 var isDevelopment3 = false;
 var EmotionCacheContext = /* @__PURE__ */ React8.createContext(
   // we're doing this to avoid preconstruct's dead code elimination in this one case
@@ -26855,7 +26048,7 @@ var Emotion = /* @__PURE__ */ withEmotionCache(function(props, cache, ref) {
 });
 var Emotion$1 = Emotion;
 
-// node_modules/@emotion/react/dist/emotion-react.browser.esm.js
+// node_modules/.pnpm/@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4/node_modules/@emotion/react/dist/emotion-react.browser.esm.js
 var React9 = __toESM(require_react());
 var import_hoist_non_react_statics = __toESM(require_hoist_non_react_statics_cjs());
 var jsx = function jsx2(type, props) {
@@ -26896,10 +26089,10 @@ function keyframes() {
   };
 }
 
-// node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js
+// node_modules/.pnpm/@emotion+styled@11.14.1_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@types+react@19.2.14_react@19.2.4/node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js
 var React10 = __toESM(require_react());
 
-// node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.esm.js
+// node_modules/.pnpm/@emotion+is-prop-valid@1.4.0/node_modules/@emotion/is-prop-valid/dist/emotion-is-prop-valid.esm.js
 var reactPropsRegex = /^((children|dangerouslySetInnerHTML|key|ref|autoFocus|defaultValue|defaultChecked|innerHTML|suppressContentEditableWarning|suppressHydrationWarning|valueLink|abbr|accept|acceptCharset|accessKey|action|allow|allowUserMedia|allowPaymentRequest|allowFullScreen|allowTransparency|alt|async|autoComplete|autoPlay|capture|cellPadding|cellSpacing|challenge|charSet|checked|cite|classID|className|cols|colSpan|content|contentEditable|contextMenu|controls|controlsList|coords|crossOrigin|data|dateTime|decoding|default|defer|dir|disabled|disablePictureInPicture|disableRemotePlayback|download|draggable|encType|enterKeyHint|fetchpriority|fetchPriority|form|formAction|formEncType|formMethod|formNoValidate|formTarget|frameBorder|headers|height|hidden|high|href|hrefLang|htmlFor|httpEquiv|id|inputMode|integrity|is|keyParams|keyType|kind|label|lang|list|loading|loop|low|marginHeight|marginWidth|max|maxLength|media|mediaGroup|method|min|minLength|multiple|muted|name|nonce|noValidate|open|optimum|pattern|placeholder|playsInline|popover|popoverTarget|popoverTargetAction|poster|preload|profile|radioGroup|readOnly|referrerPolicy|rel|required|reversed|role|rows|rowSpan|sandbox|scope|scoped|scrolling|seamless|selected|shape|size|sizes|slot|span|spellCheck|src|srcDoc|srcLang|srcSet|start|step|style|summary|tabIndex|target|title|translate|type|useMap|value|width|wmode|wrap|about|datatype|inlist|prefix|property|resource|typeof|vocab|autoCapitalize|autoCorrect|autoSave|color|incremental|fallback|inert|itemProp|itemScope|itemType|itemID|itemRef|on|option|results|security|unselectable|accentHeight|accumulate|additive|alignmentBaseline|allowReorder|alphabetic|amplitude|arabicForm|ascent|attributeName|attributeType|autoReverse|azimuth|baseFrequency|baselineShift|baseProfile|bbox|begin|bias|by|calcMode|capHeight|clip|clipPathUnits|clipPath|clipRule|colorInterpolation|colorInterpolationFilters|colorProfile|colorRendering|contentScriptType|contentStyleType|cursor|cx|cy|d|decelerate|descent|diffuseConstant|direction|display|divisor|dominantBaseline|dur|dx|dy|edgeMode|elevation|enableBackground|end|exponent|externalResourcesRequired|fill|fillOpacity|fillRule|filter|filterRes|filterUnits|floodColor|floodOpacity|focusable|fontFamily|fontSize|fontSizeAdjust|fontStretch|fontStyle|fontVariant|fontWeight|format|from|fr|fx|fy|g1|g2|glyphName|glyphOrientationHorizontal|glyphOrientationVertical|glyphRef|gradientTransform|gradientUnits|hanging|horizAdvX|horizOriginX|ideographic|imageRendering|in|in2|intercept|k|k1|k2|k3|k4|kernelMatrix|kernelUnitLength|kerning|keyPoints|keySplines|keyTimes|lengthAdjust|letterSpacing|lightingColor|limitingConeAngle|local|markerEnd|markerMid|markerStart|markerHeight|markerUnits|markerWidth|mask|maskContentUnits|maskUnits|mathematical|mode|numOctaves|offset|opacity|operator|order|orient|orientation|origin|overflow|overlinePosition|overlineThickness|panose1|paintOrder|pathLength|patternContentUnits|patternTransform|patternUnits|pointerEvents|points|pointsAtX|pointsAtY|pointsAtZ|preserveAlpha|preserveAspectRatio|primitiveUnits|r|radius|refX|refY|renderingIntent|repeatCount|repeatDur|requiredExtensions|requiredFeatures|restart|result|rotate|rx|ry|scale|seed|shapeRendering|slope|spacing|specularConstant|specularExponent|speed|spreadMethod|startOffset|stdDeviation|stemh|stemv|stitchTiles|stopColor|stopOpacity|strikethroughPosition|strikethroughThickness|string|stroke|strokeDasharray|strokeDashoffset|strokeLinecap|strokeLinejoin|strokeMiterlimit|strokeOpacity|strokeWidth|surfaceScale|systemLanguage|tableValues|targetX|targetY|textAnchor|textDecoration|textRendering|textLength|to|transform|u1|u2|underlinePosition|underlineThickness|unicode|unicodeBidi|unicodeRange|unitsPerEm|vAlphabetic|vHanging|vIdeographic|vMathematical|values|vectorEffect|version|vertAdvY|vertOriginX|vertOriginY|viewBox|viewTarget|visibility|widths|wordSpacing|writingMode|x|xHeight|x1|x2|xChannelSelector|xlinkActuate|xlinkArcrole|xlinkHref|xlinkRole|xlinkShow|xlinkTitle|xlinkType|xmlBase|xmlns|xmlnsXlink|xmlLang|xmlSpace|y|y1|y2|yChannelSelector|z|zoomAndPan|for|class|autofocus)|(([Dd][Aa][Tt][Aa]|[Aa][Rr][Ii][Aa]|x)-.*))$/;
 var isPropValid = /* @__PURE__ */ memoize2(
   function(prop) {
@@ -26908,7 +26101,7 @@ var isPropValid = /* @__PURE__ */ memoize2(
   /* Z+1 */
 );
 
-// node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js
+// node_modules/.pnpm/@emotion+styled@11.14.1_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@types+react@19.2.14_react@19.2.4/node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js
 var isDevelopment4 = false;
 var testOmitPropsOnStringTag = isPropValid;
 var testOmitPropsOnComponent = function testOmitPropsOnComponent2(key) {
@@ -27034,7 +26227,7 @@ var createStyled = function createStyled2(tag, options) {
   };
 };
 
-// node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js
+// node_modules/.pnpm/@emotion+styled@11.14.1_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@types+react@19.2.14_react@19.2.4/node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js
 var import_react3 = __toESM(require_react());
 var tags = [
   "a",
@@ -27178,7 +26371,7 @@ tags.forEach(function(tagName) {
   styled[tagName] = styled(tagName);
 });
 
-// node_modules/@mui/styled-engine/esm/index.js
+// node_modules/.pnpm/@mui+styled-engine@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emo_8b0ec912ff35ca62c315c470150335d1/node_modules/@mui/styled-engine/esm/index.js
 function styled2(tag, options) {
   const stylesFactory = styled(tag, options);
   if (true) {
@@ -27205,7 +26398,7 @@ function internal_serializeStyles(styles) {
   return serializeStyles(wrapper);
 }
 
-// node_modules/@mui/system/esm/createBreakpoints/createBreakpoints.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createBreakpoints/createBreakpoints.js
 var sortBreakpointsValues = (values3) => {
   const breakpointsAsArray = Object.keys(values3).map((key) => ({
     key,
@@ -27283,13 +26476,13 @@ function createBreakpoints(breakpoints) {
   }, other);
 }
 
-// node_modules/@mui/system/esm/createTheme/shape.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createTheme/shape.js
 var shape = {
   borderRadius: 4
 };
 var shape_default = shape;
 
-// node_modules/@mui/system/esm/createTheme/createSpacing.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createTheme/createSpacing.js
 function createSpacing(spacingInput = 8, transform = createUnarySpacing({
   spacing: spacingInput
 })) {
@@ -27312,7 +26505,7 @@ function createSpacing(spacingInput = 8, transform = createUnarySpacing({
   return spacing2;
 }
 
-// node_modules/@mui/system/esm/createTheme/applyStyles.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createTheme/applyStyles.js
 function applyStyles(key, styles) {
   var _a;
   const theme = this;
@@ -27337,7 +26530,7 @@ function applyStyles(key, styles) {
   return {};
 }
 
-// node_modules/@mui/system/esm/createTheme/createTheme.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createTheme/createTheme.js
 function createTheme(options = {}, ...args) {
   const _a = options, {
     breakpoints: breakpointsInput = {},
@@ -27377,7 +26570,7 @@ function createTheme(options = {}, ...args) {
 }
 var createTheme_default = createTheme;
 
-// node_modules/@mui/system/esm/useThemeWithoutDefault/useThemeWithoutDefault.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/useThemeWithoutDefault/useThemeWithoutDefault.js
 var React11 = __toESM(require_react(), 1);
 function isObjectEmpty(obj) {
   return Object.keys(obj).length === 0;
@@ -27388,14 +26581,14 @@ function useTheme2(defaultTheme3 = null) {
 }
 var useThemeWithoutDefault_default = useTheme2;
 
-// node_modules/@mui/system/esm/useTheme/useTheme.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/useTheme/useTheme.js
 var systemDefaultTheme = createTheme_default();
 function useTheme3(defaultTheme3 = systemDefaultTheme) {
   return useThemeWithoutDefault_default(defaultTheme3);
 }
 var useTheme_default = useTheme3;
 
-// node_modules/@mui/utils/esm/ClassNameGenerator/ClassNameGenerator.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/ClassNameGenerator/ClassNameGenerator.js
 var defaultGenerator = (componentName) => componentName;
 var createClassNameGenerator = () => {
   let generate = defaultGenerator;
@@ -27414,7 +26607,7 @@ var createClassNameGenerator = () => {
 var ClassNameGenerator = createClassNameGenerator();
 var ClassNameGenerator_default = ClassNameGenerator;
 
-// node_modules/@mui/system/esm/createBox/createBox.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createBox/createBox.js
 var React12 = __toESM(require_react(), 1);
 var import_jsx_runtime = __toESM(require_jsx_runtime(), 1);
 function createBox(options = {}) {
@@ -27446,7 +26639,7 @@ function createBox(options = {}) {
   return Box2;
 }
 
-// node_modules/@mui/utils/esm/generateUtilityClass/generateUtilityClass.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/generateUtilityClass/generateUtilityClass.js
 var globalStateClasses = {
   active: "active",
   checked: "checked",
@@ -27466,7 +26659,7 @@ function generateUtilityClass(componentName, slot, globalStatePrefix = "Mui") {
   return globalStateClass ? `${globalStatePrefix}-${globalStateClass}` : `${ClassNameGenerator_default.generate(componentName)}-${slot}`;
 }
 
-// node_modules/@mui/utils/esm/generateUtilityClasses/generateUtilityClasses.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/generateUtilityClasses/generateUtilityClasses.js
 function generateUtilityClasses(componentName, slots, globalStatePrefix = "Mui") {
   const result = {};
   slots.forEach((slot) => {
@@ -27475,7 +26668,7 @@ function generateUtilityClasses(componentName, slots, globalStatePrefix = "Mui")
   return result;
 }
 
-// node_modules/@mui/utils/esm/getDisplayName/getDisplayName.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/getDisplayName/getDisplayName.js
 var import_react_is2 = __toESM(require_react_is2(), 1);
 function getFunctionComponentName(Component, fallback = "") {
   return Component.displayName || Component.name || fallback;
@@ -27507,7 +26700,7 @@ function getDisplayName(Component) {
   return void 0;
 }
 
-// node_modules/@mui/system/esm/preprocessStyles.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/preprocessStyles.js
 function preprocessStyles(input) {
   const _a = input, {
     variants
@@ -27532,7 +26725,7 @@ function preprocessStyles(input) {
   return result;
 }
 
-// node_modules/@mui/system/esm/createStyled/createStyled.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/createStyled/createStyled.js
 var systemDefaultTheme2 = createTheme_default();
 function shouldForwardProp(prop) {
   return prop !== "ownerState" && prop !== "theme" && prop !== "sx" && prop !== "as";
@@ -27768,7 +26961,7 @@ function lowercaseFirstLetter(string) {
   return string.charAt(0).toLowerCase() + string.slice(1);
 }
 
-// node_modules/@mui/utils/esm/resolveProps/resolveProps.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/resolveProps/resolveProps.js
 function resolveProps(defaultProps2, props, mergeClassNameAndStyle = false) {
   const output = __spreadValues({}, props);
   for (const key in defaultProps2) {
@@ -27804,7 +26997,7 @@ function resolveProps(defaultProps2, props, mergeClassNameAndStyle = false) {
   return output;
 }
 
-// node_modules/@mui/system/esm/useThemeProps/getThemeProps.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/useThemeProps/getThemeProps.js
 function getThemeProps(params) {
   const {
     theme,
@@ -27817,7 +27010,7 @@ function getThemeProps(params) {
   return resolveProps(theme.components[name].defaultProps, props);
 }
 
-// node_modules/@mui/system/esm/useThemeProps/useThemeProps.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/useThemeProps/useThemeProps.js
 function useThemeProps({
   props,
   name,
@@ -27835,18 +27028,18 @@ function useThemeProps({
   });
 }
 
-// node_modules/@mui/utils/esm/useEnhancedEffect/useEnhancedEffect.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useEnhancedEffect/useEnhancedEffect.js
 var React13 = __toESM(require_react(), 1);
 var useEnhancedEffect = typeof window !== "undefined" ? React13.useLayoutEffect : React13.useEffect;
 var useEnhancedEffect_default = useEnhancedEffect;
 
-// node_modules/@mui/utils/esm/clamp/clamp.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/clamp/clamp.js
 function clamp(val, min = Number.MIN_SAFE_INTEGER, max = Number.MAX_SAFE_INTEGER) {
   return Math.max(min, Math.min(val, max));
 }
 var clamp_default = clamp;
 
-// node_modules/@mui/system/esm/colorManipulator/colorManipulator.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/colorManipulator/colorManipulator.js
 function clampWrapper(value, min = 0, max = 1) {
   if (true) {
     if (value < min || value > max) {
@@ -28063,7 +27256,7 @@ function private_safeEmphasize(color2, coefficient, warning) {
   }
 }
 
-// node_modules/@mui/system/esm/RtlProvider/index.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/RtlProvider/index.js
 var React14 = __toESM(require_react(), 1);
 var import_prop_types2 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime2 = __toESM(require_jsx_runtime(), 1);
@@ -28087,7 +27280,7 @@ var useRtl = () => {
   return value != null ? value : false;
 };
 
-// node_modules/@mui/system/esm/DefaultPropsProvider/DefaultPropsProvider.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/DefaultPropsProvider/DefaultPropsProvider.js
 var React15 = __toESM(require_react(), 1);
 var import_prop_types3 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime3 = __toESM(require_jsx_runtime(), 1);
@@ -28148,7 +27341,7 @@ function useDefaultProps({
 }
 var DefaultPropsProvider_default = DefaultPropsProvider;
 
-// node_modules/@mui/utils/esm/useId/useId.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useId/useId.js
 var React16 = __toESM(require_react(), 1);
 var globalId = 0;
 function useGlobalId(idOverride) {
@@ -28172,7 +27365,7 @@ function useId(idOverride) {
   return useGlobalId(idOverride);
 }
 
-// node_modules/@mui/system/esm/memoTheme.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/memoTheme.js
 var arg = {
   theme: void 0
 };
@@ -28191,7 +27384,7 @@ function unstable_memoTheme(styleFn) {
   };
 }
 
-// node_modules/@mui/system/esm/cssVars/createGetCssVar.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssVars/createGetCssVar.js
 function createGetCssVar(prefix2 = "") {
   function appendVar(...vars) {
     if (!vars.length) {
@@ -28209,7 +27402,7 @@ function createGetCssVar(prefix2 = "") {
   return getCssVar;
 }
 
-// node_modules/@mui/system/esm/cssVars/cssVarsParser.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssVars/cssVarsParser.js
 var assignNestedKeys = (obj, keys, value, arrayKeys = []) => {
   let temp = obj;
   keys.forEach((k, index) => {
@@ -28289,7 +27482,7 @@ function cssVarsParser(theme, options) {
   };
 }
 
-// node_modules/@mui/system/esm/cssVars/prepareCssVars.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssVars/prepareCssVars.js
 function prepareCssVars(theme, parserConfig = {}) {
   const {
     getSelector = defaultGetSelector,
@@ -28442,7 +27635,7 @@ function prepareCssVars(theme, parserConfig = {}) {
 }
 var prepareCssVars_default = prepareCssVars;
 
-// node_modules/@mui/system/esm/cssVars/getColorSchemeSelector.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssVars/getColorSchemeSelector.js
 function createGetColorSchemeSelector(selector) {
   return function getColorSchemeSelector(colorScheme) {
     if (selector === "media") {
@@ -28469,14 +27662,14 @@ function createGetColorSchemeSelector(selector) {
   };
 }
 
-// node_modules/@mui/material/esm/colors/common.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/common.js
 var common = {
   black: "#000",
   white: "#fff"
 };
 var common_default = common;
 
-// node_modules/@mui/material/esm/colors/grey.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/grey.js
 var grey = {
   50: "#fafafa",
   100: "#f5f5f5",
@@ -28495,7 +27688,7 @@ var grey = {
 };
 var grey_default = grey;
 
-// node_modules/@mui/material/esm/colors/purple.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/purple.js
 var purple = {
   50: "#f3e5f5",
   100: "#e1bee7",
@@ -28514,7 +27707,7 @@ var purple = {
 };
 var purple_default = purple;
 
-// node_modules/@mui/material/esm/colors/red.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/red.js
 var red = {
   50: "#ffebee",
   100: "#ffcdd2",
@@ -28533,7 +27726,7 @@ var red = {
 };
 var red_default = red;
 
-// node_modules/@mui/material/esm/colors/orange.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/orange.js
 var orange = {
   50: "#fff3e0",
   100: "#ffe0b2",
@@ -28552,7 +27745,7 @@ var orange = {
 };
 var orange_default = orange;
 
-// node_modules/@mui/material/esm/colors/blue.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/blue.js
 var blue = {
   50: "#e3f2fd",
   100: "#bbdefb",
@@ -28571,7 +27764,7 @@ var blue = {
 };
 var blue_default = blue;
 
-// node_modules/@mui/material/esm/colors/lightBlue.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/lightBlue.js
 var lightBlue = {
   50: "#e1f5fe",
   100: "#b3e5fc",
@@ -28590,7 +27783,7 @@ var lightBlue = {
 };
 var lightBlue_default = lightBlue;
 
-// node_modules/@mui/material/esm/colors/green.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/colors/green.js
 var green = {
   50: "#e8f5e9",
   100: "#c8e6c9",
@@ -28609,7 +27802,7 @@ var green = {
 };
 var green_default = green;
 
-// node_modules/@mui/material/esm/styles/createPalette.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createPalette.js
 function getLight() {
   return {
     // The colors used to style the text.
@@ -28935,7 +28128,7 @@ const theme2 = createTheme({ palette: {
   return paletteOutput;
 }
 
-// node_modules/@mui/system/esm/cssVars/prepareTypographyVars.js
+// node_modules/.pnpm/@mui+system@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+st_100059df2673d7a323eb0d2da91385ea/node_modules/@mui/system/esm/cssVars/prepareTypographyVars.js
 function prepareTypographyVars(typography) {
   const vars = {};
   const entries = Object.entries(typography);
@@ -28948,7 +28141,7 @@ function prepareTypographyVars(typography) {
   return vars;
 }
 
-// node_modules/@mui/material/esm/styles/createMixins.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createMixins.js
 function createMixins(breakpoints, mixins) {
   return __spreadValues({
     toolbar: {
@@ -28965,7 +28158,7 @@ function createMixins(breakpoints, mixins) {
   }, mixins);
 }
 
-// node_modules/@mui/material/esm/styles/createTypography.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createTypography.js
 function round(value) {
   return Math.round(value * 1e5) / 1e5;
 }
@@ -29057,7 +28250,7 @@ function createTypography(palette2, typography) {
   });
 }
 
-// node_modules/@mui/material/esm/styles/shadows.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/shadows.js
 var shadowKeyUmbraOpacity = 0.2;
 var shadowKeyPenumbraOpacity = 0.14;
 var shadowAmbientShadowOpacity = 0.12;
@@ -29067,7 +28260,7 @@ function createShadow(...px) {
 var shadows = ["none", createShadow(0, 2, 1, -1, 0, 1, 1, 0, 0, 1, 3, 0), createShadow(0, 3, 1, -2, 0, 2, 2, 0, 0, 1, 5, 0), createShadow(0, 3, 3, -2, 0, 3, 4, 0, 0, 1, 8, 0), createShadow(0, 2, 4, -1, 0, 4, 5, 0, 0, 1, 10, 0), createShadow(0, 3, 5, -1, 0, 5, 8, 0, 0, 1, 14, 0), createShadow(0, 3, 5, -1, 0, 6, 10, 0, 0, 1, 18, 0), createShadow(0, 4, 5, -2, 0, 7, 10, 1, 0, 2, 16, 1), createShadow(0, 5, 5, -3, 0, 8, 10, 1, 0, 3, 14, 2), createShadow(0, 5, 6, -3, 0, 9, 12, 1, 0, 3, 16, 2), createShadow(0, 6, 6, -3, 0, 10, 14, 1, 0, 4, 18, 3), createShadow(0, 6, 7, -4, 0, 11, 15, 1, 0, 4, 20, 3), createShadow(0, 7, 8, -4, 0, 12, 17, 2, 0, 5, 22, 4), createShadow(0, 7, 8, -4, 0, 13, 19, 2, 0, 5, 24, 4), createShadow(0, 7, 9, -4, 0, 14, 21, 2, 0, 5, 26, 4), createShadow(0, 8, 9, -5, 0, 15, 22, 2, 0, 6, 28, 5), createShadow(0, 8, 10, -5, 0, 16, 24, 2, 0, 6, 30, 5), createShadow(0, 8, 11, -5, 0, 17, 26, 2, 0, 6, 32, 5), createShadow(0, 9, 11, -5, 0, 18, 28, 2, 0, 7, 34, 6), createShadow(0, 9, 12, -6, 0, 19, 29, 2, 0, 7, 36, 6), createShadow(0, 10, 13, -6, 0, 20, 31, 3, 0, 8, 38, 7), createShadow(0, 10, 13, -6, 0, 21, 33, 3, 0, 8, 40, 7), createShadow(0, 10, 14, -6, 0, 22, 35, 3, 0, 8, 42, 7), createShadow(0, 11, 14, -7, 0, 23, 36, 3, 0, 9, 44, 8), createShadow(0, 11, 15, -7, 0, 24, 38, 3, 0, 9, 46, 8)];
 var shadows_default = shadows;
 
-// node_modules/@mui/material/esm/styles/createTransitions.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createTransitions.js
 var easing = {
   // This is the most common easing curve.
   easeInOut: "cubic-bezier(0.4, 0, 0.2, 1)",
@@ -29148,7 +28341,7 @@ function createTransitions(inputTransitions) {
   });
 }
 
-// node_modules/@mui/material/esm/styles/zIndex.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/zIndex.js
 var zIndex = {
   mobileStepper: 1e3,
   fab: 1050,
@@ -29161,7 +28354,7 @@ var zIndex = {
 };
 var zIndex_default = zIndex;
 
-// node_modules/@mui/material/esm/styles/stringifyTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/stringifyTheme.js
 function isSerializable(val) {
   return isPlainObject(val) || typeof val === "undefined" || typeof val === "string" || typeof val === "boolean" || typeof val === "number" || Array.isArray(val);
 }
@@ -29190,7 +28383,7 @@ theme.transitions = createTransitions(theme.transitions || {});
 export default theme;`;
 }
 
-// node_modules/@mui/material/esm/styles/createThemeNoVars.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createThemeNoVars.js
 function coefficientToPercentage(coefficient) {
   if (typeof coefficient === "number") {
     return `${(coefficient * 100).toFixed(0)}%`;
@@ -29318,7 +28511,7 @@ function createThemeNoVars(options = {}, ...args) {
 }
 var createThemeNoVars_default = createThemeNoVars;
 
-// node_modules/@mui/material/esm/styles/getOverlayAlpha.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/getOverlayAlpha.js
 function getOverlayAlpha(elevation) {
   let alphaValue;
   if (elevation < 1) {
@@ -29329,7 +28522,7 @@ function getOverlayAlpha(elevation) {
   return Math.round(alphaValue * 10) / 1e3;
 }
 
-// node_modules/@mui/material/esm/styles/createColorScheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createColorScheme.js
 var defaultDarkOverlays = [...Array(25)].map((_, index) => {
   if (index === 0) {
     return "none";
@@ -29373,18 +28566,18 @@ function createColorScheme(options) {
   }, other);
 }
 
-// node_modules/@mui/material/esm/styles/shouldSkipGeneratingVar.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/shouldSkipGeneratingVar.js
 function shouldSkipGeneratingVar(keys) {
   var _a;
   return !!keys[0].match(/(cssVarPrefix|colorSchemeSelector|modularCssLayers|rootSelector|typography|mixins|breakpoints|direction|transitions)/) || !!keys[0].match(/sxConfig$/) || // ends with sxConfig
   keys[0] === "palette" && !!((_a = keys[1]) == null ? void 0 : _a.match(/(mode|contrastThreshold|tonalOffset)/));
 }
 
-// node_modules/@mui/material/esm/styles/excludeVariablesFromRoot.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/excludeVariablesFromRoot.js
 var excludeVariablesFromRoot = (cssVarPrefix) => [...[...Array(25)].map((_, index) => `--${cssVarPrefix ? `${cssVarPrefix}-` : ""}overlays-${index}`), `--${cssVarPrefix ? `${cssVarPrefix}-` : ""}palette-AppBar-darkBg`, `--${cssVarPrefix ? `${cssVarPrefix}-` : ""}palette-AppBar-darkColor`];
 var excludeVariablesFromRoot_default = excludeVariablesFromRoot;
 
-// node_modules/@mui/material/esm/styles/createGetSelector.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createGetSelector.js
 var createGetSelector_default = (theme) => (colorScheme, css2) => {
   const root = theme.rootSelector || ":root";
   const selector = theme.colorSchemeSelector;
@@ -29441,7 +28634,7 @@ var createGetSelector_default = (theme) => (colorScheme, css2) => {
   return root;
 };
 
-// node_modules/@mui/material/esm/styles/createThemeWithVars.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createThemeWithVars.js
 function assignNode(obj, keys) {
   keys.forEach((k) => {
     if (!obj[k]) {
@@ -29613,10 +28806,10 @@ function createThemeWithVars(options = {}, ...args) {
     }
     assignNode(palette2, ["Alert", "AppBar", "Avatar", "Button", "Chip", "FilledInput", "LinearProgress", "Skeleton", "Slider", "SnackbarContent", "SpeedDialAction", "StepConnector", "StepContent", "Switch", "TableCell", "Tooltip"]);
     if (palette2.mode === "light") {
-      setColor(palette2.Alert, "errorColor", colorMix(private_safeDarken, palette2.error.light, 0.6));
-      setColor(palette2.Alert, "infoColor", colorMix(private_safeDarken, palette2.info.light, 0.6));
-      setColor(palette2.Alert, "successColor", colorMix(private_safeDarken, palette2.success.light, 0.6));
-      setColor(palette2.Alert, "warningColor", colorMix(private_safeDarken, palette2.warning.light, 0.6));
+      setColor(palette2.Alert, "errorColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-error-light") : palette2.error.light, 0.6));
+      setColor(palette2.Alert, "infoColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-info-light") : palette2.info.light, 0.6));
+      setColor(palette2.Alert, "successColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-success-light") : palette2.success.light, 0.6));
+      setColor(palette2.Alert, "warningColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.light, 0.6));
       setColor(palette2.Alert, "errorFilledBg", setCssVarColor("palette-error-main"));
       setColor(palette2.Alert, "infoFilledBg", setCssVarColor("palette-info-main"));
       setColor(palette2.Alert, "successFilledBg", setCssVarColor("palette-success-main"));
@@ -29625,10 +28818,10 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.Alert, "infoFilledColor", silent(() => palette2.getContrastText(palette2.info.main)));
       setColor(palette2.Alert, "successFilledColor", silent(() => palette2.getContrastText(palette2.success.main)));
       setColor(palette2.Alert, "warningFilledColor", silent(() => palette2.getContrastText(palette2.warning.main)));
-      setColor(palette2.Alert, "errorStandardBg", colorMix(private_safeLighten, palette2.error.light, 0.9));
-      setColor(palette2.Alert, "infoStandardBg", colorMix(private_safeLighten, palette2.info.light, 0.9));
-      setColor(palette2.Alert, "successStandardBg", colorMix(private_safeLighten, palette2.success.light, 0.9));
-      setColor(palette2.Alert, "warningStandardBg", colorMix(private_safeLighten, palette2.warning.light, 0.9));
+      setColor(palette2.Alert, "errorStandardBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-error-light") : palette2.error.light, 0.9));
+      setColor(palette2.Alert, "infoStandardBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-info-light") : palette2.info.light, 0.9));
+      setColor(palette2.Alert, "successStandardBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-success-light") : palette2.success.light, 0.9));
+      setColor(palette2.Alert, "warningStandardBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.light, 0.9));
       setColor(palette2.Alert, "errorIconColor", setCssVarColor("palette-error-main"));
       setColor(palette2.Alert, "infoIconColor", setCssVarColor("palette-info-main"));
       setColor(palette2.Alert, "successIconColor", setCssVarColor("palette-success-main"));
@@ -29643,20 +28836,20 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.FilledInput, "bg", "rgba(0, 0, 0, 0.06)");
       setColor(palette2.FilledInput, "hoverBg", "rgba(0, 0, 0, 0.09)");
       setColor(palette2.FilledInput, "disabledBg", "rgba(0, 0, 0, 0.12)");
-      setColor(palette2.LinearProgress, "primaryBg", colorMix(private_safeLighten, palette2.primary.main, 0.62));
-      setColor(palette2.LinearProgress, "secondaryBg", colorMix(private_safeLighten, palette2.secondary.main, 0.62));
-      setColor(palette2.LinearProgress, "errorBg", colorMix(private_safeLighten, palette2.error.main, 0.62));
-      setColor(palette2.LinearProgress, "infoBg", colorMix(private_safeLighten, palette2.info.main, 0.62));
-      setColor(palette2.LinearProgress, "successBg", colorMix(private_safeLighten, palette2.success.main, 0.62));
-      setColor(palette2.LinearProgress, "warningBg", colorMix(private_safeLighten, palette2.warning.main, 0.62));
-      setColor(palette2.Skeleton, "bg", colorSpace ? colorMix(private_safeAlpha, palette2.text.primary, 0.11) : `rgba(${setCssVarColor("palette-text-primaryChannel")} / 0.11)`);
-      setColor(palette2.Slider, "primaryTrack", colorMix(private_safeLighten, palette2.primary.main, 0.62));
-      setColor(palette2.Slider, "secondaryTrack", colorMix(private_safeLighten, palette2.secondary.main, 0.62));
-      setColor(palette2.Slider, "errorTrack", colorMix(private_safeLighten, palette2.error.main, 0.62));
-      setColor(palette2.Slider, "infoTrack", colorMix(private_safeLighten, palette2.info.main, 0.62));
-      setColor(palette2.Slider, "successTrack", colorMix(private_safeLighten, palette2.success.main, 0.62));
-      setColor(palette2.Slider, "warningTrack", colorMix(private_safeLighten, palette2.warning.main, 0.62));
-      const snackbarContentBackground = colorSpace ? colorMix(private_safeDarken, palette2.background.default, 0.6825) : private_safeEmphasize(palette2.background.default, 0.8);
+      setColor(palette2.LinearProgress, "primaryBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.62));
+      setColor(palette2.LinearProgress, "secondaryBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.62));
+      setColor(palette2.LinearProgress, "errorBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.62));
+      setColor(palette2.LinearProgress, "infoBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.62));
+      setColor(palette2.LinearProgress, "successBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.62));
+      setColor(palette2.LinearProgress, "warningBg", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.main, 0.62));
+      setColor(palette2.Skeleton, "bg", colorSpace ? colorMix(private_safeAlpha, nativeColor ? getCssVar("palette-text-primary") : palette2.text.primary, 0.11) : `rgba(${setCssVarColor("palette-text-primaryChannel")} / 0.11)`);
+      setColor(palette2.Slider, "primaryTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.62));
+      setColor(palette2.Slider, "secondaryTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.62));
+      setColor(palette2.Slider, "errorTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.62));
+      setColor(palette2.Slider, "infoTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.62));
+      setColor(palette2.Slider, "successTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.62));
+      setColor(palette2.Slider, "warningTrack", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-warning-main") : palette2.warning.main, 0.62));
+      const snackbarContentBackground = colorSpace ? colorMix(private_safeDarken, nativeColor ? getCssVar("palette-background-default") : palette2.background.default, 0.6825) : private_safeEmphasize(palette2.background.default, 0.8);
       setColor(palette2.SnackbarContent, "bg", snackbarContentBackground);
       setColor(palette2.SnackbarContent, "color", silent(() => colorSpace ? dark.text.primary : palette2.getContrastText(snackbarContentBackground)));
       setColor(palette2.SpeedDialAction, "fabHoverBg", private_safeEmphasize(palette2.background.paper, 0.15));
@@ -29664,20 +28857,20 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.StepContent, "border", setCssVarColor("palette-grey-400"));
       setColor(palette2.Switch, "defaultColor", setCssVarColor("palette-common-white"));
       setColor(palette2.Switch, "defaultDisabledColor", setCssVarColor("palette-grey-100"));
-      setColor(palette2.Switch, "primaryDisabledColor", colorMix(private_safeLighten, palette2.primary.main, 0.62));
-      setColor(palette2.Switch, "secondaryDisabledColor", colorMix(private_safeLighten, palette2.secondary.main, 0.62));
-      setColor(palette2.Switch, "errorDisabledColor", colorMix(private_safeLighten, palette2.error.main, 0.62));
-      setColor(palette2.Switch, "infoDisabledColor", colorMix(private_safeLighten, palette2.info.main, 0.62));
-      setColor(palette2.Switch, "successDisabledColor", colorMix(private_safeLighten, palette2.success.main, 0.62));
-      setColor(palette2.Switch, "warningDisabledColor", colorMix(private_safeLighten, palette2.warning.main, 0.62));
-      setColor(palette2.TableCell, "border", colorMix(private_safeLighten, colorMix(private_safeAlpha, palette2.divider, 1), 0.88));
-      setColor(palette2.Tooltip, "bg", colorMix(private_safeAlpha, palette2.grey[700], 0.92));
+      setColor(palette2.Switch, "primaryDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.62));
+      setColor(palette2.Switch, "secondaryDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.62));
+      setColor(palette2.Switch, "errorDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.62));
+      setColor(palette2.Switch, "infoDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.62));
+      setColor(palette2.Switch, "successDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.62));
+      setColor(palette2.Switch, "warningDisabledColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-warning-main") : palette2.warning.main, 0.62));
+      setColor(palette2.TableCell, "border", colorMix(private_safeLighten, private_safeAlpha(nativeColor ? getCssVar("palette-divider") : palette2.divider, 1), 0.88));
+      setColor(palette2.Tooltip, "bg", colorMix(private_safeAlpha, nativeColor ? getCssVar("palette-grey-700") : palette2.grey[700], 0.92));
     }
     if (palette2.mode === "dark") {
-      setColor(palette2.Alert, "errorColor", colorMix(private_safeLighten, palette2.error.light, 0.6));
-      setColor(palette2.Alert, "infoColor", colorMix(private_safeLighten, palette2.info.light, 0.6));
-      setColor(palette2.Alert, "successColor", colorMix(private_safeLighten, palette2.success.light, 0.6));
-      setColor(palette2.Alert, "warningColor", colorMix(private_safeLighten, palette2.warning.light, 0.6));
+      setColor(palette2.Alert, "errorColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-error-light") : palette2.error.light, 0.6));
+      setColor(palette2.Alert, "infoColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-info-light") : palette2.info.light, 0.6));
+      setColor(palette2.Alert, "successColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-success-light") : palette2.success.light, 0.6));
+      setColor(palette2.Alert, "warningColor", colorMix(private_safeLighten, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.light, 0.6));
       setColor(palette2.Alert, "errorFilledBg", setCssVarColor("palette-error-dark"));
       setColor(palette2.Alert, "infoFilledBg", setCssVarColor("palette-info-dark"));
       setColor(palette2.Alert, "successFilledBg", setCssVarColor("palette-success-dark"));
@@ -29686,10 +28879,10 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.Alert, "infoFilledColor", silent(() => palette2.getContrastText(palette2.info.dark)));
       setColor(palette2.Alert, "successFilledColor", silent(() => palette2.getContrastText(palette2.success.dark)));
       setColor(palette2.Alert, "warningFilledColor", silent(() => palette2.getContrastText(palette2.warning.dark)));
-      setColor(palette2.Alert, "errorStandardBg", colorMix(private_safeDarken, palette2.error.light, 0.9));
-      setColor(palette2.Alert, "infoStandardBg", colorMix(private_safeDarken, palette2.info.light, 0.9));
-      setColor(palette2.Alert, "successStandardBg", colorMix(private_safeDarken, palette2.success.light, 0.9));
-      setColor(palette2.Alert, "warningStandardBg", colorMix(private_safeDarken, palette2.warning.light, 0.9));
+      setColor(palette2.Alert, "errorStandardBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-error-light") : palette2.error.light, 0.9));
+      setColor(palette2.Alert, "infoStandardBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-info-light") : palette2.info.light, 0.9));
+      setColor(palette2.Alert, "successStandardBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-success-light") : palette2.success.light, 0.9));
+      setColor(palette2.Alert, "warningStandardBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.light, 0.9));
       setColor(palette2.Alert, "errorIconColor", setCssVarColor("palette-error-main"));
       setColor(palette2.Alert, "infoIconColor", setCssVarColor("palette-info-main"));
       setColor(palette2.Alert, "successIconColor", setCssVarColor("palette-success-main"));
@@ -29706,20 +28899,20 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.FilledInput, "bg", "rgba(255, 255, 255, 0.09)");
       setColor(palette2.FilledInput, "hoverBg", "rgba(255, 255, 255, 0.13)");
       setColor(palette2.FilledInput, "disabledBg", "rgba(255, 255, 255, 0.12)");
-      setColor(palette2.LinearProgress, "primaryBg", colorMix(private_safeDarken, palette2.primary.main, 0.5));
-      setColor(palette2.LinearProgress, "secondaryBg", colorMix(private_safeDarken, palette2.secondary.main, 0.5));
-      setColor(palette2.LinearProgress, "errorBg", colorMix(private_safeDarken, palette2.error.main, 0.5));
-      setColor(palette2.LinearProgress, "infoBg", colorMix(private_safeDarken, palette2.info.main, 0.5));
-      setColor(palette2.LinearProgress, "successBg", colorMix(private_safeDarken, palette2.success.main, 0.5));
-      setColor(palette2.LinearProgress, "warningBg", colorMix(private_safeDarken, palette2.warning.main, 0.5));
-      setColor(palette2.Skeleton, "bg", colorSpace ? colorMix(private_safeAlpha, palette2.text.primary, 0.13) : `rgba(${setCssVarColor("palette-text-primaryChannel")} / 0.13)`);
-      setColor(palette2.Slider, "primaryTrack", colorMix(private_safeDarken, palette2.primary.main, 0.5));
-      setColor(palette2.Slider, "secondaryTrack", colorMix(private_safeDarken, palette2.secondary.main, 0.5));
-      setColor(palette2.Slider, "errorTrack", colorMix(private_safeDarken, palette2.error.main, 0.5));
-      setColor(palette2.Slider, "infoTrack", colorMix(private_safeDarken, palette2.info.main, 0.5));
-      setColor(palette2.Slider, "successTrack", colorMix(private_safeDarken, palette2.success.main, 0.5));
-      setColor(palette2.Slider, "warningTrack", colorMix(private_safeDarken, palette2.warning.main, 0.5));
-      const snackbarContentBackground = colorSpace ? colorMix(private_safeLighten, palette2.background.default, 0.985) : private_safeEmphasize(palette2.background.default, 0.98);
+      setColor(palette2.LinearProgress, "primaryBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.5));
+      setColor(palette2.LinearProgress, "secondaryBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.5));
+      setColor(palette2.LinearProgress, "errorBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.5));
+      setColor(palette2.LinearProgress, "infoBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.5));
+      setColor(palette2.LinearProgress, "successBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.5));
+      setColor(palette2.LinearProgress, "warningBg", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-warning-main") : palette2.warning.main, 0.5));
+      setColor(palette2.Skeleton, "bg", colorSpace ? colorMix(private_safeAlpha, nativeColor ? getCssVar("palette-text-primary") : palette2.text.primary, 0.13) : `rgba(${setCssVarColor("palette-text-primaryChannel")} / 0.13)`);
+      setColor(palette2.Slider, "primaryTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.5));
+      setColor(palette2.Slider, "secondaryTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.5));
+      setColor(palette2.Slider, "errorTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.5));
+      setColor(palette2.Slider, "infoTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.5));
+      setColor(palette2.Slider, "successTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.5));
+      setColor(palette2.Slider, "warningTrack", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.main, 0.5));
+      const snackbarContentBackground = colorSpace ? colorMix(private_safeLighten, nativeColor ? getCssVar("palette-background-default") : palette2.background.default, 0.985) : private_safeEmphasize(palette2.background.default, 0.98);
       setColor(palette2.SnackbarContent, "bg", snackbarContentBackground);
       setColor(palette2.SnackbarContent, "color", silent(() => colorSpace ? light.text.primary : palette2.getContrastText(snackbarContentBackground)));
       setColor(palette2.SpeedDialAction, "fabHoverBg", private_safeEmphasize(palette2.background.paper, 0.15));
@@ -29727,14 +28920,14 @@ function createThemeWithVars(options = {}, ...args) {
       setColor(palette2.StepContent, "border", setCssVarColor("palette-grey-600"));
       setColor(palette2.Switch, "defaultColor", setCssVarColor("palette-grey-300"));
       setColor(palette2.Switch, "defaultDisabledColor", setCssVarColor("palette-grey-600"));
-      setColor(palette2.Switch, "primaryDisabledColor", colorMix(private_safeDarken, palette2.primary.main, 0.55));
-      setColor(palette2.Switch, "secondaryDisabledColor", colorMix(private_safeDarken, palette2.secondary.main, 0.55));
-      setColor(palette2.Switch, "errorDisabledColor", colorMix(private_safeDarken, palette2.error.main, 0.55));
-      setColor(palette2.Switch, "infoDisabledColor", colorMix(private_safeDarken, palette2.info.main, 0.55));
-      setColor(palette2.Switch, "successDisabledColor", colorMix(private_safeDarken, palette2.success.main, 0.55));
-      setColor(palette2.Switch, "warningDisabledColor", colorMix(private_safeDarken, palette2.warning.main, 0.55));
-      setColor(palette2.TableCell, "border", colorMix(private_safeDarken, colorMix(private_safeAlpha, palette2.divider, 1), 0.68));
-      setColor(palette2.Tooltip, "bg", colorMix(private_safeAlpha, palette2.grey[700], 0.92));
+      setColor(palette2.Switch, "primaryDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-primary-main") : palette2.primary.main, 0.55));
+      setColor(palette2.Switch, "secondaryDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-secondary-main") : palette2.secondary.main, 0.55));
+      setColor(palette2.Switch, "errorDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-error-main") : palette2.error.main, 0.55));
+      setColor(palette2.Switch, "infoDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-info-main") : palette2.info.main, 0.55));
+      setColor(palette2.Switch, "successDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-success-main") : palette2.success.main, 0.55));
+      setColor(palette2.Switch, "warningDisabledColor", colorMix(private_safeDarken, nativeColor ? getCssVar("palette-warning-light") : palette2.warning.main, 0.55));
+      setColor(palette2.TableCell, "border", colorMix(private_safeDarken, private_safeAlpha(nativeColor ? getCssVar("palette-divider") : palette2.divider, 1), 0.68));
+      setColor(palette2.Tooltip, "bg", colorMix(private_safeAlpha, nativeColor ? getCssVar("palette-grey-700") : palette2.grey[700], 0.92));
     }
     setColorChannel(palette2.background, "default");
     setColorChannel(palette2.background, "paper");
@@ -29807,7 +29000,7 @@ function createThemeWithVars(options = {}, ...args) {
   return theme;
 }
 
-// node_modules/@mui/material/esm/styles/createTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/createTheme.js
 function attachColorScheme2(theme, scheme, colorScheme) {
   if (!theme.colorSchemes) {
     return void 0;
@@ -29886,14 +29079,14 @@ function createTheme2(options = {}, ...args) {
   }), typeof cssVariables !== "boolean" && cssVariables), ...args);
 }
 
-// node_modules/@mui/material/esm/styles/defaultTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/defaultTheme.js
 var defaultTheme = createTheme2();
 var defaultTheme_default = defaultTheme;
 
-// node_modules/@mui/material/esm/styles/identifier.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/identifier.js
 var identifier_default = "$$material";
 
-// node_modules/@mui/material/esm/styles/useTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/useTheme.js
 function useTheme4() {
   const theme = useTheme_default(defaultTheme_default);
   if (true) {
@@ -29902,20 +29095,20 @@ function useTheme4() {
   return theme[identifier_default] || theme;
 }
 
-// node_modules/@mui/material/esm/zero-styled/index.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/zero-styled/index.js
 var import_jsx_runtime4 = __toESM(require_jsx_runtime(), 1);
 
-// node_modules/@mui/material/esm/styles/slotShouldForwardProp.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/slotShouldForwardProp.js
 function slotShouldForwardProp(prop) {
   return prop !== "ownerState" && prop !== "theme" && prop !== "sx" && prop !== "as";
 }
 var slotShouldForwardProp_default = slotShouldForwardProp;
 
-// node_modules/@mui/material/esm/styles/rootShouldForwardProp.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/rootShouldForwardProp.js
 var rootShouldForwardProp = (prop) => slotShouldForwardProp_default(prop) && prop !== "classes";
 var rootShouldForwardProp_default = rootShouldForwardProp;
 
-// node_modules/@mui/material/esm/styles/styled.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/styled.js
 var styled3 = createStyled3({
   themeId: identifier_default,
   defaultTheme: defaultTheme_default,
@@ -29923,16 +29116,16 @@ var styled3 = createStyled3({
 });
 var styled_default = styled3;
 
-// node_modules/@mui/material/esm/zero-styled/index.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/zero-styled/index.js
 function internal_createExtendSxProp() {
   return extendSxProp;
 }
 
-// node_modules/@mui/material/esm/utils/memoTheme.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/memoTheme.js
 var memoTheme = unstable_memoTheme;
 var memoTheme_default = memoTheme;
 
-// node_modules/@mui/material/esm/DefaultPropsProvider/DefaultPropsProvider.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/DefaultPropsProvider/DefaultPropsProvider.js
 var React18 = __toESM(require_react(), 1);
 var import_prop_types4 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime5 = __toESM(require_jsx_runtime(), 1);
@@ -29957,7 +29150,7 @@ function useDefaultProps2(params) {
   return useDefaultProps(params);
 }
 
-// node_modules/@mui/utils/esm/useForkRef/useForkRef.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useForkRef/useForkRef.js
 var React19 = __toESM(require_react(), 1);
 function useForkRef(...refs) {
   const cleanupRef = React19.useRef(void 0);
@@ -29998,13 +29191,13 @@ function useForkRef(...refs) {
   }, refs);
 }
 
-// node_modules/@mui/utils/esm/isHostComponent/isHostComponent.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/isHostComponent/isHostComponent.js
 function isHostComponent(element) {
   return typeof element === "string";
 }
 var isHostComponent_default = isHostComponent;
 
-// node_modules/@mui/utils/esm/appendOwnerState/appendOwnerState.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/appendOwnerState/appendOwnerState.js
 function appendOwnerState(elementType, otherProps, ownerState) {
   if (elementType === void 0 || isHostComponent_default(elementType)) {
     return otherProps;
@@ -30015,7 +29208,7 @@ function appendOwnerState(elementType, otherProps, ownerState) {
 }
 var appendOwnerState_default = appendOwnerState;
 
-// node_modules/@mui/utils/esm/resolveComponentProps/resolveComponentProps.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/resolveComponentProps/resolveComponentProps.js
 function resolveComponentProps(componentProps, ownerState, slotState) {
   if (typeof componentProps === "function") {
     return componentProps(ownerState, slotState);
@@ -30024,7 +29217,7 @@ function resolveComponentProps(componentProps, ownerState, slotState) {
 }
 var resolveComponentProps_default = resolveComponentProps;
 
-// node_modules/@mui/utils/esm/extractEventHandlers/extractEventHandlers.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/extractEventHandlers/extractEventHandlers.js
 function extractEventHandlers(object, excludeKeys = []) {
   if (object === void 0) {
     return {};
@@ -30037,7 +29230,7 @@ function extractEventHandlers(object, excludeKeys = []) {
 }
 var extractEventHandlers_default = extractEventHandlers;
 
-// node_modules/@mui/utils/esm/omitEventHandlers/omitEventHandlers.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/omitEventHandlers/omitEventHandlers.js
 function omitEventHandlers(object) {
   if (object === void 0) {
     return {};
@@ -30050,7 +29243,7 @@ function omitEventHandlers(object) {
 }
 var omitEventHandlers_default = omitEventHandlers;
 
-// node_modules/@mui/utils/esm/mergeSlotProps/mergeSlotProps.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/mergeSlotProps/mergeSlotProps.js
 function mergeSlotProps(parameters) {
   const {
     getSlotProps,
@@ -30094,7 +29287,7 @@ function mergeSlotProps(parameters) {
 }
 var mergeSlotProps_default = mergeSlotProps;
 
-// node_modules/@mui/material/esm/utils/useSlot.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/useSlot.js
 function useSlot(name, parameters) {
   const _a = parameters, {
     className,
@@ -30152,10 +29345,10 @@ function useSlot(name, parameters) {
   return [elementType, props];
 }
 
-// node_modules/@mui/material/esm/utils/capitalize.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/capitalize.js
 var capitalize_default = capitalize;
 
-// node_modules/@mui/material/esm/utils/createSimplePaletteValueFilter.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/createSimplePaletteValueFilter.js
 function hasCorrectMainProperty(obj) {
   return typeof obj.main === "string";
 }
@@ -30174,11 +29367,11 @@ function createSimplePaletteValueFilter(additionalPropertiesToCheck = []) {
   return ([, value]) => value && checkSimplePaletteColorValues(value, additionalPropertiesToCheck);
 }
 
-// node_modules/@mui/material/esm/Paper/Paper.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Paper/Paper.js
 var React20 = __toESM(require_react(), 1);
 var import_prop_types5 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/utils/esm/integerPropType/integerPropType.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/integerPropType/integerPropType.js
 function getTypeByValue(value) {
   const valueType = typeof value;
   switch (valueType) {
@@ -30225,7 +29418,7 @@ validatorNoop.isRequired = validatorNoop;
 var integerPropType = false ? validatorNoop : validator;
 var integerPropType_default = integerPropType;
 
-// node_modules/@mui/utils/esm/chainPropTypes/chainPropTypes.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/chainPropTypes/chainPropTypes.js
 function chainPropTypes(propType1, propType2) {
   if (false) {
     return () => null;
@@ -30235,13 +29428,13 @@ function chainPropTypes(propType1, propType2) {
   };
 }
 
-// node_modules/@mui/material/esm/Paper/paperClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Paper/paperClasses.js
 function getPaperUtilityClass(slot) {
   return generateUtilityClass("MuiPaper", slot);
 }
 var paperClasses = generateUtilityClasses("MuiPaper", ["root", "rounded", "outlined", "elevation", "elevation0", "elevation1", "elevation2", "elevation3", "elevation4", "elevation5", "elevation6", "elevation7", "elevation8", "elevation9", "elevation10", "elevation11", "elevation12", "elevation13", "elevation14", "elevation15", "elevation16", "elevation17", "elevation18", "elevation19", "elevation20", "elevation21", "elevation22", "elevation23", "elevation24"]);
 
-// node_modules/@mui/material/esm/Paper/Paper.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Paper/Paper.js
 var import_jsx_runtime6 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses = (ownerState) => {
   const {
@@ -30399,31 +29592,31 @@ true ? Paper.propTypes = {
 } : void 0;
 var Paper_default = Paper;
 
-// node_modules/@mui/material/esm/Alert/alertClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Alert/alertClasses.js
 function getAlertUtilityClass(slot) {
   return generateUtilityClass("MuiAlert", slot);
 }
 var alertClasses = generateUtilityClasses("MuiAlert", ["root", "action", "icon", "message", "filled", "colorSuccess", "colorInfo", "colorWarning", "colorError", "filledSuccess", "filledInfo", "filledWarning", "filledError", "outlined", "outlinedSuccess", "outlinedInfo", "outlinedWarning", "outlinedError", "standard", "standardSuccess", "standardInfo", "standardWarning", "standardError"]);
 var alertClasses_default = alertClasses;
 
-// node_modules/@mui/material/esm/IconButton/IconButton.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/IconButton/IconButton.js
 var React34 = __toESM(require_react(), 1);
 var import_prop_types16 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/utils/createSvgIcon.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/createSvgIcon.js
 var React22 = __toESM(require_react(), 1);
 
-// node_modules/@mui/material/esm/SvgIcon/SvgIcon.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/SvgIcon/SvgIcon.js
 var React21 = __toESM(require_react(), 1);
 var import_prop_types6 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/SvgIcon/svgIconClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/SvgIcon/svgIconClasses.js
 function getSvgIconUtilityClass(slot) {
   return generateUtilityClass("MuiSvgIcon", slot);
 }
 var svgIconClasses = generateUtilityClasses("MuiSvgIcon", ["root", "colorPrimary", "colorSecondary", "colorAction", "colorError", "colorDisabled", "fontSizeInherit", "fontSizeSmall", "fontSizeMedium", "fontSizeLarge"]);
 
-// node_modules/@mui/material/esm/SvgIcon/SvgIcon.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/SvgIcon/SvgIcon.js
 var import_jsx_runtime7 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses2 = (ownerState) => {
   const {
@@ -30669,7 +29862,7 @@ true ? SvgIcon.propTypes = {
 SvgIcon.muiName = "SvgIcon";
 var SvgIcon_default = SvgIcon;
 
-// node_modules/@mui/material/esm/utils/createSvgIcon.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/createSvgIcon.js
 var import_jsx_runtime8 = __toESM(require_jsx_runtime(), 1);
 function createSvgIcon(path, displayName) {
   function Component(props, ref) {
@@ -30687,10 +29880,10 @@ function createSvgIcon(path, displayName) {
   return /* @__PURE__ */ React22.memo(/* @__PURE__ */ React22.forwardRef(Component));
 }
 
-// node_modules/@mui/material/esm/utils/useId.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/useId.js
 var useId_default = useId;
 
-// node_modules/@mui/utils/esm/unsupportedProp/unsupportedProp.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/unsupportedProp/unsupportedProp.js
 function unsupportedProp(props, propName, componentName, location, propFullName) {
   if (false) {
     return null;
@@ -30702,7 +29895,7 @@ function unsupportedProp(props, propName, componentName, location, propFullName)
   return null;
 }
 
-// node_modules/@mui/utils/esm/useControlled/useControlled.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useControlled/useControlled.js
 var React23 = __toESM(require_react(), 1);
 function useControlled(props) {
   const {
@@ -30739,10 +29932,10 @@ function useControlled(props) {
   return [value, setValueIfUncontrolled];
 }
 
-// node_modules/@mui/material/esm/utils/useControlled.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/useControlled.js
 var useControlled_default = useControlled;
 
-// node_modules/@mui/utils/esm/useEventCallback/useEventCallback.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useEventCallback/useEventCallback.js
 var React24 = __toESM(require_react(), 1);
 function useEventCallback(fn) {
   const ref = React24.useRef(fn);
@@ -30756,13 +29949,13 @@ function useEventCallback(fn) {
 }
 var useEventCallback_default = useEventCallback;
 
-// node_modules/@mui/material/esm/utils/useEventCallback.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/useEventCallback.js
 var useEventCallback_default2 = useEventCallback_default;
 
-// node_modules/@mui/material/esm/utils/useForkRef.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/useForkRef.js
 var useForkRef_default = useForkRef;
 
-// node_modules/@mui/material/esm/utils/mergeSlotProps.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/utils/mergeSlotProps.js
 function isEventHandler(key, value) {
   const thirdCharCode = key.charCodeAt(2);
   return key[0] === "o" && key[1] === "n" && thirdCharCode >= 65 && thirdCharCode <= 90 && typeof value === "function";
@@ -30810,16 +30003,16 @@ function mergeSlotProps2(externalSlotProps, defaultSlotProps) {
   });
 }
 
-// node_modules/@mui/material/esm/ButtonBase/ButtonBase.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/ButtonBase.js
 var React32 = __toESM(require_react(), 1);
 var import_prop_types14 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/utils/esm/refType/refType.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/refType/refType.js
 var import_prop_types7 = __toESM(require_prop_types(), 1);
 var refType = import_prop_types7.default.oneOfType([import_prop_types7.default.func, import_prop_types7.default.object]);
 var refType_default = refType;
 
-// node_modules/@mui/utils/esm/elementTypeAcceptingRef/elementTypeAcceptingRef.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/elementTypeAcceptingRef/elementTypeAcceptingRef.js
 var import_prop_types8 = __toESM(require_prop_types(), 1);
 var React25 = __toESM(require_react(), 1);
 function isClassComponent(elementType) {
@@ -30852,7 +30045,7 @@ function elementTypeAcceptingRef(props, propName, componentName, location, propF
 }
 var elementTypeAcceptingRef_default = chainPropTypes(import_prop_types8.default.elementType, elementTypeAcceptingRef);
 
-// node_modules/@mui/utils/esm/isFocusVisible/isFocusVisible.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/isFocusVisible/isFocusVisible.js
 function isFocusVisible(element) {
   try {
     return element.matches(":focus-visible");
@@ -30864,7 +30057,7 @@ function isFocusVisible(element) {
   return false;
 }
 
-// node_modules/@mui/material/esm/useLazyRipple/useLazyRipple.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/useLazyRipple/useLazyRipple.js
 var React26 = __toESM(require_react(), 1);
 var LazyRipple = class _LazyRipple {
   constructor() {
@@ -30943,11 +30136,11 @@ function createControlledPromise() {
   return p;
 }
 
-// node_modules/@mui/material/esm/ButtonBase/TouchRipple.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/TouchRipple.js
 var React31 = __toESM(require_react(), 1);
 var import_prop_types13 = __toESM(require_prop_types(), 1);
 
-// node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js
+// node_modules/.pnpm/@babel+runtime@7.28.6/node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js
 function _objectWithoutPropertiesLoose(r2, e) {
   if (null == r2) return {};
   var t = {};
@@ -30958,29 +30151,29 @@ function _objectWithoutPropertiesLoose(r2, e) {
   return t;
 }
 
-// node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js
+// node_modules/.pnpm/@babel+runtime@7.28.6/node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js
 function _setPrototypeOf(t, e) {
   return _setPrototypeOf = Object.setPrototypeOf ? Object.setPrototypeOf.bind() : function(t2, e2) {
     return t2.__proto__ = e2, t2;
   }, _setPrototypeOf(t, e);
 }
 
-// node_modules/@babel/runtime/helpers/esm/inheritsLoose.js
+// node_modules/.pnpm/@babel+runtime@7.28.6/node_modules/@babel/runtime/helpers/esm/inheritsLoose.js
 function _inheritsLoose(t, o) {
   t.prototype = Object.create(o.prototype), t.prototype.constructor = t, _setPrototypeOf(t, o);
 }
 
-// node_modules/react-transition-group/esm/Transition.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/Transition.js
 var import_prop_types10 = __toESM(require_prop_types());
 var import_react6 = __toESM(require_react());
 var import_react_dom = __toESM(require_react_dom());
 
-// node_modules/react-transition-group/esm/config.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/config.js
 var config_default = {
   disabled: false
 };
 
-// node_modules/react-transition-group/esm/utils/PropTypes.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/utils/PropTypes.js
 var import_prop_types9 = __toESM(require_prop_types());
 var timeoutsShape = true ? import_prop_types9.default.oneOfType([import_prop_types9.default.number, import_prop_types9.default.shape({
   enter: import_prop_types9.default.number,
@@ -31000,16 +30193,16 @@ var classNamesShape = true ? import_prop_types9.default.oneOfType([import_prop_t
   exitActive: import_prop_types9.default.string
 })]) : null;
 
-// node_modules/react-transition-group/esm/TransitionGroupContext.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/TransitionGroupContext.js
 var import_react5 = __toESM(require_react());
 var TransitionGroupContext_default = import_react5.default.createContext(null);
 
-// node_modules/react-transition-group/esm/utils/reflow.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/utils/reflow.js
 var forceReflow = function forceReflow2(node2) {
   return node2.scrollTop;
 };
 
-// node_modules/react-transition-group/esm/Transition.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/Transition.js
 var UNMOUNTED = "unmounted";
 var EXITED = "exited";
 var ENTERING = "entering";
@@ -31418,17 +30611,17 @@ Transition.ENTERED = ENTERED;
 Transition.EXITING = EXITING;
 var Transition_default = Transition;
 
-// node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js
+// node_modules/.pnpm/@babel+runtime@7.28.6/node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js
 function _assertThisInitialized(e) {
   if (void 0 === e) throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
   return e;
 }
 
-// node_modules/react-transition-group/esm/TransitionGroup.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/TransitionGroup.js
 var import_prop_types11 = __toESM(require_prop_types());
 var import_react8 = __toESM(require_react());
 
-// node_modules/react-transition-group/esm/utils/ChildMapping.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/utils/ChildMapping.js
 var import_react7 = __toESM(require_react());
 function getChildMapping(children, mapFn) {
   var mapper = function mapper2(child) {
@@ -31523,7 +30716,7 @@ function getNextChildMapping(nextProps, prevChildMapping, onExited) {
   return children;
 }
 
-// node_modules/react-transition-group/esm/TransitionGroup.js
+// node_modules/.pnpm/react-transition-group@4.4.5_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/react-transition-group/esm/TransitionGroup.js
 var values2 = Object.values || function(obj) {
   return Object.keys(obj).map(function(k) {
     return obj[k];
@@ -31659,7 +30852,7 @@ TransitionGroup.propTypes = true ? {
 TransitionGroup.defaultProps = defaultProps;
 var TransitionGroup_default = TransitionGroup;
 
-// node_modules/@mui/utils/esm/useTimeout/useTimeout.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useTimeout/useTimeout.js
 var Timeout = class _Timeout {
   constructor() {
     __publicField(this, "currentId", null);
@@ -31693,7 +30886,7 @@ function useTimeout() {
   return timeout2;
 }
 
-// node_modules/@mui/material/esm/ButtonBase/Ripple.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/Ripple.js
 var React30 = __toESM(require_react(), 1);
 var import_prop_types12 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime9 = __toESM(require_jsx_runtime(), 1);
@@ -31775,11 +30968,11 @@ true ? Ripple.propTypes = {
 } : void 0;
 var Ripple_default = Ripple;
 
-// node_modules/@mui/material/esm/ButtonBase/touchRippleClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/touchRippleClasses.js
 var touchRippleClasses = generateUtilityClasses("MuiTouchRipple", ["root", "ripple", "rippleVisible", "ripplePulsate", "child", "childLeaving", "childPulsate"]);
 var touchRippleClasses_default = touchRippleClasses;
 
-// node_modules/@mui/material/esm/ButtonBase/TouchRipple.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/TouchRipple.js
 var import_jsx_runtime10 = __toESM(require_jsx_runtime(), 1);
 var DURATION = 550;
 var DELAY_RIPPLE = 80;
@@ -32069,14 +31262,14 @@ true ? TouchRipple.propTypes = {
 } : void 0;
 var TouchRipple_default = TouchRipple;
 
-// node_modules/@mui/material/esm/ButtonBase/buttonBaseClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/buttonBaseClasses.js
 function getButtonBaseUtilityClass(slot) {
   return generateUtilityClass("MuiButtonBase", slot);
 }
 var buttonBaseClasses = generateUtilityClasses("MuiButtonBase", ["root", "disabled", "focusVisible"]);
 var buttonBaseClasses_default = buttonBaseClasses;
 
-// node_modules/@mui/material/esm/ButtonBase/ButtonBase.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/ButtonBase/ButtonBase.js
 var import_jsx_runtime11 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses3 = (ownerState) => {
   const {
@@ -32526,17 +31719,17 @@ true ? ButtonBase.propTypes = {
 } : void 0;
 var ButtonBase_default = ButtonBase;
 
-// node_modules/@mui/material/esm/CircularProgress/CircularProgress.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/CircularProgress/CircularProgress.js
 var React33 = __toESM(require_react(), 1);
 var import_prop_types15 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/CircularProgress/circularProgressClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/CircularProgress/circularProgressClasses.js
 function getCircularProgressUtilityClass(slot) {
   return generateUtilityClass("MuiCircularProgress", slot);
 }
 var circularProgressClasses = generateUtilityClasses("MuiCircularProgress", ["root", "determinate", "indeterminate", "colorPrimary", "colorSecondary", "svg", "track", "circle", "circleDeterminate", "circleIndeterminate", "circleDisableShrink"]);
 
-// node_modules/@mui/material/esm/CircularProgress/CircularProgress.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/CircularProgress/CircularProgress.js
 var import_jsx_runtime12 = __toESM(require_jsx_runtime(), 1);
 var SIZE = 44;
 var circularRotateKeyframe = keyframes`
@@ -32831,14 +32024,14 @@ true ? CircularProgress.propTypes = {
 } : void 0;
 var CircularProgress_default = CircularProgress;
 
-// node_modules/@mui/material/esm/IconButton/iconButtonClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/IconButton/iconButtonClasses.js
 function getIconButtonUtilityClass(slot) {
   return generateUtilityClass("MuiIconButton", slot);
 }
 var iconButtonClasses = generateUtilityClasses("MuiIconButton", ["root", "disabled", "colorInherit", "colorPrimary", "colorSecondary", "colorError", "colorInfo", "colorSuccess", "colorWarning", "edgeStart", "edgeEnd", "sizeSmall", "sizeMedium", "sizeLarge", "loading", "loadingIndicator", "loadingWrapper"]);
 var iconButtonClasses_default = iconButtonClasses;
 
-// node_modules/@mui/material/esm/IconButton/IconButton.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/IconButton/IconButton.js
 var import_jsx_runtime13 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses5 = (ownerState) => {
   const {
@@ -33144,37 +32337,37 @@ true ? IconButton.propTypes = {
 } : void 0;
 var IconButton_default = IconButton;
 
-// node_modules/@mui/material/esm/internal/svg-icons/SuccessOutlined.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/SuccessOutlined.js
 var import_jsx_runtime14 = __toESM(require_jsx_runtime(), 1);
 var SuccessOutlined_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime14.jsx)("path", {
   d: "M20,12A8,8 0 0,1 12,20A8,8 0 0,1 4,12A8,8 0 0,1 12,4C12.76,4 13.5,4.11 14.2, 4.31L15.77,2.74C14.61,2.26 13.34,2 12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0, 0 22,12M7.91,10.08L6.5,11.5L11,16L21,6L19.59,4.58L11,13.17L7.91,10.08Z"
 }), "SuccessOutlined");
 
-// node_modules/@mui/material/esm/internal/svg-icons/ReportProblemOutlined.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/ReportProblemOutlined.js
 var import_jsx_runtime15 = __toESM(require_jsx_runtime(), 1);
 var ReportProblemOutlined_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime15.jsx)("path", {
   d: "M12 5.99L19.53 19H4.47L12 5.99M12 2L1 21h22L12 2zm1 14h-2v2h2v-2zm0-6h-2v4h2v-4z"
 }), "ReportProblemOutlined");
 
-// node_modules/@mui/material/esm/internal/svg-icons/ErrorOutline.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/ErrorOutline.js
 var import_jsx_runtime16 = __toESM(require_jsx_runtime(), 1);
 var ErrorOutline_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime16.jsx)("path", {
   d: "M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
 }), "ErrorOutline");
 
-// node_modules/@mui/material/esm/internal/svg-icons/InfoOutlined.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/InfoOutlined.js
 var import_jsx_runtime17 = __toESM(require_jsx_runtime(), 1);
 var InfoOutlined_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime17.jsx)("path", {
   d: "M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4 20,7.59 20, 12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10, 10 0 0,0 12,2M11,17H13V11H11V17Z"
 }), "InfoOutlined");
 
-// node_modules/@mui/material/esm/internal/svg-icons/Close.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/Close.js
 var import_jsx_runtime18 = __toESM(require_jsx_runtime(), 1);
 var Close_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime18.jsx)("path", {
   d: "M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
 }), "Close");
 
-// node_modules/@mui/material/esm/Alert/Alert.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Alert/Alert.js
 var import_jsx_runtime19 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses6 = (ownerState) => {
   const {
@@ -33390,7 +32583,7 @@ var Alert = /* @__PURE__ */ React35.forwardRef(function Alert2(inProps, ref) {
   });
   return /* @__PURE__ */ (0, import_jsx_runtime19.jsxs)(RootSlot, __spreadProps(__spreadValues({}, rootSlotProps), {
     children: [icon !== false ? /* @__PURE__ */ (0, import_jsx_runtime19.jsx)(IconSlot, __spreadProps(__spreadValues({}, iconSlotProps), {
-      children: icon || iconMapping[severity]
+      children: icon || iconMapping[severity] || defaultIconMapping[severity]
     })) : null, /* @__PURE__ */ (0, import_jsx_runtime19.jsx)(MessageSlot, __spreadProps(__spreadValues({}, messageSlotProps), {
       children
     })), action != null ? /* @__PURE__ */ (0, import_jsx_runtime19.jsx)(ActionSlot, __spreadProps(__spreadValues({}, actionSlotProps), {
@@ -33537,17 +32730,17 @@ true ? Alert.propTypes = {
 } : void 0;
 var Alert_default = Alert;
 
-// node_modules/@mui/material/esm/Typography/Typography.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Typography/Typography.js
 var React36 = __toESM(require_react(), 1);
 var import_prop_types18 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/Typography/typographyClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Typography/typographyClasses.js
 function getTypographyUtilityClass(slot) {
   return generateUtilityClass("MuiTypography", slot);
 }
 var typographyClasses = generateUtilityClasses("MuiTypography", ["root", "h1", "h2", "h3", "h4", "h5", "h6", "subtitle1", "subtitle2", "body1", "body2", "inherit", "button", "caption", "overline", "alignLeft", "alignRight", "alignCenter", "alignJustify", "noWrap", "gutterBottom", "paragraph"]);
 
-// node_modules/@mui/material/esm/Typography/Typography.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Typography/Typography.js
 var import_jsx_runtime20 = __toESM(require_jsx_runtime(), 1);
 var v6Colors = {
   primary: true,
@@ -33809,7 +33002,7 @@ true ? Typography.propTypes = {
 } : void 0;
 var Typography_default = Typography;
 
-// node_modules/@mui/utils/esm/useSlotProps/useSlotProps.js
+// node_modules/.pnpm/@mui+utils@7.3.9_@types+react@19.2.14_react@19.2.4/node_modules/@mui/utils/esm/useSlotProps/useSlotProps.js
 function useSlotProps(parameters) {
   var _b;
   const _a = parameters, {
@@ -33838,7 +33031,7 @@ function useSlotProps(parameters) {
 }
 var useSlotProps_default = useSlotProps;
 
-// node_modules/@mui/x-internals/esm/warning/warning.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/warning/warning.js
 var warnedOnceCache = /* @__PURE__ */ new Set();
 function warnOnce(message, gravity = "warning") {
   if (false) {
@@ -33855,13 +33048,13 @@ function warnOnce(message, gravity = "warning") {
   }
 }
 
-// node_modules/@mui/x-tree-view/esm/RichTreeView/richTreeViewClasses.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/RichTreeView/richTreeViewClasses.js
 function getRichTreeViewUtilityClass(slot) {
   return generateUtilityClass("MuiRichTreeView", slot);
 }
 var richTreeViewClasses = generateUtilityClasses("MuiRichTreeView", ["root", "item", "itemContent", "itemGroupTransition", "itemIconContainer", "itemLabel", "itemCheckbox", "itemLabelInput"]);
 
-// node_modules/@mui/material/esm/styles/useThemeProps.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/styles/useThemeProps.js
 function useThemeProps2({
   props,
   name
@@ -33874,19 +33067,19 @@ function useThemeProps2({
   });
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/zero-styled/index.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/zero-styled/index.js
 function createUseThemeProps(name) {
   return useThemeProps2;
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewProvider.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewProvider.js
 var React40 = __toESM(require_react(), 1);
 
-// node_modules/@base-ui/utils/esm/empty.js
+// node_modules/.pnpm/@base-ui+utils@0.2.6_@types+react@19.2.14_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/@base-ui/utils/esm/empty.js
 var EMPTY_ARRAY = Object.freeze([]);
 var EMPTY_OBJECT = Object.freeze({});
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewContext.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewContext.js
 var React37 = __toESM(require_react(), 1);
 var TreeViewContext = /* @__PURE__ */ React37.createContext(null);
 if (true) TreeViewContext.displayName = "TreeViewContext";
@@ -33898,7 +33091,7 @@ var useTreeViewContext = () => {
   return context;
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewStyleContext.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewStyleContext.js
 var React38 = __toESM(require_react(), 1);
 var TreeViewStyleContext = /* @__PURE__ */ React38.createContext({
   classes: {},
@@ -33910,7 +33103,7 @@ var useTreeViewStyleContext = () => {
   return React38.useContext(TreeViewStyleContext);
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/useTreeViewBuildContext.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/useTreeViewBuildContext.js
 var React39 = __toESM(require_react(), 1);
 var useTreeViewBuildContext = (parameters) => {
   const {
@@ -33993,7 +33186,7 @@ function initializeInputApiRef(publicAPI, apiRef) {
   }
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewProvider.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewProvider/TreeViewProvider.js
 var import_jsx_runtime21 = __toESM(require_jsx_runtime(), 1);
 function TreeViewProvider(props) {
   const {
@@ -34032,10 +33225,10 @@ function TreeViewProvider(props) {
   });
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/components/RichTreeViewItems.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/components/RichTreeViewItems.js
 var React51 = __toESM(require_react(), 1);
 
-// node_modules/@mui/x-internals/esm/fastObjectShallowCompare/fastObjectShallowCompare.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/fastObjectShallowCompare/fastObjectShallowCompare.js
 var is = Object.is;
 function fastObjectShallowCompare(a, b) {
   if (a === b) {
@@ -34061,15 +33254,15 @@ function fastObjectShallowCompare(a, b) {
   return aLength === bLength;
 }
 
-// node_modules/@mui/x-tree-view/esm/TreeItem/TreeItem.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItem/TreeItem.js
 var React50 = __toESM(require_react(), 1);
 var import_prop_types25 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/Collapse/Collapse.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Collapse/Collapse.js
 var React41 = __toESM(require_react(), 1);
 var import_prop_types19 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/transitions/utils.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/transitions/utils.js
 function getTransitionProps(props, options) {
   var _a, _b;
   const {
@@ -34084,13 +33277,13 @@ function getTransitionProps(props, options) {
   };
 }
 
-// node_modules/@mui/material/esm/Collapse/collapseClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Collapse/collapseClasses.js
 function getCollapseUtilityClass(slot) {
   return generateUtilityClass("MuiCollapse", slot);
 }
 var collapseClasses = generateUtilityClasses("MuiCollapse", ["root", "horizontal", "vertical", "entered", "hidden", "wrapper", "wrapperInner"]);
 
-// node_modules/@mui/material/esm/Collapse/Collapse.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Collapse/Collapse.js
 var import_jsx_runtime22 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses8 = (ownerState) => {
   const {
@@ -34098,11 +33291,11 @@ var useUtilityClasses8 = (ownerState) => {
     classes
   } = ownerState;
   const slots = {
-    root: ["root", `${orientation}`],
+    root: ["root", orientation],
     entered: ["entered"],
     hidden: ["hidden"],
-    wrapper: ["wrapper", `${orientation}`],
-    wrapperInner: ["wrapperInner", `${orientation}`]
+    wrapper: ["wrapper", orientation],
+    wrapperInner: ["wrapperInner", orientation]
   };
   return composeClasses(slots, getCollapseUtilityClass, classes);
 };
@@ -34529,18 +33722,18 @@ if (Collapse) {
 }
 var Collapse_default = Collapse;
 
-// node_modules/@mui/material/esm/Checkbox/Checkbox.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Checkbox/Checkbox.js
 var React45 = __toESM(require_react(), 1);
 var import_prop_types21 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/internal/SwitchBase.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/SwitchBase.js
 var React44 = __toESM(require_react(), 1);
 var import_prop_types20 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/FormControl/useFormControl.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/FormControl/useFormControl.js
 var React43 = __toESM(require_react(), 1);
 
-// node_modules/@mui/material/esm/FormControl/FormControlContext.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/FormControl/FormControlContext.js
 var React42 = __toESM(require_react(), 1);
 var FormControlContext = /* @__PURE__ */ React42.createContext(void 0);
 if (true) {
@@ -34548,18 +33741,18 @@ if (true) {
 }
 var FormControlContext_default = FormControlContext;
 
-// node_modules/@mui/material/esm/FormControl/useFormControl.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/FormControl/useFormControl.js
 function useFormControl() {
   return React43.useContext(FormControlContext_default);
 }
 
-// node_modules/@mui/material/esm/internal/switchBaseClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/switchBaseClasses.js
 function getSwitchBaseUtilityClass(slot) {
   return generateUtilityClass("PrivateSwitchBase", slot);
 }
 var switchBaseClasses = generateUtilityClasses("PrivateSwitchBase", ["root", "checked", "disabled", "input", "edgeStart", "edgeEnd"]);
 
-// node_modules/@mui/material/esm/internal/SwitchBase.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/SwitchBase.js
 var import_jsx_runtime23 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses9 = (ownerState) => {
   const {
@@ -34753,7 +33946,6 @@ var SwitchBase = /* @__PURE__ */ React44.forwardRef(function SwitchBase2(props, 
     additionalProps: {
       centerRipple: true,
       focusRipple: !disableFocusRipple,
-      disabled,
       role: void 0,
       tabIndex: null
     }
@@ -34911,32 +34103,32 @@ true ? SwitchBase.propTypes = {
 } : void 0;
 var SwitchBase_default = SwitchBase;
 
-// node_modules/@mui/material/esm/internal/svg-icons/CheckBoxOutlineBlank.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/CheckBoxOutlineBlank.js
 var import_jsx_runtime24 = __toESM(require_jsx_runtime(), 1);
 var CheckBoxOutlineBlank_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime24.jsx)("path", {
   d: "M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
 }), "CheckBoxOutlineBlank");
 
-// node_modules/@mui/material/esm/internal/svg-icons/CheckBox.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/CheckBox.js
 var import_jsx_runtime25 = __toESM(require_jsx_runtime(), 1);
 var CheckBox_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime25.jsx)("path", {
   d: "M19 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.11 0 2-.9 2-2V5c0-1.1-.89-2-2-2zm-9 14l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
 }), "CheckBox");
 
-// node_modules/@mui/material/esm/internal/svg-icons/IndeterminateCheckBox.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/internal/svg-icons/IndeterminateCheckBox.js
 var import_jsx_runtime26 = __toESM(require_jsx_runtime(), 1);
 var IndeterminateCheckBox_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime26.jsx)("path", {
   d: "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-2 10H7v-2h10v2z"
 }), "IndeterminateCheckBox");
 
-// node_modules/@mui/material/esm/Checkbox/checkboxClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Checkbox/checkboxClasses.js
 function getCheckboxUtilityClass(slot) {
   return generateUtilityClass("MuiCheckbox", slot);
 }
 var checkboxClasses = generateUtilityClasses("MuiCheckbox", ["root", "checked", "disabled", "indeterminate", "colorPrimary", "colorSecondary", "sizeSmall", "sizeMedium"]);
 var checkboxClasses_default = checkboxClasses;
 
-// node_modules/@mui/material/esm/Checkbox/Checkbox.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Checkbox/Checkbox.js
 var import_jsx_runtime27 = __toESM(require_jsx_runtime(), 1);
 var useUtilityClasses10 = (ownerState) => {
   const {
@@ -35203,10 +34395,10 @@ true ? Checkbox.propTypes = {
 } : void 0;
 var Checkbox_default = Checkbox;
 
-// node_modules/@mui/x-tree-view/esm/useTreeItem/useTreeItem.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/useTreeItem/useTreeItem.js
 var React47 = __toESM(require_react(), 1);
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/items/utils.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/items/utils.js
 var TREE_VIEW_ROOT_PARENT_ID = "__TREE_VIEW_ROOT_PARENT_ID__";
 var buildSiblingIndexes = (siblings) => {
   const siblingsIndexLookup = {};
@@ -35308,7 +34500,7 @@ function checkId({
   }
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/items/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/items/selectors.js
 var EMPTY_CHILDREN = [];
 var itemsSelectors = {
   /**
@@ -35378,14 +34570,14 @@ var itemsSelectors = {
   /**
    * Checks whether an item can be focused.
    */
-  canItemBeFocused: createSelector2((state, itemId) => state.disabledItemsFocusable || !isItemDisabled(state.itemMetaLookup, itemId)),
+  canItemBeFocused: createSelector2((state, itemId) => state.disabledItemsFocusable || state.itemModelLookup[itemId] != null && !isItemDisabled(state.itemMetaLookup, itemId)),
   /**
    * Gets the identation between an item and its children.
    */
   itemChildrenIndentation: createSelector2((state) => state.itemChildrenIndentation)
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/id/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/id/selectors.js
 var treeIdSelector = createSelector2((state) => {
   var _a;
   return (_a = state.providedTreeId) != null ? _a : state.treeId;
@@ -35408,7 +34600,7 @@ var idSelectors = {
   })
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/items/TreeViewItemsPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/items/TreeViewItemsPlugin.js
 var TreeViewItemsPlugin = class {
   // We can't type `store`, otherwise we get the following TS error:
   // 'items' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
@@ -35619,7 +34811,7 @@ __publicField(TreeViewItemsPlugin, "buildItemsStateIfNeeded", (parameters) => {
   };
 });
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/selectors.js
 var expandedItemMapSelector = createSelectorMemoized((state) => state.expandedItems, (expandedItems) => {
   const expandedItemsMap = /* @__PURE__ */ new Map();
   expandedItems.forEach((id) => {
@@ -35671,7 +34863,7 @@ var expansionSelectors = {
   })
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/selection/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/selection/selectors.js
 var selectedItemsSelector = createSelectorMemoized((state) => state.selectedItems, (selectedItemsRaw) => {
   if (Array.isArray(selectedItemsRaw)) {
     return selectedItemsRaw;
@@ -35740,7 +34932,7 @@ var selectionSelectors = {
   isItemSelectable: isItemSelectableSelector
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/focus/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/focus/selectors.js
 var defaultFocusableItemIdSelector = createSelectorMemoized(selectionSelectors.selectedItems, expansionSelectors.expandedItemsMap, itemsSelectors.itemMetaLookup, itemsSelectors.disabledItemFocusable, (state) => itemsSelectors.itemOrderedChildrenIds(state, null), (selectedItems, expandedItemsMap, itemMetaLookup, disabledItemsFocusable, orderedRootItemIds) => {
   const firstSelectedItem = selectedItems.find((itemId) => {
     if (!disabledItemsFocusable && isItemDisabled(itemMetaLookup, itemId)) {
@@ -35779,7 +34971,7 @@ var focusSelectors = {
   isItemFocused: createSelector2((state, itemId) => state.focusedItemId === itemId)
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/lazyLoading/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/lazyLoading/selectors.js
 var lazyLoadingSelectors = {
   /**
    * Checks if the lazy loaded state is empty.
@@ -35813,7 +35005,7 @@ var lazyLoadingSelectors = {
   })
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/selectors.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/selectors.js
 var labelSelectors = {
   /**
    * Checks whether an item is editable.
@@ -35837,7 +35029,7 @@ var labelSelectors = {
   isAnyItemBeingEdited: createSelector2((state) => !!state.editedItemId)
 };
 
-// node_modules/@mui/x-tree-view/esm/hooks/useTreeItemUtils/useTreeItemUtils.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/hooks/useTreeItemUtils/useTreeItemUtils.js
 var itemHasChildren = (reactChildren) => {
   if (Array.isArray(reactChildren)) {
     return reactChildren.length > 0 && reactChildren.some(itemHasChildren);
@@ -35972,12 +35164,12 @@ var useTreeItemUtils = ({
   };
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/TreeViewItemDepthContext/TreeViewItemDepthContext.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/TreeViewItemDepthContext/TreeViewItemDepthContext.js
 var React46 = __toESM(require_react(), 1);
 var TreeViewItemDepthContext = /* @__PURE__ */ React46.createContext(() => -1);
 if (true) TreeViewItemDepthContext.displayName = "TreeViewItemDepthContext";
 
-// node_modules/@mui/x-tree-view/esm/internals/utils/tree.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/utils/tree.js
 var getLastNavigableItemInArray = (state, items) => {
   let itemIndex = items.length - 1;
   while (itemIndex >= 0 && !itemsSelectors.canItemBeFocused(state, items[itemIndex])) {
@@ -36137,7 +35329,7 @@ var isTargetInDescendants = (target, itemRoot) => {
   return itemRoot !== target.closest('*[role="treeitem"]');
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/TreeViewExpansionPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/TreeViewExpansionPlugin.js
 var TreeViewExpansionPlugin = class {
   // We can't type `store`, otherwise we get the following TS error:
   // 'expansion' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
@@ -36257,7 +35449,7 @@ var TreeViewExpansionPlugin = class {
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/focus/TreeViewFocusPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/focus/TreeViewFocusPlugin.js
 var TreeViewFocusPlugin = class {
   // We can't type `store`, otherwise we get the following TS error:
   // 'focus' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
@@ -36336,26 +35528,31 @@ var TreeViewFocusPlugin = class {
       this.setFocusedItemId(null);
     });
     this.store = store;
-    this.store.registerStoreEffect(itemsSelectors.itemMetaLookup, () => {
-      const focusedItemId = focusSelectors.focusedItemId(store.state);
-      if (focusedItemId == null) {
+    let previousState = store.state;
+    this.store.subscribe((newState) => {
+      var _a, _b;
+      if (newState.itemMetaLookup === previousState.itemMetaLookup) {
+        previousState = newState;
         return;
       }
-      const hasItemBeenRemoved = !itemsSelectors.itemMeta(store.state, focusedItemId);
-      if (!hasItemBeenRemoved) {
+      const focusedItemId = focusSelectors.focusedItemId(newState);
+      if (focusedItemId == null || itemsSelectors.itemMeta(newState, focusedItemId)) {
+        previousState = newState;
         return;
       }
-      const defaultFocusableItemId = focusSelectors.defaultFocusableItemId(store.state);
-      if (defaultFocusableItemId == null) {
+      const checkItemInNewTree = (itemId) => itemId == null || !itemsSelectors.itemMeta(newState, itemId) ? null : itemId;
+      const itemToFocusId = (_b = (_a = checkItemInNewTree(getNextNavigableItem(previousState, focusedItemId))) != null ? _a : checkItemInNewTree(getPreviousNavigableItem(previousState, focusedItemId))) != null ? _b : getFirstNavigableItem(newState);
+      if (itemToFocusId == null) {
         this.setFocusedItemId(null);
-        return;
+      } else {
+        this.applyItemFocus(null, itemToFocusId);
       }
-      this.applyItemFocus(null, defaultFocusableItemId);
+      previousState = newState;
     });
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/selection/itemPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/selection/itemPlugin.js
 var selectorCheckboxSelectionStatus = createSelector2((state, itemId) => {
   if (selectionSelectors.isItemSelected(state, itemId)) {
     return "checked";
@@ -36446,7 +35643,7 @@ var useSelectionItemPlugin = ({
   };
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/selection/TreeViewSelectionPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/selection/TreeViewSelectionPlugin.js
 var TreeViewSelectionPlugin = class {
   // We can't type `store`, otherwise we get the following TS error:
   // 'selection' implicitly has type 'any' because it does not have a type annotation and is referenced directly or indirectly in its own initializer.
@@ -36752,7 +35949,7 @@ function getLookupFromArray(array) {
   return lookup;
 }
 
-// node_modules/@mui/x-tree-view/esm/useTreeItem/useTreeItem.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/useTreeItem/useTreeItem.js
 var depthSelector = (state, itemId, depthContext) => {
   if (typeof depthContext === "function") {
     return depthContext(state, itemId);
@@ -37006,7 +36203,7 @@ var useTreeItem = (parameters) => {
   };
 };
 
-// node_modules/@mui/x-tree-view/esm/TreeItem/treeItemClasses.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItem/treeItemClasses.js
 function getTreeItemUtilityClass(slot) {
   return generateUtilityClass("MuiTreeItem", slot);
 }
@@ -37030,11 +36227,11 @@ var treeItemClasses = generateUtilityClasses("MuiTreeItem", [
   "editing"
 ]);
 
-// node_modules/@mui/x-tree-view/esm/TreeItemIcon/TreeItemIcon.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItemIcon/TreeItemIcon.js
 var React48 = __toESM(require_react(), 1);
 var import_prop_types22 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/x-tree-view/esm/icons/icons.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/icons/icons.js
 var import_jsx_runtime28 = __toESM(require_jsx_runtime(), 1);
 var TreeViewExpandIcon = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime28.jsx)("path", {
   d: "M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
@@ -37043,7 +36240,7 @@ var TreeViewCollapseIcon = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime2
   d: "M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"
 }), "TreeViewCollapseIcon");
 
-// node_modules/@mui/x-tree-view/esm/TreeItemIcon/TreeItemIcon.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItemIcon/TreeItemIcon.js
 var import_jsx_runtime29 = __toESM(require_jsx_runtime(), 1);
 var _excluded = ["ownerState"];
 function pickIcon(treeItemIcon, treeViewIcon, fallback) {
@@ -37123,7 +36320,7 @@ true ? TreeItemIcon.propTypes = {
   }).isRequired
 } : void 0;
 
-// node_modules/@mui/x-tree-view/esm/TreeItemDragAndDropOverlay/TreeItemDragAndDropOverlay.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItemDragAndDropOverlay/TreeItemDragAndDropOverlay.js
 var import_prop_types23 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime30 = __toESM(require_jsx_runtime(), 1);
 var TreeItemDragAndDropOverlayRoot = styled_default("div", {
@@ -37190,7 +36387,7 @@ true ? TreeItemDragAndDropOverlay.propTypes = {
   style: import_prop_types23.default.object
 } : void 0;
 
-// node_modules/@mui/x-tree-view/esm/TreeItemProvider/TreeItemProvider.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItemProvider/TreeItemProvider.js
 var React49 = __toESM(require_react(), 1);
 var import_prop_types24 = __toESM(require_prop_types(), 1);
 var import_jsx_runtime31 = __toESM(require_jsx_runtime(), 1);
@@ -37224,7 +36421,7 @@ true ? TreeItemProvider.propTypes = {
   itemId: import_prop_types24.default.string.isRequired
 } : void 0;
 
-// node_modules/@mui/x-tree-view/esm/TreeItemLabelInput/TreeItemLabelInput.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItemLabelInput/TreeItemLabelInput.js
 var TreeItemLabelInput = styled_default("input", {
   name: "MuiTreeItem",
   slot: "LabelInput"
@@ -37242,7 +36439,7 @@ var TreeItemLabelInput = styled_default("input", {
   }
 }));
 
-// node_modules/@mui/x-tree-view/esm/TreeItem/TreeItem.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/TreeItem/TreeItem.js
 var import_jsx_runtime32 = __toESM(require_jsx_runtime(), 1);
 var _excluded2 = ["visible"];
 var _excluded22 = ["id", "itemId", "label", "disabled", "disableSelection", "children", "slots", "slotProps", "classes"];
@@ -37626,7 +36823,7 @@ true ? TreeItem.propTypes = {
   sx: import_prop_types25.default.oneOfType([import_prop_types25.default.arrayOf(import_prop_types25.default.oneOfType([import_prop_types25.default.func, import_prop_types25.default.object, import_prop_types25.default.bool])), import_prop_types25.default.func, import_prop_types25.default.object])
 } : void 0;
 
-// node_modules/@mui/x-tree-view/esm/internals/components/RichTreeViewItems.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/components/RichTreeViewItems.js
 var import_jsx_runtime33 = __toESM(require_jsx_runtime(), 1);
 var _excluded3 = ["ownerState"];
 var RichTreeViewItemsContext = /* @__PURE__ */ React51.createContext(null);
@@ -37691,7 +36888,7 @@ function RichTreeViewItems(props) {
   });
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/hooks/useTreeViewRootProps.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/hooks/useTreeViewRootProps.js
 function useTreeViewRootProps(store, forwardedProps, ref) {
   const treeId = useStore(store, idSelectors.treeId);
   const itemChildrenIndentation = useStore(store, itemsSelectors.itemChildrenIndentation);
@@ -37718,7 +36915,7 @@ function useTreeViewRootProps(store, forwardedProps, ref) {
   });
 }
 
-// node_modules/@mui/x-tree-view/esm/RichTreeView/useExtractRichTreeViewParameters.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/RichTreeView/useExtractRichTreeViewParameters.js
 var React52 = __toESM(require_react(), 1);
 var _excluded4 = ["apiRef", "slots", "slotProps", "disabledItemsFocusable", "items", "isItemDisabled", "isItemSelectionDisabled", "getItemLabel", "getItemChildren", "getItemId", "onItemClick", "itemChildrenIndentation", "id", "expandedItems", "defaultExpandedItems", "onExpandedItemsChange", "onItemExpansionToggle", "expansionTrigger", "disableSelection", "selectedItems", "defaultSelectedItems", "multiSelect", "checkboxSelection", "selectionPropagation", "onSelectedItemsChange", "onItemSelectionToggle", "onItemFocus", "onItemLabelChange", "isItemEditable"];
 function useExtractRichTreeViewParameters(props) {
@@ -37825,20 +37022,20 @@ function useExtractRichTreeViewParameters(props) {
   };
 }
 
-// node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js
+// node_modules/.pnpm/@base-ui+utils@0.2.6_@types+react@19.2.14_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/@base-ui/utils/esm/useIsoLayoutEffect.js
 var React53 = __toESM(require_react(), 1);
 var noop2 = () => {
 };
 var useIsoLayoutEffect = typeof document !== "undefined" ? React53.useLayoutEffect : noop2;
 
-// node_modules/@base-ui/utils/esm/useOnMount.js
+// node_modules/.pnpm/@base-ui+utils@0.2.6_@types+react@19.2.14_react-dom@19.2.4_react@19.2.4__react@19.2.4/node_modules/@base-ui/utils/esm/useOnMount.js
 var React54 = __toESM(require_react(), 1);
 var EMPTY2 = [];
 function useOnMount2(fn) {
   React54.useEffect(fn, EMPTY2);
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/hooks/useTreeViewStore.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/hooks/useTreeViewStore.js
 function useTreeViewStore(StoreClass, parameters) {
   const isRtl = useRtl();
   const store = useRefWithInit(() => new StoreClass(_extends({}, parameters, {
@@ -37851,7 +37048,7 @@ function useTreeViewStore(StoreClass, parameters) {
   return store;
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/itemPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/itemPlugin.js
 var React55 = __toESM(require_react(), 1);
 var useLabelEditingItemPlugin = ({
   props
@@ -37925,7 +37122,7 @@ var useLabelEditingItemPlugin = ({
   };
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/TreeViewLabelEditingPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/labelEditing/TreeViewLabelEditingPlugin.js
 var TreeViewLabelEditingPlugin = class {
   constructor(store) {
     __publicField(this, "buildPublicAPI", () => {
@@ -37972,7 +37169,7 @@ var TreeViewLabelEditingPlugin = class {
   }
 };
 
-// node_modules/@mui/x-internals/esm/EventManager/EventManager.js
+// node_modules/.pnpm/@mui+x-internals@8.26.0_@types+react@19.2.14_react@19.2.4/node_modules/@mui/x-internals/esm/EventManager/EventManager.js
 var EventManager = class {
   constructor() {
     __publicField(this, "maxListeners", 20);
@@ -38039,7 +37236,7 @@ var EventManager = class {
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/utils.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/expansion/utils.js
 var getExpansionTrigger = ({
   isItemEditable,
   expansionTrigger
@@ -38053,7 +37250,7 @@ var getExpansionTrigger = ({
   return "content";
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/MinimalTreeViewStore.utils.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/MinimalTreeViewStore.utils.js
 function deriveStateFromParameters(parameters) {
   var _a, _b, _c, _d, _e, _f;
   return {
@@ -38096,7 +37293,7 @@ var createTreeViewDefaultId = () => {
   return `mui-tree-view-${globalTreeViewDefaultId}`;
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/TimeoutManager.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/TimeoutManager.js
 var TimeoutManager = class {
   constructor() {
     __publicField(this, "timeoutIds", /* @__PURE__ */ (() => /* @__PURE__ */ new Map())());
@@ -38137,7 +37334,7 @@ var TimeoutManager = class {
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/plugins/keyboardNavigation/TreeViewKeyboardNavigationPlugin.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/plugins/keyboardNavigation/TreeViewKeyboardNavigationPlugin.js
 var TYPEAHEAD_TIMEOUT = 500;
 var TreeViewKeyboardNavigationPlugin = class {
   // We can't type `store`, otherwise we get the following TS error:
@@ -38396,7 +37593,7 @@ function createLabelMapFromItemMetaLookup(itemMetaLookup) {
   return labelMap;
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/TreeViewItemPluginManager.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/TreeViewItemPluginManager.js
 var TreeViewItemPluginManager = class {
   constructor() {
     __publicField(this, "itemPlugins", []);
@@ -38412,7 +37609,7 @@ var TreeViewItemPluginManager = class {
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/MinimalTreeViewStore.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/MinimalTreeViewStore/MinimalTreeViewStore.js
 var MinimalTreeViewStore = class extends Store {
   constructor(parameters, instanceName, mapper) {
     const minimalInitialState = createMinimalInitialState(parameters);
@@ -38517,10 +37714,10 @@ var MinimalTreeViewStore = class extends Store {
   }
 };
 function isSyntheticEvent(event) {
-  return event.isPropagationStopped !== void 0;
+  return (event == null ? void 0 : event.isPropagationStopped) !== void 0;
 }
 
-// node_modules/@mui/x-tree-view/esm/internals/RichTreeViewStore/RichTreeViewStore.utils.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/RichTreeViewStore/RichTreeViewStore.utils.js
 var deriveStateFromParameters2 = (parameters) => {
   var _a;
   return {
@@ -38539,7 +37736,7 @@ var parametersToStateMapper = {
   shouldIgnoreItemsStateUpdate: () => false
 };
 
-// node_modules/@mui/x-tree-view/esm/internals/RichTreeViewStore/RichTreeViewStore.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/internals/RichTreeViewStore/RichTreeViewStore.js
 var ExtendableRichTreeViewStore = class extends MinimalTreeViewStore {
   constructor() {
     super(...arguments);
@@ -38560,7 +37757,7 @@ var RichTreeViewStore = class extends ExtendableRichTreeViewStore {
   }
 };
 
-// node_modules/@mui/x-tree-view/esm/RichTreeView/RichTreeView.js
+// node_modules/.pnpm/@mui+x-tree-view@8.27.2_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emot_1b87090094adfed4e44cdd742b3b947e/node_modules/@mui/x-tree-view/esm/RichTreeView/RichTreeView.js
 var import_jsx_runtime34 = __toESM(require_jsx_runtime(), 1);
 var useThemeProps4 = createUseThemeProps("MuiRichTreeView");
 var useUtilityClasses12 = (ownerState) => {
@@ -38874,26 +38071,26 @@ true ? RichTreeView.propTypes = {
   sx: import_prop_types26.default.oneOfType([import_prop_types26.default.arrayOf(import_prop_types26.default.oneOfType([import_prop_types26.default.func, import_prop_types26.default.object, import_prop_types26.default.bool])), import_prop_types26.default.func, import_prop_types26.default.object])
 } : void 0;
 
-// node_modules/@mui/icons-material/esm/FolderRounded.js
+// node_modules/.pnpm/@mui+icons-material@7.3.9_@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2._dc2be6bc014bebdac88a574e3e02c144/node_modules/@mui/icons-material/esm/FolderRounded.js
 var import_jsx_runtime35 = __toESM(require_jsx_runtime(), 1);
 var FolderRounded_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime35.jsx)("path", {
   d: "M10.59 4.59C10.21 4.21 9.7 4 9.17 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8z"
 }), "FolderRounded");
 
-// node_modules/@mui/icons-material/esm/InsertDriveFile.js
+// node_modules/.pnpm/@mui+icons-material@7.3.9_@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2._dc2be6bc014bebdac88a574e3e02c144/node_modules/@mui/icons-material/esm/InsertDriveFile.js
 var import_jsx_runtime36 = __toESM(require_jsx_runtime(), 1);
 var InsertDriveFile_default = createSvgIcon(/* @__PURE__ */ (0, import_jsx_runtime36.jsx)("path", {
   d: "M6 2c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm7 7V3.5L18.5 9z"
 }), "InsertDriveFile");
 
-// node_modules/@mui/material/esm/Box/Box.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Box/Box.js
 var import_prop_types27 = __toESM(require_prop_types(), 1);
 
-// node_modules/@mui/material/esm/Box/boxClasses.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Box/boxClasses.js
 var boxClasses = generateUtilityClasses("MuiBox", ["root"]);
 var boxClasses_default = boxClasses;
 
-// node_modules/@mui/material/esm/Box/Box.js
+// node_modules/.pnpm/@mui+material@7.3.9_@emotion+react@11.14.0_@types+react@19.2.14_react@19.2.4__@emotion+_5efc65b7a21bb615fd4ee8d4bf58b896/node_modules/@mui/material/esm/Box/Box.js
 var defaultTheme2 = createTheme2();
 var Box = createBox({
   themeId: identifier_default,
@@ -38922,12 +38119,65 @@ true ? Box.propTypes = {
 } : void 0;
 var Box_default = Box;
 
+// src/utils/index.ts
+function hex(buf) {
+  const b = new Uint8Array(buf);
+  let s = "";
+  for (let i = 0; i < b.length; i++) s += b[i].toString(16).padStart(2, "0");
+  return s;
+}
+function digest(algo, data) {
+  return __async(this, null, function* () {
+    const ab = data.buffer.slice(
+      data.byteOffset,
+      data.byteOffset + data.byteLength
+    );
+    const d = yield crypto.subtle.digest(algo, ab);
+    return hex(d);
+  });
+}
+function calculateFileSha(content) {
+  return __async(this, null, function* () {
+    const data = content instanceof ArrayBuffer ? new Uint8Array(content) : content;
+    return digest("SHA-1", data);
+  });
+}
+function calculateTextSha(text) {
+  return __async(this, null, function* () {
+    const encoder = new TextEncoder();
+    const data = encoder.encode(text);
+    return digest("SHA-1", data);
+  });
+}
+var FlowershowError = class extends Error {
+  constructor(message) {
+    super(message);
+    this.name = "FlowershowError";
+  }
+};
+function isPlainTextExtension(ext) {
+  return ["md", "mdx", "json", "yaml", "yml", "css"].includes(ext);
+}
+function createSiteNotice(message, siteUrl) {
+  const frag = document.createDocumentFragment();
+  frag.append(document.createTextNode(`\u2705 ${message} `));
+  if (siteUrl) {
+    const a = document.createElement("a");
+    a.href = siteUrl;
+    a.textContent = "View site \u2192";
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    frag.append(a);
+  }
+  return frag;
+}
+
 // src/components/PublishStatusModal.tsx
 var import_jsx_runtime37 = __toESM(require_jsx_runtime());
 function buildFileTree(items) {
   const nodeMap = /* @__PURE__ */ new Map();
   items.forEach((item) => {
-    const path = item instanceof import_obsidian2.TFile ? item.path : item;
+    const path = item instanceof import_obsidian.TFile ? item.path : item;
     const parts = path.split("/");
     parts.forEach((part, i) => {
       const currentPath = parts.slice(0, i + 1).join("/");
@@ -39072,7 +38322,7 @@ var Section = ({
     ))
   ] });
 };
-var _PublishStatusModal = class _PublishStatusModal extends import_obsidian2.Modal {
+var _PublishStatusModal = class _PublishStatusModal extends import_obsidian.Modal {
   constructor(props) {
     super(props.app);
     this.root = null;
@@ -39145,7 +38395,6 @@ var PublishStatusModalContent = ({
       const id = yield publisher.getSiteId();
       setSiteId(id);
       const status = yield publisher.getPublishStatus();
-      console.log({ status });
       setPublishStatus(status);
       setPublishStatusResponseStatus("success");
       onStatusUpdate(status, id);
@@ -39160,14 +38409,10 @@ var PublishStatusModalContent = ({
   const refreshStatus = () => __async(null, null, function* () {
     yield fetchStatus();
   });
-  const handlePublishOperation = (operation, count, action) => __async(null, null, function* () {
+  const handlePublishOperation = (operation, action) => __async(null, null, function* () {
     setIsPublishing(true);
     try {
-      new import_obsidian2.Notice(
-        `\u231B ${operation === "publish" ? "Publishing" : "Unpublishing"} ${count} files...`
-      );
       const result = yield action();
-      console.log({ result });
       const frag = document.createDocumentFragment();
       frag.append(
         document.createTextNode(
@@ -39182,12 +38427,12 @@ var PublishStatusModalContent = ({
         a.rel = "noopener noreferrer";
         frag.append(a);
       }
-      new import_obsidian2.Notice(frag, 8e3);
+      new import_obsidian.Notice(frag, 8e3);
     } catch (e) {
       if (e instanceof FlowershowError) {
-        new import_obsidian2.Notice(`\u274C Couldn't ${operation} files: ${e.message}`);
+        new import_obsidian.Notice(`\u274C Couldn't ${operation} files: ${e.message}`);
       } else {
-        new import_obsidian2.Notice(
+        new import_obsidian.Notice(
           `\u274C Couldn't ${operation} files. See console errors for more info.`
         );
       }
@@ -39202,7 +38447,6 @@ var PublishStatusModalContent = ({
     const files = mapIdsToTFiles(newFiles, selectedIds);
     yield handlePublishOperation(
       "publish",
-      files.length,
       () => publisher.publishBatch({ filesToPublish: files })
     );
   });
@@ -39211,7 +38455,6 @@ var PublishStatusModalContent = ({
     const files = mapIdsToTFiles(changedFiles, selectedIds);
     yield handlePublishOperation(
       "publish",
-      files.length,
       () => publisher.publishBatch({ filesToPublish: files })
     );
   });
@@ -39219,7 +38462,6 @@ var PublishStatusModalContent = ({
     const paths = selectedBySection.Deleted;
     yield handlePublishOperation(
       "unpublish",
-      paths.length,
       () => publisher.publishBatch({ filesToDelete: paths })
     );
   });
@@ -39227,7 +38469,6 @@ var PublishStatusModalContent = ({
     const paths = selectedBySection.Unchanged;
     yield handlePublishOperation(
       "unpublish",
-      paths.length,
       () => publisher.publishBatch({ filesToDelete: paths })
     );
   });
@@ -39287,12 +38528,11 @@ var PublishStatusModalContent = ({
                   ];
                   const filesToDelete = publishStatus.deletedFiles;
                   if (!filesToDelete.length && !filesToPublish.length) {
-                    new import_obsidian2.Notice("\u274C Nothing new to publish or delete.");
+                    new import_obsidian.Notice("\u274C Nothing new to publish or delete.");
                     return;
                   }
                   yield handlePublishOperation(
                     "publish",
-                    filesToPublish.length + filesToDelete.length,
                     () => publisher.publishBatch({
                       filesToPublish,
                       filesToDelete
@@ -39441,98 +38681,602 @@ function mapIdsToTFiles(pool, ids) {
   return ids.map((id) => byPath.get(id)).filter((v) => !!v);
 }
 
-// src/components/UpdateModal.ts
+// src/constants.ts
+var flowershowIcon = `<path fill="currentColor" d="M53.333 72.292V55.795c11.494-2.963 20-13.366 20-25.795V10C63.291 10 54.548 15.561 50 23.77 45.452 15.561 36.712 10 26.667 10v20c0 12.429 8.509 22.832 20 25.795v16.497L20 45.625v3.334c0 7.363 2.988 14.029 7.813 18.854L50 90l22.188-22.188C77.012 62.988 80 56.322 80 48.959v-3.334L53.333 72.292zm13.334-54.479V30c0 8.691-5.573 16.107-13.334 18.861V36.667c0-8.691 5.573-16.106 13.334-18.854zM33.333 30V17.813c7.761 2.748 13.334 10.163 13.334 18.854v12.194C38.906 46.107 33.333 38.691 33.333 30z"/>`;
+
+// src/Publisher.ts
+var import_obsidian4 = require("obsidian");
+
+// src/FlowershowClient.ts
+var import_obsidian2 = require("obsidian");
+var FlowershowClient = class {
+  constructor(apiUrl, token2) {
+    this.apiUrl = apiUrl.replace(/\/$/, "");
+    this.token = token2;
+  }
+  /**
+   * Make an authenticated API request
+   */
+  apiRequest(_0) {
+    return __async(this, arguments, function* (endpoint, options = {}) {
+      const url = `${this.apiUrl}${endpoint}`;
+      const headers = __spreadProps(__spreadValues({}, options.headers), {
+        Authorization: `Bearer ${this.token}`,
+        "X-Flowershow-Plugin-Version": "4.0.15"
+      });
+      return (0, import_obsidian2.requestUrl)({
+        url,
+        method: options.method,
+        headers,
+        body: options.body,
+        throw: false
+      });
+    });
+  }
+  /**
+   * Get user info (to validate token)
+   */
+  getUserInfo() {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest("/api/user");
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to get user info: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Create a new site or get existing site by name
+   */
+  createSite(projectName, overwrite = false) {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest("/api/sites", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ projectName, overwrite })
+      });
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to create site: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Get a site by name
+   */
+  getSiteByName(username, siteName) {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest(
+        `/api/sites/${username}/${siteName}`
+      );
+      if (response.status === 404) {
+        return null;
+      }
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to fetch site: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Sync files with the server
+   * Compares local files with existing files and returns upload URLs for changed files
+   * @param dryRun If true, only returns what would happen without making changes
+   */
+  syncFiles(siteId, files, dryRun = false) {
+    return __async(this, null, function* () {
+      const url = `/api/sites/id/${siteId}/sync${dryRun ? "?dryRun=true" : ""}`;
+      const response = yield this.apiRequest(url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ files })
+      });
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to sync files: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Upload a file directly to R2 using presigned URL
+   */
+  uploadToR2(uploadUrl, content, contentType) {
+    return __async(this, null, function* () {
+      const buffer = content instanceof Uint8Array ? content.buffer.slice(
+        content.byteOffset,
+        content.byteOffset + content.byteLength
+      ) : content;
+      const response = yield (0, import_obsidian2.requestUrl)({
+        url: uploadUrl,
+        method: "PUT",
+        body: buffer,
+        headers: {
+          "Content-Type": contentType
+        },
+        throw: false
+      });
+      if (response.status >= 300) {
+        throw new Error(`Failed to upload file: ${response.status}`);
+      }
+      return true;
+    });
+  }
+  /**
+   * Get site processing status
+   */
+  getSiteStatus(siteId) {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest(`/api/sites/id/${siteId}/status`);
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to get site status: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Get all sites for the user
+   */
+  getSites() {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest("/api/sites");
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to fetch sites: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Publish specific files without affecting other files
+   * Use this when you want to publish only selected files
+   * @param siteId - Site ID
+   * @param files - Array of file metadata to publish
+   * @returns Upload URLs for the specified files
+   */
+  publishFiles(siteId, files) {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest(`/api/sites/id/${siteId}/files`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ files })
+      });
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to publish files: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+  /**
+   * Delete/unpublish specific files from the site
+   * @param siteId - Site ID
+   * @param paths - Array of file paths to delete
+   * @returns List of deleted and not found files
+   */
+  deleteFiles(siteId, paths) {
+    return __async(this, null, function* () {
+      const response = yield this.apiRequest(`/api/sites/id/${siteId}/files`, {
+        method: "DELETE",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ paths })
+      });
+      if (response.status >= 300) {
+        let error = {};
+        try {
+          error = response.json;
+        } catch (_) {
+        }
+        throw new Error(
+          error.message || `Failed to delete files: ${response.status}`
+        );
+      }
+      return response.json;
+    });
+  }
+};
+
+// src/utils/publisherHelpers.ts
 var import_obsidian3 = require("obsidian");
-var UpdateModal = class extends import_obsidian3.Modal {
-  constructor(app, onCloseCallback) {
-    super(app);
-    this.onCloseCallback = onCloseCallback || (() => {
+function normalizePath(path, rootDir) {
+  let normalizedPath = path.replace(/\\/g, "/").replace(/^\/+/, "");
+  if (rootDir) {
+    const rootDirNormalized = rootDir.replace(/\\/g, "/").replace(/^\/+|\/+$/g, "");
+    if (normalizedPath.startsWith(rootDirNormalized + "/")) {
+      normalizedPath = normalizedPath.slice(rootDirNormalized.length + 1);
+    } else if (normalizedPath === rootDirNormalized) {
+      normalizedPath = "";
+    }
+  }
+  return normalizedPath;
+}
+function isWithinRootDir(path, rootDir) {
+  if (!rootDir) {
+    return true;
+  }
+  const rootDirNormalized = rootDir.replace(/\\/g, "/").replace(/^\/+|\/+$/g, "");
+  const pathNormalized = path.replace(/\\/g, "/").replace(/^\/+/, "");
+  return pathNormalized.startsWith(rootDirNormalized + "/") || pathNormalized === rootDirNormalized;
+}
+function matchesExcludePatterns(path, excludePatterns) {
+  if (!excludePatterns || excludePatterns.length === 0) {
+    return false;
+  }
+  return excludePatterns.some((pattern) => {
+    try {
+      const regex = new RegExp(pattern);
+      return regex.test(path);
+    } catch (e) {
+      console.error(`Invalid regex pattern: ${pattern}`, e);
+      return false;
+    }
+  });
+}
+function hasPublishFalse(file, app) {
+  var _a;
+  if (file.extension !== "md" && file.extension !== "mdx") {
+    return false;
+  }
+  const cachedFile = app.metadataCache.getCache(file.path);
+  return ((_a = cachedFile == null ? void 0 : cachedFile.frontmatter) == null ? void 0 : _a["publish"]) === false;
+}
+function shouldSkipFile(file, app, rootDir, excludePatterns) {
+  return !isWithinRootDir(file.path, rootDir) || matchesExcludePatterns(file.path, excludePatterns) || hasPublishFalse(file, app);
+}
+function validatePublishFrontmatter(frontMatter) {
+  if (frontMatter && frontMatter["publish"] === false) {
+    new import_obsidian3.Notice("Note is marked as not publishable.");
+    return false;
+  }
+  return true;
+}
+
+// src/Publisher.ts
+var Publisher = class {
+  constructor(app, settings) {
+    this.siteId = null;
+    this.username = null;
+    this.app = app;
+    this.settings = settings;
+    this.client = new FlowershowClient(API_URL, this.settings.flowershowToken);
+  }
+  /** Get site name, defaulting to vault name if not set */
+  getSiteName() {
+    return this.settings.siteName || this.app.vault.getName();
+  }
+  /** Get username */
+  getUsername() {
+    return __async(this, null, function* () {
+      if (this.username) {
+        return this.username;
+      }
+      const userInfo = yield this.client.getUserInfo();
+      this.username = userInfo.username;
+      return this.username;
     });
   }
-  onOpen() {
-    const { contentEl } = this;
-    contentEl.empty();
-    contentEl.addClass("flowershow-update-modal");
-    contentEl.createEl("h2", { text: "\u{1F338} Flowershow Plugin 4.0" });
-    const content = contentEl.createEl("div", { cls: "update-modal-content" });
-    const actionRequired = content.createEl("div", {
-      cls: "update-modal-callout"
+  /** Get site ID (may return null if site hasn't been created yet) */
+  getSiteId() {
+    return __async(this, null, function* () {
+      if (this.siteId) {
+        return this.siteId;
+      }
+      const username = yield this.getUsername();
+      const existingSite = yield this.client.getSiteByName(
+        username,
+        this.getSiteName()
+      );
+      if (existingSite) {
+        this.siteId = existingSite.site.id;
+        return this.siteId;
+      }
+      return null;
     });
-    actionRequired.style.cssText = `
-			border: 1px solid var(--background-modifier-error-hover);
-			border-radius: 6px;
-			padding: 12px;
-			margin-bottom: 16px;
-		`;
-    actionRequired.innerHTML = `
-			<p style="margin: 0; font-weight: 600;">\u26A0\uFE0F Action required to continue publishing</p>
-			<p style="margin: 8px 0 0 0;">This update changes how the plugin connects to Flowershow. You have two options:</p>
-		`;
-    const changesList = content.createEl("div", {
-      cls: "update-modal-changes"
-    });
-    changesList.style.cssText = "margin-top: 16px;";
-    changesList.innerHTML = `
-			<p><strong>What changed:</strong></p>
-			<ul>
-				<li>The plugin now publishes <strong>directly to Flowershow</strong> \u2014 no GitHub repository required.</li>
-				<li>Faster publishing with immediate feedback.</li>
-			</ul>
-		`;
-    const optionsBox = content.createEl("div", { cls: "update-modal-options" });
-    optionsBox.style.cssText = "margin-top: 16px;";
-    optionsBox.innerHTML = `
-			<p><strong>Choose your workflow:</strong></p>
-			
-			<div style="background-color: var(--background-secondary); border-radius: 6px; padding: 12px; margin-bottom: 12px;">
-				<p style="margin: 0 0 8px 0; font-weight: 600;">Option A: Switch to Direct Publishing (Recommended)</p>
-				<ol style="margin: 8px 0 0 0; padding-left: 20px;">
-					<li><strong>Disconnect your site from GitHub</strong> in your <a href="https://cloud.flowershow.app/dashboard">dashboard</a> to prevent sync conflicts</li>
-					<li>Generate a Personal Access Token at <a href="https://cloud.flowershow.app/tokens">cloud.flowershow.app/tokens</a></li>
-					<li>Enter it in the plugin settings</li>
-					<li>If you used <code>rootDir</code> config before, set it up in the plugin settings</li>
-					<li>Publish as usual!</li>
-				</ol>
-			</div>
-			
-			<div style="background-color: var(--background-secondary); border-radius: 6px; padding: 12px;">
-				<p style="margin: 0 0 8px 0; font-weight: 600;">Option B: Keep Using GitHub</p>
-				<ol style="margin: 8px 0 0 0; padding-left: 20px;">
-					<li><strong>Uninstall this Flowershow plugin</strong></li>
-					<li>Use another tool (e.g. Obsidian Git plugin) to sync your vault to GitHub</li>
-					<li>Flowershow Cloud will continue to publish from your repository</li>
-				</ol>
-			</div>
-		`;
-    const learnMore = content.createEl("p");
-    learnMore.createEl("a", {
-      text: "Learn more about this update \u2192",
-      href: "https://flowershow.app/blog/announcing-obsidian-plugin-4"
-    });
-    const buttonContainer = contentEl.createEl("div", {
-      cls: "update-modal-buttons"
-    });
-    buttonContainer.style.cssText = "display: flex; justify-content: flex-end; margin-top: 20px;";
-    const gotItButton = buttonContainer.createEl("button", {
-      text: "Got it!",
-      cls: "mod-cta"
-    });
-    gotItButton.addEventListener("click", () => {
-      this.close();
-    });
-    contentEl.style.cssText = "max-width: 500px;";
   }
-  close() {
-    super.close();
-    this.onCloseCallback();
+  /** Get or create the site */
+  ensureSite() {
+    return __async(this, null, function* () {
+      const existingSiteId = yield this.getSiteId();
+      if (existingSiteId) {
+        return existingSiteId;
+      }
+      const { site } = yield this.client.createSite(this.getSiteName());
+      this.siteId = site.id;
+      return this.siteId;
+    });
+  }
+  /**
+   * Publish note and optionally its embeds
+   * @returns Site URL and publish status
+   */
+  publishSingleNoteWithEmbeds(file, withEmbeds = true) {
+    return __async(this, null, function* () {
+      var _a;
+      const cachedFile = this.app.metadataCache.getCache(file.path);
+      if (!cachedFile) {
+        throw new FlowershowError(`Note file ${file.path} not found!`);
+      }
+      const frontmatter = cachedFile.frontmatter;
+      if (frontmatter && !validatePublishFrontmatter(frontmatter)) {
+        throw new FlowershowError("Can't publish note with `publish: false`");
+      }
+      const filesToPublish = [file];
+      if (withEmbeds) {
+        const uniqueEmbeds = /* @__PURE__ */ new Map();
+        const markdown = yield this.app.vault.read(file);
+        (_a = cachedFile.embeds) == null ? void 0 : _a.forEach((embed) => {
+          const embedTFile = this.app.metadataCache.getFirstLinkpathDest(
+            embed.link,
+            markdown
+          );
+          if (embedTFile && !uniqueEmbeds.has(embedTFile.path)) {
+            uniqueEmbeds.set(embedTFile.path, embedTFile);
+          }
+        });
+        filesToPublish.push(...uniqueEmbeds.values());
+      }
+      return yield this.publishBatch({
+        filesToPublish
+      });
+    });
+  }
+  /**
+   * Publish multiple files
+   */
+  publishBatch(opts) {
+    return __async(this, null, function* () {
+      var _a, _b, _c, _d, _e, _f, _g, _h;
+      if (!((_a = opts.filesToPublish) == null ? void 0 : _a.length) && !((_b = opts.filesToDelete) == null ? void 0 : _b.length)) {
+        throw new FlowershowError("No files to delete or publish provided");
+      }
+      const totalPublish = (_d = (_c = opts.filesToPublish) == null ? void 0 : _c.length) != null ? _d : 0;
+      const totalDelete = (_f = (_e = opts.filesToDelete) == null ? void 0 : _e.length) != null ? _f : 0;
+      const total = totalPublish + totalDelete;
+      let done = 0;
+      const label = totalPublish > 0 ? "Publishing" : "Unpublishing";
+      const progress = new import_obsidian4.Notice(`\u231B ${label} (0/${total})...`, 0);
+      try {
+        const siteId = yield this.ensureSite();
+        if (opts.filesToDelete && opts.filesToDelete.length > 0) {
+          const normalizedPathsToDelete = opts.filesToDelete.map(
+            (path) => normalizePath(path, this.settings.rootDir)
+          );
+          const deleteResult = yield this.client.deleteFiles(
+            siteId,
+            normalizedPathsToDelete
+          );
+          if (deleteResult.notFound.length > 0) {
+            throw new FlowershowError(
+              `Failed to delete ${deleteResult.notFound.length} file(s): ${deleteResult.notFound.join(
+                ", "
+              )}. Files not found on server.`
+            );
+          }
+          done += totalDelete;
+          progress.setMessage(`\u231B ${label} (${done}/${total})...`);
+        }
+        if (opts.filesToPublish && opts.filesToPublish.length > 0) {
+          const fileMetadata = [];
+          const filesToProcess = opts.filesToPublish;
+          for (const file of filesToProcess) {
+            const normalizedPath = normalizePath(
+              file.path,
+              this.settings.rootDir
+            );
+            let sha;
+            if (isPlainTextExtension(file.extension)) {
+              const text = yield this.app.vault.cachedRead(file);
+              sha = yield calculateTextSha(text);
+            } else {
+              const bytes = yield this.app.vault.readBinary(file);
+              sha = yield calculateFileSha(bytes);
+            }
+            fileMetadata.push({
+              path: normalizedPath,
+              size: file.stat.size,
+              sha
+            });
+          }
+          const publishResult = yield this.client.publishFiles(
+            siteId,
+            fileMetadata
+          );
+          for (const uploadInfo of publishResult.files) {
+            const file = filesToProcess.find(
+              (f) => normalizePath(f.path, this.settings.rootDir) === uploadInfo.path
+            );
+            if (!file) continue;
+            let content;
+            if (isPlainTextExtension(file.extension)) {
+              const text = yield this.app.vault.cachedRead(file);
+              content = new TextEncoder().encode(text);
+            } else {
+              const bytes = yield this.app.vault.readBinary(file);
+              content = bytes;
+            }
+            yield this.client.uploadToR2(
+              uploadInfo.uploadUrl,
+              content,
+              uploadInfo.contentType
+            );
+            done++;
+            progress.setMessage(`\u231B ${label} (${done}/${total})...`);
+          }
+        }
+        progress.hide();
+        const username = yield this.getUsername();
+        const site = yield this.client.getSiteByName(
+          username,
+          this.getSiteName()
+        );
+        const siteUrl = (site == null ? void 0 : site.site.url) || "";
+        return {
+          siteUrl,
+          filesPublished: (((_g = opts.filesToPublish) == null ? void 0 : _g.length) || 0) + (((_h = opts.filesToDelete) == null ? void 0 : _h.length) || 0)
+        };
+      } catch (error) {
+        progress.hide();
+        throw error;
+      }
+    });
+  }
+  /** Get publish status */
+  getPublishStatus() {
+    return __async(this, null, function* () {
+      const unchangedFiles = [];
+      const changedFiles = [];
+      const deletedFiles = [];
+      const newFiles = [];
+      const username = yield this.getUsername();
+      const existingSite = yield this.client.getSiteByName(
+        username,
+        this.getSiteName()
+      );
+      if (!existingSite) {
+        const localFiles = this.app.vault.getFiles();
+        for (const file of localFiles) {
+          if (!shouldSkipFile(
+            file,
+            this.app,
+            this.settings.rootDir,
+            this.settings.excludePatterns
+          )) {
+            newFiles.push(file);
+          }
+        }
+        return { unchangedFiles, changedFiles, deletedFiles, newFiles };
+      }
+      const siteId = existingSite.site.id;
+      this.siteId = siteId;
+      try {
+        const localFiles = this.app.vault.getFiles();
+        const fileMetadata = [];
+        for (const file of localFiles) {
+          if (shouldSkipFile(
+            file,
+            this.app,
+            this.settings.rootDir,
+            this.settings.excludePatterns
+          )) {
+            continue;
+          }
+          const normalizedPath = normalizePath(file.path, this.settings.rootDir);
+          let sha;
+          if (isPlainTextExtension(file.extension)) {
+            const text = yield this.app.vault.cachedRead(file);
+            sha = yield calculateTextSha(text);
+          } else {
+            const bytes = yield this.app.vault.readBinary(file);
+            sha = yield calculateFileSha(bytes);
+          }
+          fileMetadata.push({
+            path: normalizedPath,
+            size: file.stat.size,
+            sha
+          });
+        }
+        const syncResult = yield this.client.syncFiles(
+          siteId,
+          fileMetadata,
+          true
+        );
+        for (const file of localFiles) {
+          if (shouldSkipFile(
+            file,
+            this.app,
+            this.settings.rootDir,
+            this.settings.excludePatterns
+          )) {
+            continue;
+          }
+          const normalizedPath = normalizePath(file.path, this.settings.rootDir);
+          if (syncResult.unchanged.includes(normalizedPath)) {
+            unchangedFiles.push(file);
+          } else if (syncResult.toUpdate.some((u) => u.path === normalizedPath)) {
+            changedFiles.push(file);
+          } else if (syncResult.toUpload.some((u) => u.path === normalizedPath)) {
+            newFiles.push(file);
+          }
+        }
+        deletedFiles.push(...syncResult.deleted);
+      } catch (error) {
+        console.error("Error getting publish status:", error);
+        const errorLocalFiles = this.app.vault.getFiles();
+        for (const file of errorLocalFiles) {
+          if (!shouldSkipFile(
+            file,
+            this.app,
+            this.settings.rootDir,
+            this.settings.excludePatterns
+          )) {
+            newFiles.push(file);
+          }
+        }
+      }
+      return { unchangedFiles, changedFiles, deletedFiles, newFiles };
+    });
   }
 };
 
 // src/SettingView.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 var SettingView = class {
   constructor(settingsRootElement, publisher, settings, saveSettings) {
-    this.debouncedSaveAndUpdate = (0, import_obsidian4.debounce)(
+    this.debouncedSaveAndUpdate = (0, import_obsidian5.debounce)(
       this.saveSiteSettingsAndUpdateEnv,
       500,
       true
@@ -39545,31 +39289,6 @@ var SettingView = class {
   }
   initialize() {
     this.settingsRootElement.empty();
-    const infoBox = this.settingsRootElement.createEl("div", {
-      cls: "dg-info-box"
-    });
-    infoBox.style.cssText = `
-			background-color: var(--background-modifier-info);
-			border: 1px solid var(--background-modifier-border);
-			border-radius: 8px;
-			padding: 16px;
-			margin-bottom: 20px;
-		`;
-    infoBox.createEl("div", {
-      text: "\u{1F338} New in v4.0",
-      cls: "dg-info-box-title"
-    }).style.cssText = `
-			font-weight: 600;
-			margin-bottom: 8px;
-			font-size: 1.1em;
-		`;
-    const infoContent = infoBox.createEl("div");
-    infoContent.innerHTML = `
-			<p style="margin: 0 0 8px 0;">The Flowershow plugin now publishes <strong>directly to Flowershow</strong> \u2014 no GitHub repository required.</p>
-			<p style="margin: 0 0 8px 0;">You'll need a <strong>Flowershow Personal Access Token</strong> to publish. Generate one at <a href="https://cloud.flowershow.app/tokens">cloud.flowershow.app/tokens</a>.</p>
-			<p style="margin: 0 0 8px 0;"><strong>Want to keep using GitHub?</strong> Use a separate tool (e.g. Obsidian Git) to sync your vault to GitHub. Flowershow Cloud will continue to publish from your repository.</p>
-			<p style="margin: 0;"><a href="https://flowershow.app/blog/announcing-obsidian-plugin-4">Learn more about this update \u2192</a></p>
-		`;
     const linkDiv = this.settingsRootElement.createEl("div");
     linkDiv.createEl("a", {
       text: "Sign up for Flowershow \u2192",
@@ -39593,7 +39312,7 @@ var SettingView = class {
       try {
         yield saveSettings();
       } catch (e) {
-        new import_obsidian4.Notice(
+        new import_obsidian5.Notice(
           "Failed to update settings. Make sure you have an internet connection."
         );
         updateFailed = true;
@@ -39618,7 +39337,7 @@ var SettingView = class {
       span.appendText("The token should start with ");
       span.createEl("code", { text: "fs_pat_" });
     });
-    new import_obsidian4.Setting(this.settingsRootElement).setName("Flowershow PAT Token").setDesc(desc).addText(
+    new import_obsidian5.Setting(this.settingsRootElement).setName("Flowershow PAT Token").setDesc(desc).addText(
       (text) => text.setPlaceholder("fs_pat_...").setValue(this.settings.flowershowToken).onChange((value) => __async(this, null, function* () {
         this.settings.flowershowToken = value;
         yield this.saveSettings();
@@ -39626,7 +39345,7 @@ var SettingView = class {
     );
   }
   initializeSiteNameSetting() {
-    new import_obsidian4.Setting(this.settingsRootElement).setName("Site Name").setDesc(
+    new import_obsidian5.Setting(this.settingsRootElement).setName("Site Name").setDesc(
       "Name of your Flowershow site (will be created if it doesn't exist)"
     ).addText(
       (text) => text.setPlaceholder("my-notes").setValue(this.settings.siteName).onChange((value) => __async(this, null, function* () {
@@ -39636,7 +39355,7 @@ var SettingView = class {
     );
   }
   initializeRootDirSetting() {
-    new import_obsidian4.Setting(this.settingsRootElement).setName("Root Directory").setDesc(
+    new import_obsidian5.Setting(this.settingsRootElement).setName("Root Directory").setDesc(
       "Publish only files within this folder. Leave empty to publish entire vault."
     ).addText(
       (text) => text.setPlaceholder("my-folder").setValue(this.settings.rootDir).onChange((value) => __async(this, null, function* () {
@@ -39650,7 +39369,7 @@ var SettingView = class {
     const settingContainer = this.settingsRootElement.createDiv(
       "exclude-patterns-container"
     );
-    new import_obsidian4.Setting(settingContainer).setName("Exclude Patterns").setDesc(
+    new import_obsidian5.Setting(settingContainer).setName("Exclude Patterns").setDesc(
       "Regex patterns to exclude files and folders from publishing. One pattern per line. Patterns match against the full path from vault root."
     ).addTextArea((textarea) => {
       textarea.setPlaceholder("^\\.git/\n^node_modules/\n\\.DS_Store$").setValue(this.settings.excludePatterns.join("\n")).onChange((value) => __async(this, null, function* () {
@@ -39675,11 +39394,8 @@ var SettingView = class {
   }
 };
 
-// src/constants.ts
-var flowershowIcon = `<path fill="currentColor" d="M53.333 72.292V55.795c11.494-2.963 20-13.366 20-25.795V10C63.291 10 54.548 15.561 50 23.77 45.452 15.561 36.712 10 26.667 10v20c0 12.429 8.509 22.832 20 25.795v16.497L20 45.625v3.334c0 7.363 2.988 14.029 7.813 18.854L50 90l22.188-22.188C77.012 62.988 80 56.322 80 48.959v-3.334L53.333 72.292zm13.334-54.479V30c0 8.691-5.573 16.107-13.334 18.861V36.667c0-8.691 5.573-16.106 13.334-18.854zM33.333 30V17.813c7.761 2.748 13.334 10.163 13.334 18.854v12.194C38.906 46.107 33.333 38.691 33.333 30z"/>`;
-
 // main.ts
-var Flowershow = class extends import_obsidian5.Plugin {
+var Flowershow = class extends import_obsidian6.Plugin {
   constructor(app, manifest) {
     super(app, manifest);
     this.startupAnalytics = [];
@@ -39691,19 +39407,18 @@ var Flowershow = class extends import_obsidian5.Plugin {
     return __async(this, null, function* () {
       this.logStartupEvent("Plugin Constructor ready, starting onload()");
       yield this.loadSettings();
-      this.showUpdateModalIfNeeded();
-      this.statusBarItem = this.addStatusBarItem();
-      this.statusBarItem.addClass("mod-clickable");
-      this.statusBarItem.createEl("span", { text: "\u{1F490}" });
-      this.statusBarItem.addEventListener("click", () => {
-        this.openPublishStatusModal();
-      });
-      const statusContainer = this.statusBarItem.createSpan();
-      this.statusBar = new PublishStatusBar(statusContainer);
-      this.publisher = new Publisher(this.app, this.settings, this.statusBar);
+      if (import_obsidian6.Platform.isDesktop) {
+        this.statusBarItem = this.addStatusBarItem();
+        this.statusBarItem.addClass("mod-clickable");
+        this.statusBarItem.createEl("span", { text: "\u{1F490}" });
+        this.statusBarItem.addEventListener("click", () => {
+          this.openPublishStatusModal();
+        });
+      }
+      this.publisher = new Publisher(this.app, this.settings);
       this.addSettingTab(new FlowershowSettingTab(this.app, this));
       yield this.addCommands();
-      (0, import_obsidian5.addIcon)("flowershow-icon", flowershowIcon);
+      (0, import_obsidian6.addIcon)("flowershow-icon", flowershowIcon);
       this.addRibbonIcon(
         "flowershow-icon",
         "Publish with Flowershow",
@@ -39726,7 +39441,7 @@ var Flowershow = class extends import_obsidian5.Plugin {
   saveSettings() {
     return __async(this, null, function* () {
       yield this.saveData(this.settings);
-      this.publisher = new Publisher(this.app, this.settings, this.statusBar);
+      this.publisher = new Publisher(this.app, this.settings);
       this.publishStatusModal = null;
     });
   }
@@ -39762,28 +39477,30 @@ var Flowershow = class extends import_obsidian5.Plugin {
       try {
         const currentFile = this.app.workspace.getActiveFile();
         if (!currentFile) {
-          new import_obsidian5.Notice("No file is open. Open a note and try again.");
+          new import_obsidian6.Notice("No file is open. Open a note and try again.");
           return;
         }
         if (currentFile.extension !== "md") {
-          new import_obsidian5.Notice(
+          new import_obsidian6.Notice(
             "This isn't a Markdown file. Open a .md note and try again."
           );
           return;
         }
-        new import_obsidian5.Notice("\u231B Publishing note...");
-        const result = yield this.publisher.publishSingleNoteWithEmbeds(currentFile);
+        new import_obsidian6.Notice("\u231B Publishing note...");
+        const result = yield this.publisher.publishSingleNoteWithEmbeds(
+          currentFile
+        );
         const frag = createSiteNotice(
           `Published ${result.filesPublished} file(s).`,
           result.siteUrl
         );
-        new import_obsidian5.Notice(frag, 8e3);
+        new import_obsidian6.Notice(frag, 8e3);
       } catch (e) {
         console.error(e);
         if (e instanceof FlowershowError) {
-          new import_obsidian5.Notice(`\u274C Can't publish note: ${e.message}`);
+          new import_obsidian6.Notice(`\u274C Can't publish note: ${e.message}`);
         } else {
-          new import_obsidian5.Notice(`\u274C Can't publish note.`);
+          new import_obsidian6.Notice(`\u274C Can't publish note.`);
         }
         throw e;
       }
@@ -39797,7 +39514,7 @@ var Flowershow = class extends import_obsidian5.Plugin {
         const filesToDelete = deletedFiles;
         const filesToPublish = changedFiles.concat(newFiles);
         if (!filesToDelete.length && !filesToPublish.length) {
-          new import_obsidian5.Notice("\u274C Nothing new to publish or delete.");
+          new import_obsidian6.Notice("\u274C Nothing new to publish or delete.");
           return;
         }
         const result = yield this.publisher.publishBatch({
@@ -39808,13 +39525,13 @@ var Flowershow = class extends import_obsidian5.Plugin {
           `Published ${result.filesPublished} file(s).`,
           result.siteUrl
         );
-        new import_obsidian5.Notice(frag, 8e3);
+        new import_obsidian6.Notice(frag, 8e3);
       } catch (e) {
         console.error(e);
         if (e instanceof FlowershowError) {
-          new import_obsidian5.Notice(`\u274C Can't publish notes: ${e.message}`);
+          new import_obsidian6.Notice(`\u274C Can't publish notes: ${e.message}`);
         } else {
-          new import_obsidian5.Notice(
+          new import_obsidian6.Notice(
             "\u274C Can't publish notes. Check console errors for more info."
           );
         }
@@ -39840,17 +39557,22 @@ Total: ${timestamp - this.loadTimestamp}ms Delta: ${timestamp - this.lastLogTime
     );
     this.lastLogTimestamp = timestamp;
   }
-  showUpdateModalIfNeeded() {
-    if (!this.settings.lastSeenVersion || this.settings.lastSeenVersion < "4.0.0") {
-      const modal = new UpdateModal(this.app, () => __async(this, null, function* () {
-        this.settings.lastSeenVersion = this.manifest.version;
-        yield this.saveSettings();
-      }));
-      modal.open();
-    }
-  }
+  // private showUpdateModalIfNeeded() {
+  //   // Show modal if user hasn't seen any version yet (new user or upgrading from pre-4.0)
+  //   if (
+  //     !this.settings.lastSeenVersion ||
+  //     this.settings.lastSeenVersion < "4.0.0"
+  //   ) {
+  //     const modal = new UpdateModal(this.app, async () => {
+  //       // Save current version after modal is closed
+  //       this.settings.lastSeenVersion = this.manifest.version;
+  //       await this.saveSettings();
+  //     });
+  //     modal.open();
+  //   }
+  // }
 };
-var FlowershowSettingTab = class extends import_obsidian5.PluginSettingTab {
+var FlowershowSettingTab = class extends import_obsidian6.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -39916,7 +39638,6 @@ react-dom/cjs/react-dom-client.development.js:
    *)
 
 react-is/cjs/react-is.development.js:
-react-is/cjs/react-is.development.js:
   (** @license React v16.13.1
    * react-is.development.js
    *
@@ -39979,7 +39700,7 @@ react/cjs/react-jsx-runtime.development.js:
 
 @mui/styled-engine/esm/index.js:
   (**
-   * @mui/styled-engine v7.3.7
+   * @mui/styled-engine v7.3.9
    *
    * @license MIT
    * This source code is licensed under the MIT license found in the
@@ -39988,7 +39709,7 @@ react/cjs/react-jsx-runtime.development.js:
 
 @mui/system/esm/index.js:
   (**
-   * @mui/system v7.3.7
+   * @mui/system v7.3.9
    *
    * @license MIT
    * This source code is licensed under the MIT license found in the
@@ -39997,7 +39718,7 @@ react/cjs/react-jsx-runtime.development.js:
 
 @mui/material/esm/index.js:
   (**
-   * @mui/material v7.3.7
+   * @mui/material v7.3.9
    *
    * @license MIT
    * This source code is licensed under the MIT license found in the

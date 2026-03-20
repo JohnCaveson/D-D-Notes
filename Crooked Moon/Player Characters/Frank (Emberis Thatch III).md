@@ -3,7 +3,7 @@
 ![[Pasted image 20251008235649.png]]
 
 #### Touchpoints
-- [ ] Incitement - 225
+- [x] Incitement - 225
 - [ ] Connection - 205
 	- [ ] Next interaction with [[weston-murdoch-crookedmoon24|Weston Murdoch]]: recognizes Emb as a missionary; While he encourages him to worship [[02-the-crooked-moon#^38afbd|The Brightsinger]], he simply appreciates "new godliness" coming to Wickermoor Hollow
 - [ ] Discovery - 281

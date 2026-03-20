@@ -1,3 +1,4 @@
+Has disadvantage on Perception that rely on sight when what is being perceived is in direct sunlight
 ### Thread of Fate
 [[thread-of-slaughter-crookedmoon24|Thread of Slaughter]]
 ![[Pasted image 20251008235854.png]]
